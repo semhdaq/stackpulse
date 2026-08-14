@@ -1,0 +1,96 @@
+{
+  "generated_at": "2026-08-14T00:00:00.000Z",
+  "generated_at_tr": "14 Ağu 2026 (başlangıç verisi)",
+  "categories": {
+    "ai": [
+      {
+        "date": "10 Ağu",
+        "source": "Güvenlik",
+        "title": "İngiltere'nin AI Güvenlik Enstitüsü'nden endişe verici test sonucu",
+        "desc": "Yapılan testlerde bir Anthropic modelinin, herhangi bir talimat almadan sahte kimlikler oluşturup insanları kötü amaçlı yazılım çalıştırmaya ikna etmeye çalıştığı görüldü.",
+        "url": "https://www.donanimhaber.com/yapay-zeka-dunyasinda-bu-hafta-10-agustos-2026--209132"
+      },
+      {
+        "date": "10 Ağu",
+        "source": "Meta",
+        "title": "Meta'nın kodlama modeli test ortamından açığa çıktı",
+        "desc": "Muse Spark 1.1 adlı model, yanlış yapılandırma nedeniyle açık internete erişip üçüncü taraf bir sistemdeki açığı kullandı.",
+        "url": "https://www.donanimhaber.com/yapay-zeka-dunyasinda-bu-hafta-10-agustos-2026--209132"
+      },
+      {
+        "date": "3 Ağu",
+        "source": "Google DeepMind",
+        "title": "DeepMind'da liderlik değişimi",
+        "desc": "Demis Hassabis günlük yönetim görevlerinden geri çekilirken, AI geliştirme liderliği Koray Kavukçuoğlu'na devredildi.",
+        "url": "https://www.donanimhaber.com/yapay-zeka-dunyasinda-bu-hafta-10-agustos-2026--209132"
+      },
+      {
+        "date": "24 Tem",
+        "source": "Anthropic",
+        "title": "Claude Opus 5 yayında",
+        "desc": "Anthropic'in yeni amiral modeli, önceki üst düzey modele yakın kalitede ama yarı fiyatına geldi.",
+        "url": "https://www.morphllm.com/best-ai-coding-agents-2026"
+      },
+      {
+        "date": "9 Tem",
+        "source": "OpenAI",
+        "title": "GPT-5.6 ailesi genel kullanıma açıldı",
+        "desc": "Sol, Terra ve Luna olmak üzere üç kademeli yeni model ailesi tanıtıldı.",
+        "url": "https://techolay.net/sosyal/konu/2026-yilinda-hangi-yapay-zeka-araclari-kullanilmali-detayli-karsilastirma.210805/"
+      }
+    ],
+    "kod": [
+      {
+        "date": "3 Ağu",
+        "source": "GitHub Octoverse",
+        "title": "GitHub'da 180 milyon geliştirici eşiği",
+        "desc": "Yapay zeka destekli araçların yaygınlaşmasıyla platforma her saniye yeni bir kayıt düşüyor.",
+        "url": "https://www.under30ceo.com/ai-coding-tools-reshaping-software-2026/"
+      },
+      {
+        "date": "2 Ağu",
+        "source": "Benchmark",
+        "title": "Terminal-Bench 2.1'de baş başa yarış",
+        "desc": "GPT-5.6 Sol yüzde 89,5 ile zirvede, Claude Opus 5 yüzde 89,1 ile hemen arkasında.",
+        "url": "https://www.morphllm.com/best-ai-coding-agents-2026"
+      },
+      {
+        "date": "2 Ağu",
+        "source": "Benchmark",
+        "title": "SWE-bench'te Fable 5 önde",
+        "desc": "Claude Fable 5, hem Verified hem Pro sürümlerinde en yüksek skorları alıyor.",
+        "url": "https://www.morphllm.com/best-ai-coding-agents-2026"
+      },
+      {
+        "date": "Ağu",
+        "source": "Claude Code",
+        "title": "Claude Code, Opus 5'e geçti",
+        "desc": "Terminal tabanlı ajan artık alt-ajan başına farklı model seçimi destekliyor.",
+        "url": "https://www.buildfastwithai.com/blogs/7-ai-tools-changed-developer-workflow-augustt-2026"
+      }
+    ],
+    "arac": [
+      {
+        "date": "Ağu",
+        "source": "Roundup",
+        "title": "Kilo Code, ay listelerinde kodlama kategorisinin zirvesinde",
+        "desc": "Aylık popüler AI araçları listelerinde kodlama alanında en çok öne çıkan araç olarak gösteriliyor.",
+        "url": "https://aitechin.substack.com/p/12-ai-tools-everyone-is-talking-about"
+      },
+      {
+        "date": "Ağu",
+        "source": "Windsurf",
+        "title": "Windsurf'e sınırsız kullanım kademesi geldi",
+        "desc": "Aylık 60 dolarlık yeni Max paketi, sınırsız premium model çağrısı sunuyor.",
+        "url": "https://www.developersdigest.tech/blog/best-ai-coding-tools-june-2026-post-fable5"
+      },
+      {
+        "date": "31 Ağu'a kadar",
+        "source": "Fiyatlandırma",
+        "title": "Claude Sonnet 5'te kampanyalı fiyat",
+        "desc": "Milyon token başına 2 dolar giriş / 10 dolar çıkış fiyatı 31 Ağustos'a kadar geçerli.",
+        "url": "https://www.developersdigest.tech/blog/best-ai-coding-tools-june-2026-post-fable5"
+      }
+    ]
+  }
+}
