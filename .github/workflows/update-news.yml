@@ -1,0 +1,34 @@
+name: Haberleri Güncelle
+
+on:
+  schedule:
+    # Her 6 saatte bir çalışır (UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo'yu al
+        uses: actions/checkout@v4
+
+      - name: Node.js kur
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Bağımlılıkları yükle
+        run: npm install
+
+      - name: Haberleri çek
+        run: node scripts/fetch-news.js
+
+      - name: Değişiklik varsa commit'le ve gönder
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: haberleri otomatik güncelle"
+          file_pattern: data/news.json
