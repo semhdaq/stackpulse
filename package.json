@@ -1,0 +1,12 @@
+{
+  "name": "stackpulse-news-fetcher",
+  "version": "1.0.0",
+  "private": true,
+  "description": "stackpulse için RSS besleme çekme scripti",
+  "scripts": {
+    "fetch-news": "node scripts/fetch-news.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
