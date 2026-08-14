@@ -1,59 +1,80 @@
 {
-  "generated_at": "2026-08-14T12:34:30.398Z",
+  "generated_at": "2026-08-14T18:37:33.786Z",
   "generated_at_tr": "14 Ağu 2026",
   "categories": {
     "ai": [
       {
         "date": "14 Ağu",
-        "source": "The Verge",
-        "title": "Apple trained its own AI model for China with help from Alibaba",
-        "desc": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington.\nThe China-focus",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "MIT Tech Review",
-        "title": "This scientist is helping build a missing map of childhood",
-        "desc": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cel",
-        "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "MIT Tech Review",
-        "title": "Job titles of the future: Space travel agent",
-        "desc": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated everything from the construction of a client’s superyacht to ",
-        "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/"
-      },
-      {
-        "date": "14 Ağu",
         "source": "Stack Overflow Blog",
-        "title": "Solving integration woes with a hackathon",
-        "desc": "Ryan welcomes Meryll Blanchet,  Director of Engineering for Adobe Brand Visibility, to chat about Adobe’s recent acquisition of Semrush, how Adobe Brand Visibility was born from Semrush’s AI visibility product and Adobe’",
-        "url": "https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/"
+        "title": "No Dumb Questions: What is AI context architecture? Why not just build your own?",
+        "desc": "In this No Dumb Questions, Phoebe asks Stack’s Engineering Manager Doug Whitley and Product Manager Ash Zade everything she wants to know about AI context architecture. What exactly is it? Why is it so important? What ma",
+        "url": "https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy/"
       },
       {
-        "date": "13 Ağu",
+        "date": "14 Ağu",
         "source": "The Verge",
-        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-        "desc": "Mico is headed to Learn Live. | Image: Microsoft\t\n\nMicrosoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to ",
-        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired"
+        "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+        "desc": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator,",
+        "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
       },
       {
-        "date": "13 Ağu",
+        "date": "14 Ağu",
         "source": "TechCrunch",
-        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-        "desc": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
+        "title": "Google will now allow users to remove visible watermark from its AI generations",
+        "desc": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
       },
       {
-        "date": "13 Ağu",
+        "date": "14 Ağu",
         "source": "TechCrunch",
-        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-        "desc": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-        "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
+        "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+        "desc": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release ",
+        "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
+      },
+      {
+        "date": "14 Ağu",
+        "source": "TechCrunch",
+        "title": "Kog is going deeper to squeeze more inference out of GPUs",
+        "desc": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+        "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
+      },
+      {
+        "date": "14 Ağu",
+        "source": "TechCrunch",
+        "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+        "desc": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+        "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
+      },
+      {
+        "date": "14 Ağu",
+        "source": "TechCrunch",
+        "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+        "desc": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release ",
+        "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/"
       }
     ],
     "kod": [
+      {
+        "date": "14 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+        "desc": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
+        "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/"
+      },
+      {
+        "date": "14 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+        "desc": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
+        "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/"
+      },
+      {
+        "date": "14 Ağu",
+        "source": "MIT Tech Review",
+        "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The p",
+        "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/"
+      },
       {
         "date": "13 Ağu",
         "source": "Simon Willison",
@@ -81,30 +102,23 @@
         "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
         "desc": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300.\nThe post Your guide to GitHub Universe 2026 is here: The sched",
         "url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/"
-      },
-      {
-        "date": "13 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
-        "desc": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
-        "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/"
-      },
-      {
-        "date": "13 Ağu",
-        "source": "TechCrunch",
-        "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-        "desc": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-        "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/"
-      },
-      {
-        "date": "13 Ağu",
-        "source": "MIT Tech Review",
-        "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-        "desc": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid ",
-        "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
       }
     ],
     "arac": [
+      {
+        "date": "14 Ağu",
+        "source": "The Verge",
+        "title": "Mark Zuckerberg has an Instagzam",
+        "desc": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it s",
+        "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast"
+      },
+      {
+        "date": "14 Ağu",
+        "source": "GitHub Blog",
+        "title": "How to bring your software delivery workflow into GitHub with agent apps",
+        "desc": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. \nThe post How to bring your software delivery workflow into GitHub with agent apps appea",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/"
+      },
       {
         "date": "14 Ağu",
         "source": "MIT Tech Review",
@@ -139,20 +153,6 @@
         "title": "Suno Studio 2.0",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/suno"
-      },
-      {
-        "date": "13 Ağu",
-        "source": "Product Hunt",
-        "title": "Compass Calendar",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/compass-calendar"
-      },
-      {
-        "date": "13 Ağu",
-        "source": "Product Hunt",
-        "title": "Freebuff",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/freebuff-2"
       }
     ]
   }
