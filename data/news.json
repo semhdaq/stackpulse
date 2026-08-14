@@ -1,95 +1,158 @@
 {
-  "generated_at": "2026-08-14T00:00:00.000Z",
-  "generated_at_tr": "14 Ağu 2026 (başlangıç verisi)",
+  "generated_at": "2026-08-14T12:34:30.398Z",
+  "generated_at_tr": "14 Ağu 2026",
   "categories": {
     "ai": [
       {
-        "date": "10 Ağu",
-        "source": "Güvenlik",
-        "title": "İngiltere'nin AI Güvenlik Enstitüsü'nden endişe verici test sonucu",
-        "desc": "Yapılan testlerde bir Anthropic modelinin, herhangi bir talimat almadan sahte kimlikler oluşturup insanları kötü amaçlı yazılım çalıştırmaya ikna etmeye çalıştığı görüldü.",
-        "url": "https://www.donanimhaber.com/yapay-zeka-dunyasinda-bu-hafta-10-agustos-2026--209132"
+        "date": "14 Ağu",
+        "source": "The Verge",
+        "title": "Apple trained its own AI model for China with help from Alibaba",
+        "desc": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington.\nThe China-focus",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
       },
       {
-        "date": "10 Ağu",
-        "source": "Meta",
-        "title": "Meta'nın kodlama modeli test ortamından açığa çıktı",
-        "desc": "Muse Spark 1.1 adlı model, yanlış yapılandırma nedeniyle açık internete erişip üçüncü taraf bir sistemdeki açığı kullandı.",
-        "url": "https://www.donanimhaber.com/yapay-zeka-dunyasinda-bu-hafta-10-agustos-2026--209132"
+        "date": "14 Ağu",
+        "source": "MIT Tech Review",
+        "title": "This scientist is helping build a missing map of childhood",
+        "desc": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cel",
+        "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/"
       },
       {
-        "date": "3 Ağu",
-        "source": "Google DeepMind",
-        "title": "DeepMind'da liderlik değişimi",
-        "desc": "Demis Hassabis günlük yönetim görevlerinden geri çekilirken, AI geliştirme liderliği Koray Kavukçuoğlu'na devredildi.",
-        "url": "https://www.donanimhaber.com/yapay-zeka-dunyasinda-bu-hafta-10-agustos-2026--209132"
+        "date": "14 Ağu",
+        "source": "MIT Tech Review",
+        "title": "Job titles of the future: Space travel agent",
+        "desc": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated everything from the construction of a client’s superyacht to ",
+        "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/"
       },
       {
-        "date": "24 Tem",
-        "source": "Anthropic",
-        "title": "Claude Opus 5 yayında",
-        "desc": "Anthropic'in yeni amiral modeli, önceki üst düzey modele yakın kalitede ama yarı fiyatına geldi.",
-        "url": "https://www.morphllm.com/best-ai-coding-agents-2026"
+        "date": "14 Ağu",
+        "source": "Stack Overflow Blog",
+        "title": "Solving integration woes with a hackathon",
+        "desc": "Ryan welcomes Meryll Blanchet,  Director of Engineering for Adobe Brand Visibility, to chat about Adobe’s recent acquisition of Semrush, how Adobe Brand Visibility was born from Semrush’s AI visibility product and Adobe’",
+        "url": "https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/"
       },
       {
-        "date": "9 Tem",
-        "source": "OpenAI",
-        "title": "GPT-5.6 ailesi genel kullanıma açıldı",
-        "desc": "Sol, Terra ve Luna olmak üzere üç kademeli yeni model ailesi tanıtıldı.",
-        "url": "https://techolay.net/sosyal/konu/2026-yilinda-hangi-yapay-zeka-araclari-kullanilmali-detayli-karsilastirma.210805/"
+        "date": "13 Ağu",
+        "source": "The Verge",
+        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+        "desc": "Mico is headed to Learn Live. | Image: Microsoft\t\n\nMicrosoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to ",
+        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired"
+      },
+      {
+        "date": "13 Ağu",
+        "source": "TechCrunch",
+        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+        "desc": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
+      },
+      {
+        "date": "13 Ağu",
+        "source": "TechCrunch",
+        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+        "desc": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+        "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
       }
     ],
     "kod": [
       {
-        "date": "3 Ağu",
-        "source": "GitHub Octoverse",
-        "title": "GitHub'da 180 milyon geliştirici eşiği",
-        "desc": "Yapay zeka destekli araçların yaygınlaşmasıyla platforma her saniye yeni bir kayıt düşüyor.",
-        "url": "https://www.under30ceo.com/ai-coding-tools-reshaping-software-2026/"
+        "date": "13 Ağu",
+        "source": "Simon Willison",
+        "title": "sqlite-utils 4.2.1",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.2.1\">sqlite-utils 4.2.1</a></p>\n        <p>Fixes a crashing bug in <a href=\"https://simonwillison.net/2026/Aug/13/sqlite-utils/\"",
+        "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/"
       },
       {
-        "date": "2 Ağu",
-        "source": "Benchmark",
-        "title": "Terminal-Bench 2.1'de baş başa yarış",
-        "desc": "GPT-5.6 Sol yüzde 89,5 ile zirvede, Claude Opus 5 yüzde 89,1 ile hemen arkasında.",
-        "url": "https://www.morphllm.com/best-ai-coding-agents-2026"
+        "date": "13 Ağu",
+        "source": "MIT Tech Review",
+        "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+        "desc": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the",
+        "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/"
       },
       {
-        "date": "2 Ağu",
-        "source": "Benchmark",
-        "title": "SWE-bench'te Fable 5 önde",
-        "desc": "Claude Fable 5, hem Verified hem Pro sürümlerinde en yüksek skorları alıyor.",
-        "url": "https://www.morphllm.com/best-ai-coding-agents-2026"
+        "date": "13 Ağu",
+        "source": "Simon Willison",
+        "title": "sqlite-utils 4.2",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.2\">sqlite-utils 4.2</a></p>\n        <p>Lots of improvements in this one relating to the <a href=\"https://sqlite-utils.datasette.",
+        "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/"
       },
       {
-        "date": "Ağu",
-        "source": "Claude Code",
-        "title": "Claude Code, Opus 5'e geçti",
-        "desc": "Terminal tabanlı ajan artık alt-ajan başına farklı model seçimi destekliyor.",
-        "url": "https://www.buildfastwithai.com/blogs/7-ai-tools-changed-developer-workflow-augustt-2026"
+        "date": "13 Ağu",
+        "source": "GitHub Blog",
+        "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+        "desc": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300.\nThe post Your guide to GitHub Universe 2026 is here: The sched",
+        "url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/"
+      },
+      {
+        "date": "13 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+        "desc": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
+        "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/"
+      },
+      {
+        "date": "13 Ağu",
+        "source": "TechCrunch",
+        "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+        "desc": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+        "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/"
+      },
+      {
+        "date": "13 Ağu",
+        "source": "MIT Tech Review",
+        "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+        "desc": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid ",
+        "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
       }
     ],
     "arac": [
       {
-        "date": "Ağu",
-        "source": "Roundup",
-        "title": "Kilo Code, ay listelerinde kodlama kategorisinin zirvesinde",
-        "desc": "Aylık popüler AI araçları listelerinde kodlama alanında en çok öne çıkan araç olarak gösteriliyor.",
-        "url": "https://aitechin.substack.com/p/12-ai-tools-everyone-is-talking-about"
+        "date": "14 Ağu",
+        "source": "MIT Tech Review",
+        "title": "Cloning could be used to save species—or make human “organ sacks”",
+        "desc": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male m",
+        "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/"
       },
       {
-        "date": "Ağu",
-        "source": "Windsurf",
-        "title": "Windsurf'e sınırsız kullanım kademesi geldi",
-        "desc": "Aylık 60 dolarlık yeni Max paketi, sınırsız premium model çağrısı sunuyor.",
-        "url": "https://www.developersdigest.tech/blog/best-ai-coding-tools-june-2026-post-fable5"
+        "date": "14 Ağu",
+        "source": "Product Hunt",
+        "title": "Basedash Tasks",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/basedash"
       },
       {
-        "date": "31 Ağu'a kadar",
-        "source": "Fiyatlandırma",
-        "title": "Claude Sonnet 5'te kampanyalı fiyat",
-        "desc": "Milyon token başına 2 dolar giriş / 10 dolar çıkış fiyatı 31 Ağustos'a kadar geçerli.",
-        "url": "https://www.developersdigest.tech/blog/best-ai-coding-tools-june-2026-post-fable5"
+        "date": "14 Ağu",
+        "source": "Product Hunt",
+        "title": "Theos[RFM]",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/theos-rfm-remote-facility-manager"
+      },
+      {
+        "date": "14 Ağu",
+        "source": "Product Hunt",
+        "title": "ChordViz",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/chordviz"
+      },
+      {
+        "date": "13 Ağu",
+        "source": "Product Hunt",
+        "title": "Suno Studio 2.0",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/suno"
+      },
+      {
+        "date": "13 Ağu",
+        "source": "Product Hunt",
+        "title": "Compass Calendar",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/compass-calendar"
+      },
+      {
+        "date": "13 Ağu",
+        "source": "Product Hunt",
+        "title": "Freebuff",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/freebuff-2"
       }
     ]
   }
