@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T18:37:33.786Z",
-  "generated_at_tr": "14 Ağu 2026",
+  "generated_at": "2026-08-15T00:29:31.149Z",
+  "generated_at_tr": "15 Ağu 2026",
   "categories": {
     "ai": [
       {
@@ -56,17 +56,10 @@
     "kod": [
       {
         "date": "14 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
-        "desc": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
-        "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
-        "desc": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
-        "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/"
+        "source": "Simon Willison",
+        "title": "Don't classify. Hallucinate!",
+        "desc": "<p><strong><a href=\"https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications\">Don&#x27;t classify. Hallucinate!</a></strong></p>\nI still have quite a bit of older content on my blog that I never got round to",
+        "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/"
       },
       {
         "date": "14 Ağu",
@@ -102,6 +95,13 @@
         "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
         "desc": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300.\nThe post Your guide to GitHub Universe 2026 is here: The sched",
         "url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/"
+      },
+      {
+        "date": "13 Ağu",
+        "source": "TechCrunch",
+        "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+        "desc": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+        "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/"
       }
     ],
     "arac": [
