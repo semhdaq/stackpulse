@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:16:24.626Z",
+  "generated_at": "2026-08-15T12:12:42.056Z",
   "generated_at_tr": "15 Ağu 2026",
   "categories": {
     "ai": [
@@ -136,6 +136,13 @@
       {
         "date": "14 Ağu",
         "source": "Product Hunt",
+        "title": "GLM-5.3",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/z-ai"
+      },
+      {
+        "date": "14 Ağu",
+        "source": "Product Hunt",
         "title": "Basedash Tasks",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/basedash"
@@ -146,13 +153,6 @@
         "title": "Theos[RFM]",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/theos-rfm-remote-facility-manager"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "Product Hunt",
-        "title": "ChordViz",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/chordviz"
       }
     ]
   }
