@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T00:29:31.149Z",
+  "generated_at": "2026-08-15T06:16:24.626Z",
   "generated_at_tr": "15 Ağu 2026",
   "categories": {
     "ai": [
@@ -55,11 +55,32 @@
     ],
     "kod": [
       {
+        "date": "15 Ağu",
+        "source": "Simon Willison",
+        "title": "Northern Gannet",
+        "desc": "<p><img src=\"https://static.inaturalist.org/photos/716984157/large.jpg\" alt=\"Northern Gannet\"></p><p>Northern Gannet, in Pillar Point Harbor, CA, US</p><p>This is Morris.</p>\n<p>Morris is a local celebrity: the only know",
+        "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/"
+      },
+      {
         "date": "14 Ağu",
         "source": "Simon Willison",
         "title": "Don't classify. Hallucinate!",
         "desc": "<p><strong><a href=\"https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications\">Don&#x27;t classify. Hallucinate!</a></strong></p>\nI still have quite a bit of older content on my blog that I never got round to",
         "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/"
+      },
+      {
+        "date": "14 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+        "desc": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
+        "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/"
+      },
+      {
+        "date": "14 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+        "desc": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
+        "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/"
       },
       {
         "date": "14 Ağu",
@@ -81,30 +102,16 @@
         "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
         "desc": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the",
         "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/"
-      },
-      {
-        "date": "13 Ağu",
-        "source": "Simon Willison",
-        "title": "sqlite-utils 4.2",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.2\">sqlite-utils 4.2</a></p>\n        <p>Lots of improvements in this one relating to the <a href=\"https://sqlite-utils.datasette.",
-        "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/"
-      },
-      {
-        "date": "13 Ağu",
-        "source": "GitHub Blog",
-        "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
-        "desc": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300.\nThe post Your guide to GitHub Universe 2026 is here: The sched",
-        "url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/"
-      },
-      {
-        "date": "13 Ağu",
-        "source": "TechCrunch",
-        "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-        "desc": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-        "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/"
       }
     ],
     "arac": [
+      {
+        "date": "14 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Read-it-later app Pocket shut down — here are the best alternatives",
+        "desc": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+        "url": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/"
+      },
       {
         "date": "14 Ağu",
         "source": "The Verge",
@@ -146,13 +153,6 @@
         "title": "ChordViz",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/chordviz"
-      },
-      {
-        "date": "13 Ağu",
-        "source": "Product Hunt",
-        "title": "Suno Studio 2.0",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/suno"
       }
     ]
   }
