@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-08-16T12:13:02.767Z",
+  "generated_at": "2026-08-16T18:10:19.256Z",
   "generated_at_tr": "16 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "16 Ağu",
+        "source": "TechCrunch",
+        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+        "desc": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+        "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+      },
+      {
+        "date": "16 Ağu",
+        "source": "Simon Willison",
+        "title": "Quoting Dario Amodei",
+        "desc": "<blockquote cite=\"https://twitter.com/darioamodei/status/2088758819304443967\"><p>I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or an",
+        "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/"
+      },
       {
         "date": "16 Ağu",
         "source": "The Verge",
@@ -37,20 +51,6 @@
         "title": "SpaceX officially closes its Cursor acquisition",
         "desc": "AI coding startup Cursor is now officially a part of SpaceX.",
         "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
-      },
-      {
-        "date": "15 Ağu",
-        "source": "Simon Willison",
-        "title": "CORS Chat",
-        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/cors-chat\">CORS Chat</a></p>\n        <p>I built this today (<a href=\"https://gist.github.com/simonw/92a1d97773744b45bf259e003013cf36\">with GPT-5.6-Sol xh",
-        "url": "https://simonwillison.net/2026/Aug/15/cors-chat/"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "Stack Overflow Blog",
-        "title": "No Dumb Questions: What is AI context architecture? Why not just build your own?",
-        "desc": "In this No Dumb Questions, Phoebe asks Stack’s Engineering Manager Doug Whitley and Product Manager Ash Zade everything she wants to know about AI context architecture. What exactly is it? Why is it so important? What ma",
-        "url": "https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy/"
       }
     ],
     "kod": [
@@ -106,6 +106,13 @@
     ],
     "arac": [
       {
+        "date": "16 Ağu",
+        "source": "The Verge",
+        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+        "desc": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses yo",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
+      },
+      {
         "date": "15 Ağu",
         "source": "Product Hunt",
         "title": "Chert",
@@ -146,13 +153,6 @@
         "title": "HarnessRouter Community Edition",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/epsilla"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "Product Hunt",
-        "title": "GLM-5.3",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/z-ai"
       }
     ]
   }
