@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-08-16T00:30:50.172Z",
+  "generated_at": "2026-08-16T12:13:02.767Z",
   "generated_at_tr": "16 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "16 Ağu",
+        "source": "The Verge",
+        "title": "Rogue AI aren’t science fiction anymore",
+        "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepb",
+        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai"
+      },
       {
         "date": "15 Ağu",
         "source": "TechCrunch",
@@ -32,25 +39,18 @@
         "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
       },
       {
+        "date": "15 Ağu",
+        "source": "Simon Willison",
+        "title": "CORS Chat",
+        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/cors-chat\">CORS Chat</a></p>\n        <p>I built this today (<a href=\"https://gist.github.com/simonw/92a1d97773744b45bf259e003013cf36\">with GPT-5.6-Sol xh",
+        "url": "https://simonwillison.net/2026/Aug/15/cors-chat/"
+      },
+      {
         "date": "14 Ağu",
         "source": "Stack Overflow Blog",
         "title": "No Dumb Questions: What is AI context architecture? Why not just build your own?",
         "desc": "In this No Dumb Questions, Phoebe asks Stack’s Engineering Manager Doug Whitley and Product Manager Ash Zade everything she wants to know about AI context architecture. What exactly is it? Why is it so important? What ma",
         "url": "https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy/"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "The Verge",
-        "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-        "desc": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator,",
-        "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "TechCrunch",
-        "title": "Google will now allow users to remove visible watermark from its AI generations",
-        "desc": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
       }
     ],
     "kod": [
@@ -106,6 +106,13 @@
     ],
     "arac": [
       {
+        "date": "15 Ağu",
+        "source": "Product Hunt",
+        "title": "Chert",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/chert"
+      },
+      {
         "date": "14 Ağu",
         "source": "TechCrunch Apps",
         "title": "Read-it-later app Pocket shut down — here are the best alternatives",
@@ -136,23 +143,16 @@
       {
         "date": "14 Ağu",
         "source": "Product Hunt",
+        "title": "HarnessRouter Community Edition",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/epsilla"
+      },
+      {
+        "date": "14 Ağu",
+        "source": "Product Hunt",
         "title": "GLM-5.3",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/z-ai"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "Product Hunt",
-        "title": "Basedash Tasks",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/basedash"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "Product Hunt",
-        "title": "Theos[RFM]",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/theos-rfm-remote-facility-manager"
       }
     ]
   }
