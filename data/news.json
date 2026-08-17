@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-08-17T06:27:10.537Z",
+  "generated_at": "2026-08-17T12:16:38.884Z",
   "generated_at_tr": "17 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "17 Ağu",
+        "source": "The Verge",
+        "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+        "desc": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
+      },
+      {
+        "date": "17 Ağu",
+        "source": "MIT Tech Review",
+        "title": "How much hydrogen awaits us underground?",
+        "desc": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that h",
+        "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/"
+      },
       {
         "date": "16 Ağu",
         "source": "Simon Willison",
@@ -33,24 +47,10 @@
       },
       {
         "date": "16 Ağu",
-        "source": "TechCrunch",
-        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-        "desc": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-        "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
-      },
-      {
-        "date": "16 Ağu",
-        "source": "Simon Willison",
-        "title": "Quoting Dario Amodei",
-        "desc": "<blockquote cite=\"https://twitter.com/darioamodei/status/2088758819304443967\"><p>I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or an",
-        "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/"
-      },
-      {
-        "date": "16 Ağu",
-        "source": "The Verge",
-        "title": "Rogue AI aren’t science fiction anymore",
-        "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepb",
-        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai"
+        "source": "Product Hunt",
+        "title": "Blender Agent Bridge",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/blender-agent-bridge"
       }
     ],
     "kod": [
@@ -106,11 +106,39 @@
     ],
     "arac": [
       {
+        "date": "17 Ağu",
+        "source": "MIT Tech Review",
+        "title": "What happens when a kid’s robot best friend dies?",
+        "desc": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing",
+        "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
+      },
+      {
+        "date": "17 Ağu",
+        "source": "Product Hunt",
+        "title": "TinyFish",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/tinyfish-2"
+      },
+      {
         "date": "16 Ağu",
         "source": "Simon Willison",
         "title": "Markdown SVG upgrades",
         "desc": "<p>I started building my <a href=\"https://tools.simonwillison.net/markdown-svg-renderer\">markdown-svg-renderer</a> tool <a href=\"https://tools.simonwillison.net/colophon#markdown-svg-renderer.html\">in May</a>, but I've s",
         "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/"
+      },
+      {
+        "date": "16 Ağu",
+        "source": "Product Hunt",
+        "title": "Hansel by Seedling",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/hansel-by-seedling"
+      },
+      {
+        "date": "16 Ağu",
+        "source": "Product Hunt",
+        "title": "Vendo",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/vendo"
       },
       {
         "date": "16 Ağu",
@@ -120,39 +148,11 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
       },
       {
-        "date": "15 Ağu",
+        "date": "16 Ağu",
         "source": "Product Hunt",
-        "title": "Chert",
+        "title": "Skriptr",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/chert"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Read-it-later app Pocket shut down — here are the best alternatives",
-        "desc": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
-        "url": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "The Verge",
-        "title": "Mark Zuckerberg has an Instagzam",
-        "desc": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it s",
-        "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "GitHub Blog",
-        "title": "How to bring your software delivery workflow into GitHub with agent apps",
-        "desc": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. \nThe post How to bring your software delivery workflow into GitHub with agent apps appea",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "MIT Tech Review",
-        "title": "Cloning could be used to save species—or make human “organ sacks”",
-        "desc": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male m",
-        "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/"
+        "url": "https://www.producthunt.com/products/skriptr"
       }
     ]
   }
