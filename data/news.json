@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-08-16T18:10:19.256Z",
-  "generated_at_tr": "16 Ağu 2026",
+  "generated_at": "2026-08-17T00:29:00.867Z",
+  "generated_at_tr": "17 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "16 Ağu",
+        "source": "Simon Willison",
+        "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+        "desc": "<p>Friday's big release was <a href=\"https://huggingface.co/Qwen/Qwen3.8-27B\">Qwen 3.8 27B</a>, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this on",
+        "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
+      },
+      {
+        "date": "16 Ağu",
+        "source": "The Verge",
+        "title": "OpenAI reportedly disbanded its preparedness team",
+        "desc": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (Y",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team"
+      },
+      {
+        "date": "16 Ağu",
+        "source": "TechCrunch",
+        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+        "desc": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+        "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+      },
+      {
+        "date": "16 Ağu",
+        "source": "TechCrunch",
+        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+        "desc": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+        "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/"
+      },
       {
         "date": "16 Ağu",
         "source": "TechCrunch",
@@ -23,34 +51,6 @@
         "title": "Rogue AI aren’t science fiction anymore",
         "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepb",
         "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai"
-      },
-      {
-        "date": "15 Ağu",
-        "source": "TechCrunch",
-        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-        "desc": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
-      },
-      {
-        "date": "15 Ağu",
-        "source": "The Verge",
-        "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-        "desc": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a r",
-        "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot"
-      },
-      {
-        "date": "15 Ağu",
-        "source": "TechCrunch",
-        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-        "desc": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
-      },
-      {
-        "date": "15 Ağu",
-        "source": "TechCrunch",
-        "title": "SpaceX officially closes its Cursor acquisition",
-        "desc": "AI coding startup Cursor is now officially a part of SpaceX.",
-        "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
       }
     ],
     "kod": [
@@ -107,6 +107,13 @@
     "arac": [
       {
         "date": "16 Ağu",
+        "source": "Simon Willison",
+        "title": "Markdown SVG upgrades",
+        "desc": "<p>I started building my <a href=\"https://tools.simonwillison.net/markdown-svg-renderer\">markdown-svg-renderer</a> tool <a href=\"https://tools.simonwillison.net/colophon#markdown-svg-renderer.html\">in May</a>, but I've s",
+        "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/"
+      },
+      {
+        "date": "16 Ağu",
         "source": "The Verge",
         "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
         "desc": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses yo",
@@ -146,13 +153,6 @@
         "title": "Cloning could be used to save species—or make human “organ sacks”",
         "desc": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male m",
         "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "Product Hunt",
-        "title": "HarnessRouter Community Edition",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/epsilla"
       }
     ]
   }
