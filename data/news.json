@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-08-17T18:18:31.569Z",
-  "generated_at_tr": "17 Ağu 2026",
+  "generated_at": "2026-08-18T00:28:44.399Z",
+  "generated_at_tr": "18 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "17 Ağu",
+        "source": "Simon Willison",
+        "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+        "desc": "<p><strong><a href=\"https://artificialanalysis.ai/models/qwen3-8-27b\">Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index</a></strong></p>\nThat's the same score as GPT-5.6 Luna (max), and just one point ",
+        "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/"
+      },
+      {
+        "date": "17 Ağu",
+        "source": "TechCrunch",
+        "title": "Anthropic’s annualized revenue surges to $65B",
+        "desc": "The model maker added $18 billion in annualized revenue in two months.",
+        "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
+      },
+      {
+        "date": "17 Ağu",
+        "source": "TechCrunch",
+        "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+        "desc": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+        "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/"
+      },
+      {
+        "date": "17 Ağu",
+        "source": "MIT Tech Review",
+        "title": "What Flock’s defenders are missing",
+        "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic licen",
+        "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/"
+      },
       {
         "date": "17 Ağu",
         "source": "TechCrunch Apps",
@@ -23,37 +51,16 @@
         "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
         "desc": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
         "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "GitHub Blog",
-        "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-        "desc": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas.\nThe post How canvases make agentic workflows visible, s",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "Simon Willison",
-        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-        "desc": "<p><strong><a href=\"https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/\">We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility</a></strong></p",
-        "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "TechCrunch",
-        "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-        "desc": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-        "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "TechCrunch",
-        "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-        "desc": "Wispr’s total funding is now over $361 million.",
-        "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
       }
     ],
     "kod": [
+      {
+        "date": "17 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Reddit begins testing a new audio and video experience, similar to popular TikTok videos",
+        "desc": "Reddit is beginning to test video and audio versions of popular posts, allowing users to watch or listen to Reddit stories instead of just reading them.",
+        "url": "https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/"
+      },
       {
         "date": "17 Ağu",
         "source": "TechCrunch Apps",
@@ -95,16 +102,16 @@
         "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
         "desc": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
         "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "MIT Tech Review",
-        "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The p",
-        "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/"
       }
     ],
     "arac": [
+      {
+        "date": "17 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
+        "desc": "Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and others.",
+        "url": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/"
+      },
       {
         "date": "17 Ağu",
         "source": "TechCrunch Apps",
@@ -118,6 +125,13 @@
         "title": "Uber adds Zipline drones to its Eats delivery network",
         "desc": "Uber is also making investing in Zipline a part of the tie-up.",
         "url": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/"
+      },
+      {
+        "date": "17 Ağu",
+        "source": "TechCrunch",
+        "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+        "desc": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
+        "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
       },
       {
         "date": "17 Ağu",
@@ -139,20 +153,6 @@
         "title": "Markdown SVG upgrades",
         "desc": "<p>I started building my <a href=\"https://tools.simonwillison.net/markdown-svg-renderer\">markdown-svg-renderer</a> tool <a href=\"https://tools.simonwillison.net/colophon#markdown-svg-renderer.html\">in May</a>, but I've s",
         "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/"
-      },
-      {
-        "date": "16 Ağu",
-        "source": "Product Hunt",
-        "title": "Hansel by Seedling",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/hansel-by-seedling"
-      },
-      {
-        "date": "16 Ağu",
-        "source": "Product Hunt",
-        "title": "Vendo",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/vendo"
       }
     ]
   }
