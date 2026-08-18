@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-08-18T06:20:58.818Z",
+  "generated_at": "2026-08-18T12:18:49.875Z",
   "generated_at_tr": "18 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "18 Ağu",
+        "source": "The Verge",
+        "title": "Elon Musk made flying even worse so Palantir could profit",
+        "desc": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspac",
+        "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir"
+      },
+      {
+        "date": "18 Ağu",
+        "source": "The Verge",
+        "title": "ChatGPT is getting a dedicated mode for teens",
+        "desc": "ChatGPT for Teens includes safeguards and parental controls. | Image: OpenAI\t\n\nOpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode"
+      },
+      {
+        "date": "18 Ağu",
+        "source": "MIT Tech Review",
+        "title": "We still don’t know how people are really using AI",
+        "desc": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent",
+        "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
+      },
+      {
+        "date": "18 Ağu",
+        "source": "The Verge",
+        "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+        "desc": "The AirPods in the video look like a chunkier version of Apple’s AirPods Pro 3. | Image: Apple / MacRumors\t\n\nWe may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors foun",
+        "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak"
+      },
+      {
+        "date": "18 Ağu",
+        "source": "MIT Tech Review",
+        "title": "The role of the astronaut is in flux",
+        "desc": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 b",
+        "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/"
+      },
+      {
+        "date": "18 Ağu",
+        "source": "MIT Tech Review",
+        "title": "AI’s recursive self-improvement might not come so quickly after all",
+        "desc": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips",
+        "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
+      },
       {
         "date": "18 Ağu",
         "source": "Stack Overflow Blog",
         "title": "What does an agentic SDLC actually look like?",
         "desc": "Ryan welcomes Suneet Malhotra, Senior Manager of Test Engineering at Motorola Solutions, to chat about building end-to-end agentic SDLC pipelines using MCPs, using Cohen’s kappa to evaluate multiple LLMs-as-judges, and h",
         "url": "https://stackoverflow.blog/2026/08/18/what-does-an-agentic-sdlc-actually-look-like/"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "Simon Willison",
-        "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
-        "desc": "<p><strong><a href=\"https://artificialanalysis.ai/models/qwen3-8-27b\">Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index</a></strong></p>\nThat's the same score as GPT-5.6 Luna (max), and just one point ",
-        "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "TechCrunch",
-        "title": "Anthropic’s annualized revenue surges to $65B",
-        "desc": "The model maker added $18 billion in annualized revenue in two months.",
-        "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "TechCrunch",
-        "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-        "desc": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-        "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "MIT Tech Review",
-        "title": "What Flock’s defenders are missing",
-        "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic licen",
-        "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
-        "desc": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are adding to frustrations.",
-        "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "TechCrunch",
-        "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-        "desc": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-        "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
       }
     ],
     "kod": [
@@ -106,6 +106,34 @@
     ],
     "arac": [
       {
+        "date": "18 Ağu",
+        "source": "Product Hunt",
+        "title": "Dates by Agenda Hero",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/dates-by-agenda-hero"
+      },
+      {
+        "date": "17 Ağu",
+        "source": "Product Hunt",
+        "title": "Shepherd Terminal",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/shepherd-terminal-designed-for-agent"
+      },
+      {
+        "date": "17 Ağu",
+        "source": "Product Hunt",
+        "title": "Gauge",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/gauge"
+      },
+      {
+        "date": "17 Ağu",
+        "source": "Product Hunt",
+        "title": "Finch",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/finch-6"
+      },
+      {
         "date": "17 Ağu",
         "source": "TechCrunch Apps",
         "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
@@ -125,34 +153,6 @@
         "title": "Uber adds Zipline drones to its Eats delivery network",
         "desc": "Uber is also making investing in Zipline a part of the tie-up.",
         "url": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "TechCrunch",
-        "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-        "desc": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
-        "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "MIT Tech Review",
-        "title": "What happens when a kid’s robot best friend dies?",
-        "desc": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing",
-        "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "Product Hunt",
-        "title": "TinyFish",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tinyfish-2"
-      },
-      {
-        "date": "16 Ağu",
-        "source": "Simon Willison",
-        "title": "Markdown SVG upgrades",
-        "desc": "<p>I started building my <a href=\"https://tools.simonwillison.net/markdown-svg-renderer\">markdown-svg-renderer</a> tool <a href=\"https://tools.simonwillison.net/colophon#markdown-svg-renderer.html\">in May</a>, but I've s",
-        "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/"
       }
     ]
   }
