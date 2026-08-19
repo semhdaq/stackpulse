@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-08-18T18:18:43.000Z",
-  "generated_at_tr": "18 Ağu 2026",
+  "generated_at": "2026-08-19T06:21:39.124Z",
+  "generated_at_tr": "19 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "18 Ağu",
+        "source": "The Verge",
+        "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+        "desc": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Willi",
+        "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai"
+      },
+      {
+        "date": "18 Ağu",
+        "source": "The Verge",
+        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+        "desc": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and al",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack"
+      },
       {
         "date": "18 Ağu",
         "source": "TechCrunch",
@@ -37,23 +51,23 @@
         "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
         "desc": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
         "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
-      },
-      {
-        "date": "18 Ağu",
-        "source": "TechCrunch",
-        "title": "Perplexity’s free AI offer left it with millions more users in India",
-        "desc": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
-        "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/"
-      },
-      {
-        "date": "18 Ağu",
-        "source": "The Verge",
-        "title": "Firefox&#8217;s Smart Window promises a better AI browser",
-        "desc": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest t",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features"
       }
     ],
     "kod": [
+      {
+        "date": "18 Ağu",
+        "source": "TechCrunch",
+        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+        "desc": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+        "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
+      },
+      {
+        "date": "18 Ağu",
+        "source": "Simon Willison",
+        "title": "Mojo🔥 is now open source",
+        "desc": "<p><strong><a href=\"https://www.modular.com/blog/mojo-open-source\">Mojo🔥 is now open source</a></strong></p>\nMojo🔥 is now open source</p>\n<p>The Mojo programming language has been promising an open source release <a hr",
+        "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/"
+      },
       {
         "date": "18 Ağu",
         "source": "TechCrunch Apps",
@@ -88,23 +102,16 @@
         "title": "Northern Gannet",
         "desc": "<p><img src=\"https://static.inaturalist.org/photos/716984157/large.jpg\" alt=\"Northern Gannet\"></p><p>Northern Gannet, in Pillar Point Harbor, CA, US</p><p>This is Morris.</p>\n<p>Morris is a local celebrity: the only know",
         "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "Simon Willison",
-        "title": "Don't classify. Hallucinate!",
-        "desc": "<p><strong><a href=\"https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications\">Don&#x27;t classify. Hallucinate!</a></strong></p>\nI still have quite a bit of older content on my blog that I never got round to",
-        "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/"
-      },
-      {
-        "date": "14 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
-        "desc": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
-        "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/"
       }
     ],
     "arac": [
+      {
+        "date": "18 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "TikTok explores peer-to-peer payments via DMs, report says",
+        "desc": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+        "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/"
+      },
       {
         "date": "18 Ağu",
         "source": "TechCrunch Apps",
@@ -146,13 +153,6 @@
         "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
         "desc": "Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and others.",
         "url": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "WordPress.com targets the next generation of web creators with a free student plan",
-        "desc": "WordPress.com Education lets teachers offer their students free domains, plug-in support, and professional website-building tools.",
-        "url": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/"
       }
     ]
   }
