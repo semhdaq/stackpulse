@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-08-19T12:18:29.689Z",
+  "generated_at": "2026-08-19T18:15:12.728Z",
   "generated_at_tr": "19 Ağu 2026",
   "categories": {
     "ai": [
       {
         "date": "19 Ağu",
+        "source": "TechCrunch",
+        "title": "Meet the startup helping Wall Street put a price on AI compute",
+        "desc": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that sp",
+        "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/"
+      },
+      {
+        "date": "19 Ağu",
         "source": "The Verge",
-        "title": "Nvidia’s new financial strategy does not compute",
-        "desc": "“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath Virginia / The Verge, Getty Images\t\n\nApril - 1805\nNapoleon is master of Europe\nOn",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset"
+        "title": "OpenAI hit the brakes. Now what?",
+        "desc": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes.\nOn Tuesday, the company said it had ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai"
+      },
+      {
+        "date": "19 Ağu",
+        "source": "The Verge",
+        "title": "Meta AI is getting a Mac app",
+        "desc": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta\t\n\nMeta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can shar",
+        "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app"
       },
       {
         "date": "19 Ağu",
         "source": "TechCrunch",
-        "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-        "desc": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
-        "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"
+        "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+        "desc": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+        "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/"
       },
       {
         "date": "19 Ağu",
-        "source": "Product Hunt",
-        "title": "Claude Watermark",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/claude-watermark"
-      },
-      {
-        "date": "18 Ağu",
-        "source": "Product Hunt",
-        "title": "Cronloop AI",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/cronloop-ai"
-      },
-      {
-        "date": "18 Ağu",
-        "source": "The Verge",
-        "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-        "desc": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Willi",
-        "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai"
-      },
-      {
-        "date": "18 Ağu",
-        "source": "The Verge",
-        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-        "desc": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and al",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack"
-      },
-      {
-        "date": "18 Ağu",
         "source": "TechCrunch",
-        "title": "OpenAI institutes new safeguards after Hugging Face breach",
-        "desc": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-        "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
+        "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+        "desc": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+        "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/"
+      },
+      {
+        "date": "19 Ağu",
+        "source": "VentureBeat",
+        "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+        "desc": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a",
+        "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
+      },
+      {
+        "date": "19 Ağu",
+        "source": "TechCrunch",
+        "title": "Calendly throws its hat into meeting note-taker circus",
+        "desc": "Calendly is also releasing a meeting scheduling assistant called Callie.",
+        "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/"
       }
     ],
     "kod": [
+      {
+        "date": "19 Ağu",
+        "source": "GitHub Blog",
+        "title": "GitHub Copilot app for Beginners: Managing your work",
+        "desc": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.\nThe post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog.",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/"
+      },
       {
         "date": "18 Ağu",
         "source": "TechCrunch",
@@ -65,7 +72,7 @@
         "date": "18 Ağu",
         "source": "Simon Willison",
         "title": "Mojo🔥 is now open source",
-        "desc": "<p><strong><a href=\"https://www.modular.com/blog/mojo-open-source\">Mojo🔥 is now open source</a></strong></p>\nMojo🔥 is now open source</p>\n<p>The Mojo programming language has been promising an open source release <a hr",
+        "desc": "<p><strong><a href=\"https://www.modular.com/blog/mojo-open-source\">Mojo🔥 is now open source</a></strong></p>\nThe Mojo programming language has been promising an open source release <a href=\"https://simonwillison.net/202",
         "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/"
       },
       {
@@ -74,6 +81,13 @@
         "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
         "desc": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
         "url": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/"
+      },
+      {
+        "date": "18 Ağu",
+        "source": "Product Hunt",
+        "title": "Zyntax IDE",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/zyntax-coding-ide-for-android"
       },
       {
         "date": "17 Ağu",
@@ -88,20 +102,6 @@
         "title": "YouTube will now count a view as soon as a video starts playing",
         "desc": "The change comes a year after YouTube applied the same approach to counting views on Shorts videos.",
         "url": "https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "MIT Tech Review",
-        "title": "The Download: dead robot friends and the “censorship-industrial complex”",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she",
-        "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/"
-      },
-      {
-        "date": "15 Ağu",
-        "source": "Simon Willison",
-        "title": "Northern Gannet",
-        "desc": "<p><img src=\"https://static.inaturalist.org/photos/716984157/large.jpg\" alt=\"Northern Gannet\"></p><p>Northern Gannet, in Pillar Point Harbor, CA, US</p><p>This is Morris.</p>\n<p>Morris is a local celebrity: the only know",
-        "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/"
       }
     ],
     "arac": [
