@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-08-19T06:21:39.124Z",
+  "generated_at": "2026-08-19T12:18:29.689Z",
   "generated_at_tr": "19 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "19 Ağu",
+        "source": "The Verge",
+        "title": "Nvidia’s new financial strategy does not compute",
+        "desc": "“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath Virginia / The Verge, Getty Images\t\n\nApril - 1805\nNapoleon is master of Europe\nOn",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset"
+      },
+      {
+        "date": "19 Ağu",
+        "source": "TechCrunch",
+        "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+        "desc": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+        "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"
+      },
+      {
+        "date": "19 Ağu",
+        "source": "Product Hunt",
+        "title": "Claude Watermark",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/claude-watermark"
+      },
+      {
+        "date": "18 Ağu",
+        "source": "Product Hunt",
+        "title": "Cronloop AI",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/cronloop-ai"
+      },
       {
         "date": "18 Ağu",
         "source": "The Verge",
@@ -23,34 +51,6 @@
         "title": "OpenAI institutes new safeguards after Hugging Face breach",
         "desc": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
         "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
-      },
-      {
-        "date": "18 Ağu",
-        "source": "TechCrunch",
-        "title": "Etched’s valuation doubles to $21B in a month",
-        "desc": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-        "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
-      },
-      {
-        "date": "18 Ağu",
-        "source": "TechCrunch",
-        "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-        "desc": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
-        "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/"
-      },
-      {
-        "date": "18 Ağu",
-        "source": "TechCrunch",
-        "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-        "desc": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
-        "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/"
-      },
-      {
-        "date": "18 Ağu",
-        "source": "TechCrunch",
-        "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-        "desc": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-        "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
       }
     ],
     "kod": [
@@ -106,53 +106,53 @@
     ],
     "arac": [
       {
-        "date": "18 Ağu",
+        "date": "19 Ağu",
         "source": "TechCrunch Apps",
-        "title": "TikTok explores peer-to-peer payments via DMs, report says",
-        "desc": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
-        "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/"
+        "title": "You can Venmo your college tuition, for some reason",
+        "desc": "Kids these days don't know how good they have it.",
+        "url": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/"
       },
       {
-        "date": "18 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Peacock is raising prices across all of its streaming plans",
-        "desc": "\"These price changes allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content across all genres,\" the company wrote on a support page.",
-        "url": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/"
+        "date": "19 Ağu",
+        "source": "MIT Tech Review",
+        "title": "Child-monitoring apps might need a reboot",
+        "desc": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved",
+        "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/"
       },
       {
-        "date": "18 Ağu",
+        "date": "19 Ağu",
         "source": "Product Hunt",
-        "title": "Dates by Agenda Hero",
+        "title": "Basedash Public Sharing",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/dates-by-agenda-hero"
+        "url": "https://www.producthunt.com/products/basedash"
       },
       {
-        "date": "17 Ağu",
+        "date": "19 Ağu",
         "source": "Product Hunt",
-        "title": "Shepherd Terminal",
+        "title": "Fairphone Gen 6+",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/shepherd-terminal-designed-for-agent"
+        "url": "https://www.producthunt.com/products/fairphone"
       },
       {
-        "date": "17 Ağu",
+        "date": "19 Ağu",
         "source": "Product Hunt",
-        "title": "Gauge",
+        "title": "Vois 2.0",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/gauge"
+        "url": "https://www.producthunt.com/products/vois"
       },
       {
-        "date": "17 Ağu",
+        "date": "19 Ağu",
         "source": "Product Hunt",
-        "title": "Finch",
+        "title": "KiHub",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/finch-6"
+        "url": "https://www.producthunt.com/products/kihub"
       },
       {
-        "date": "17 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
-        "desc": "Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and others.",
-        "url": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/"
+        "date": "19 Ağu",
+        "source": "Product Hunt",
+        "title": "Loopcase",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/loopcase"
       }
     ]
   }
