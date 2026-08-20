@@ -1,59 +1,73 @@
 {
-  "generated_at": "2026-08-19T18:15:12.728Z",
-  "generated_at_tr": "19 Ağu 2026",
+  "generated_at": "2026-08-20T00:29:20.175Z",
+  "generated_at_tr": "20 Ağu 2026",
   "categories": {
     "ai": [
       {
         "date": "19 Ağu",
         "source": "TechCrunch",
-        "title": "Meet the startup helping Wall Street put a price on AI compute",
-        "desc": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that sp",
-        "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/"
+        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+        "desc": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+        "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/"
+      },
+      {
+        "date": "19 Ağu",
+        "source": "Simon Willison",
+        "title": "Quoting Jeremy Morrell",
+        "desc": "<blockquote cite=\"https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/\"><p>My hypothesis is that <strong>there is a new opportunity for Extensible Software on the web</strong>. LLMs radically lower the ",
+        "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/"
+      },
+      {
+        "date": "19 Ağu",
+        "source": "TechCrunch",
+        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+        "desc": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+        "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/"
+      },
+      {
+        "date": "19 Ağu",
+        "source": "TechCrunch",
+        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+        "desc": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+        "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/"
+      },
+      {
+        "date": "19 Ağu",
+        "source": "TechCrunch",
+        "title": "AI was supposed to win people over by now — it hasn’t",
+        "desc": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+        "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/"
+      },
+      {
+        "date": "19 Ağu",
+        "source": "TechCrunch",
+        "title": "Google packs Search and Gemini with new AI study tools",
+        "desc": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+        "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
       },
       {
         "date": "19 Ağu",
         "source": "The Verge",
-        "title": "OpenAI hit the brakes. Now what?",
-        "desc": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes.\nOn Tuesday, the company said it had ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai"
-      },
-      {
-        "date": "19 Ağu",
-        "source": "The Verge",
-        "title": "Meta AI is getting a Mac app",
-        "desc": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta\t\n\nMeta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can shar",
-        "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app"
-      },
-      {
-        "date": "19 Ağu",
-        "source": "TechCrunch",
-        "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-        "desc": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
-        "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/"
-      },
-      {
-        "date": "19 Ağu",
-        "source": "TechCrunch",
-        "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-        "desc": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
-        "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/"
-      },
-      {
-        "date": "19 Ağu",
-        "source": "VentureBeat",
-        "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-        "desc": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a",
-        "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
-      },
-      {
-        "date": "19 Ağu",
-        "source": "TechCrunch",
-        "title": "Calendly throws its hat into meeting note-taker circus",
-        "desc": "Calendly is also releasing a meeting scheduling assistant called Callie.",
-        "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/"
+        "title": "Google Gemini is getting a dedicated student hub",
+        "desc": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice qui",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub"
       }
     ],
     "kod": [
+      {
+        "date": "19 Ağu",
+        "source": "Simon Willison",
+        "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+        "desc": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/smolmachines-untrusted-sandbox#readme\">smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript</a></p>\n        <p>I tas",
+        "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/"
+      },
+      {
+        "date": "19 Ağu",
+        "source": "Simon Willison",
+        "title": "Conceptual integrity and counting lines of code",
+        "desc": "<p>Last week I recorded <a href=\"https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison\">an episode of the Talking Postgres podcast</a> with Claire Giordano on the subject of \"Ho",
+        "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/"
+      },
       {
         "date": "19 Ağu",
         "source": "GitHub Blog",
@@ -88,23 +102,16 @@
         "title": "Zyntax IDE",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/zyntax-coding-ide-for-android"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Reddit begins testing a new audio and video experience, similar to popular TikTok videos",
-        "desc": "Reddit is beginning to test video and audio versions of popular posts, allowing users to watch or listen to Reddit stories instead of just reading them.",
-        "url": "https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/"
-      },
-      {
-        "date": "17 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "YouTube will now count a view as soon as a video starts playing",
-        "desc": "The change comes a year after YouTube applied the same approach to counting views on Shorts videos.",
-        "url": "https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/"
       }
     ],
     "arac": [
+      {
+        "date": "19 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
+        "desc": "Have we tried turning off society and turning it back on again?",
+        "url": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/"
+      },
       {
         "date": "19 Ağu",
         "source": "TechCrunch Apps",
@@ -146,13 +153,6 @@
         "title": "KiHub",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/kihub"
-      },
-      {
-        "date": "19 Ağu",
-        "source": "Product Hunt",
-        "title": "Loopcase",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/loopcase"
       }
     ]
   }
