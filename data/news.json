@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-08-20T12:20:22.279Z",
+  "generated_at": "2026-08-20T18:19:46.609Z",
   "generated_at_tr": "20 Ağu 2026",
   "categories": {
     "ai": [
       {
         "date": "20 Ağu",
+        "source": "TechCrunch",
+        "title": "Grok keeps sending gibberish responses to users",
+        "desc": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+        "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/"
+      },
+      {
+        "date": "20 Ağu",
+        "source": "TechCrunch",
+        "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+        "desc": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+        "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
+      },
+      {
+        "date": "20 Ağu",
+        "source": "TechCrunch",
+        "title": "Ramp launches its own AI model router, called Router",
+        "desc": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+        "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/"
+      },
+      {
+        "date": "20 Ağu",
+        "source": "TechCrunch",
+        "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+        "desc": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+        "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/"
+      },
+      {
+        "date": "20 Ağu",
         "source": "The Verge",
-        "title": "Slack is launching collaborative vibe-coding channels",
-        "desc": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels ",
-        "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch"
+        "title": "It’s Greg Brockman’s OpenAI now",
+        "desc": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny afte",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion"
       },
       {
         "date": "20 Ağu",
         "source": "MIT Tech Review",
-        "title": "The next big thing in hydrogen could be underground",
-        "desc": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmak",
-        "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/"
+        "title": "Debates over AI consciousness are a trap",
+        "desc": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, D",
+        "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
       },
       {
         "date": "20 Ağu",
-        "source": "MIT Tech Review",
-        "title": "Unlocking hidden revenue streams with market models",
-        "desc": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider ",
-        "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "TechCrunch",
-        "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-        "desc": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
-        "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "MIT Tech Review",
-        "title": "Support networks aim to help kids through the polycrisis",
-        "desc": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just",
-        "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "Product Hunt",
-        "title": "Hermai Brand API",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/hermai-brand-api"
-      },
-      {
-        "date": "19 Ağu",
-        "source": "TechCrunch",
-        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-        "desc": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-        "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/"
+        "source": "The Verge",
+        "title": "Welcome to the AI crisis in math",
+        "desc": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it.\nOpenAI jus",
+        "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis"
       }
     ],
     "kod": [
@@ -107,9 +107,30 @@
     "arac": [
       {
         "date": "20 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Senators demand answers from TikTok over experiment that disabled safeguards",
+        "desc": "The safeguard was designed to prevent users from being overwhelmed by harmful content, but TikTok wanted to determine whether it made the app less engaging.",
+        "url": "https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/"
+      },
+      {
+        "date": "20 Ağu",
+        "source": "TechCrunch",
+        "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+        "desc": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
+        "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/"
+      },
+      {
+        "date": "20 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Patreon launches 30 new creator features, including short-form Clips and revamped discovery",
+        "desc": "Patreon is overhauling how creators get discovered, adding short-form Clips, topic-based communities, and a revamped recommendation system designed to give smaller creators more visibility.",
+        "url": "https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/"
+      },
+      {
+        "date": "20 Ağu",
         "source": "TechCrunch",
         "title": "Meta AI’s new Mac app wants you to talk to your apps",
-        "desc": "Meta said its Muse Spark model is powering the dictation feature.",
+        "desc": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
         "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/"
       },
       {
@@ -132,27 +153,6 @@
         "title": "MiniMax Design",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/minimax"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "Product Hunt",
-        "title": "Lifelong",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/lifelong-the-family-health-company"
-      },
-      {
-        "date": "19 Ağu",
-        "source": "Product Hunt",
-        "title": "Shape",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/shape-5"
-      },
-      {
-        "date": "19 Ağu",
-        "source": "Product Hunt",
-        "title": "Prized",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/prized"
       }
     ]
   }
