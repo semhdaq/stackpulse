@@ -1,14 +1,35 @@
 {
-  "generated_at": "2026-08-21T06:22:47.677Z",
+  "generated_at": "2026-08-21T12:20:02.638Z",
   "generated_at_tr": "21 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "21 Ağu",
+        "source": "MIT Tech Review",
+        "title": "When AI designs a drug, who gets the credit?",
+        "desc": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its genera",
+        "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/"
+      },
+      {
+        "date": "21 Ağu",
+        "source": "MIT Tech Review",
+        "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+        "desc": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbit",
+        "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/"
+      },
       {
         "date": "21 Ağu",
         "source": "Stack Overflow Blog",
         "title": "Get rid of your CAPTCHA, the future of the web is bots",
         "desc": "Ryan chats with Brian Alvey, CTO at WordPress VIP, about how AI agents are changing the business models of the web, what parts of how we build our sites won’t survive our current digital evolution, and why your site will",
         "url": "https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/"
+      },
+      {
+        "date": "21 Ağu",
+        "source": "Product Hunt",
+        "title": "ShogunAI",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/shogunai"
       },
       {
         "date": "21 Ağu",
@@ -30,30 +51,23 @@
         "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
         "desc": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
         "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "TechCrunch",
-        "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-        "desc": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-        "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "The Verge",
-        "title": "Google Discover is getting an AI chatbot-tuned feed",
-        "desc": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"rememb",
-        "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "TechCrunch",
-        "title": "OK, can we actually cool data centers with our pee?",
-        "desc": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-        "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/"
       }
     ],
     "kod": [
+      {
+        "date": "21 Ağu",
+        "source": "MIT Tech Review",
+        "title": "Mother tongue",
+        "desc": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and s",
+        "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/"
+      },
+      {
+        "date": "21 Ağu",
+        "source": "Product Hunt",
+        "title": "Antigravity IDE Extensions",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/google-antigravity"
+      },
       {
         "date": "20 Ağu",
         "source": "Simon Willison",
@@ -88,23 +102,23 @@
         "title": "Mojo🔥 is now open source",
         "desc": "<p><strong><a href=\"https://www.modular.com/blog/mojo-open-source\">Mojo🔥 is now open source</a></strong></p>\nThe Mojo programming language has been promising an open source release <a href=\"https://simonwillison.net/202",
         "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/"
-      },
-      {
-        "date": "18 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-        "desc": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
-        "url": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/"
-      },
-      {
-        "date": "18 Ağu",
-        "source": "Product Hunt",
-        "title": "Zyntax IDE",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/zyntax-coding-ide-for-android"
       }
     ],
     "arac": [
+      {
+        "date": "21 Ağu",
+        "source": "Product Hunt",
+        "title": "Project SKY",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/project-sky"
+      },
+      {
+        "date": "20 Ağu",
+        "source": "Product Hunt",
+        "title": "Flunkey",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/flunkey"
+      },
       {
         "date": "20 Ağu",
         "source": "Stack Overflow Blog",
@@ -121,6 +135,13 @@
       },
       {
         "date": "20 Ağu",
+        "source": "Product Hunt",
+        "title": "Lynqo",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/lynqo-your-local-nas-server"
+      },
+      {
+        "date": "20 Ağu",
         "source": "TechCrunch Apps",
         "title": "Senators demand answers from TikTok over experiment that disabled safeguards",
         "desc": "The safeguard was designed to prevent users from being overwhelmed by harmful content, but TikTok wanted to determine whether it made the app less engaging.",
@@ -132,27 +153,6 @@
         "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
         "desc": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
         "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Patreon launches 30 new creator features, including short-form Clips and revamped discovery",
-        "desc": "Patreon is overhauling how creators get discovered, adding short-form Clips, topic-based communities, and a revamped recommendation system designed to give smaller creators more visibility.",
-        "url": "https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "TechCrunch",
-        "title": "Meta AI’s new Mac app wants you to talk to your apps",
-        "desc": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
-        "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "Product Hunt",
-        "title": "ProtoNote",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/protonote"
       }
     ]
   }
