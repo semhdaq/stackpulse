@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-08-20T18:19:46.609Z",
-  "generated_at_tr": "20 Ağu 2026",
+  "generated_at": "2026-08-21T06:22:47.677Z",
+  "generated_at_tr": "21 Ağu 2026",
   "categories": {
     "ai": [
       {
-        "date": "20 Ağu",
+        "date": "21 Ağu",
+        "source": "Stack Overflow Blog",
+        "title": "Get rid of your CAPTCHA, the future of the web is bots",
+        "desc": "Ryan chats with Brian Alvey, CTO at WordPress VIP, about how AI agents are changing the business models of the web, what parts of how we build our sites won’t survive our current digital evolution, and why your site will",
+        "url": "https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/"
+      },
+      {
+        "date": "21 Ağu",
         "source": "TechCrunch",
-        "title": "Grok keeps sending gibberish responses to users",
-        "desc": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-        "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/"
+        "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+        "desc": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+        "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/"
+      },
+      {
+        "date": "20 Ağu",
+        "source": "Simon Willison",
+        "title": "ChatGPT search now uses the site:operator at scale",
+        "desc": "<p><strong><a href=\"https://promptwatch.com/data/chatgpt-site-operator-fanouts\">ChatGPT search now uses the site:operator at scale</a></strong></p>\nPromptwatch is part of the emerging \"GEO\" space, for Generative Engine O",
+        "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/"
       },
       {
         "date": "20 Ağu",
         "source": "TechCrunch",
-        "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-        "desc": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-        "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
+        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+        "desc": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+        "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
       },
       {
         "date": "20 Ağu",
         "source": "TechCrunch",
-        "title": "Ramp launches its own AI model router, called Router",
-        "desc": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-        "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "TechCrunch",
-        "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-        "desc": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-        "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/"
+        "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+        "desc": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+        "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/"
       },
       {
         "date": "20 Ağu",
         "source": "The Verge",
-        "title": "It’s Greg Brockman’s OpenAI now",
-        "desc": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny afte",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion"
+        "title": "Google Discover is getting an AI chatbot-tuned feed",
+        "desc": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"rememb",
+        "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed"
       },
       {
         "date": "20 Ağu",
-        "source": "MIT Tech Review",
-        "title": "Debates over AI consciousness are a trap",
-        "desc": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, D",
-        "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "The Verge",
-        "title": "Welcome to the AI crisis in math",
-        "desc": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it.\nOpenAI jus",
-        "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis"
+        "source": "TechCrunch",
+        "title": "OK, can we actually cool data centers with our pee?",
+        "desc": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
+        "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/"
       }
     ],
     "kod": [
+      {
+        "date": "20 Ağu",
+        "source": "Simon Willison",
+        "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
+        "desc": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/bun-webview-json-api#readme\">A shot-scraper-style JSON API on Bun 1.4&#x27;s new Bun.WebView</a></p>\n        <p>Today saw the long await",
+        "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/"
+      },
       {
         "date": "19 Ağu",
         "source": "Simon Willison",
@@ -74,13 +81,6 @@
         "title": "GitHub Copilot app for Beginners: Managing your work",
         "desc": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.\nThe post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog.",
         "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/"
-      },
-      {
-        "date": "18 Ağu",
-        "source": "TechCrunch",
-        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-        "desc": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-        "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
       },
       {
         "date": "18 Ağu",
@@ -105,6 +105,20 @@
       }
     ],
     "arac": [
+      {
+        "date": "20 Ağu",
+        "source": "Stack Overflow Blog",
+        "title": "Quantum-Augmented Applications: Integrating Quantum Subroutines into Classical Software Stacks",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/"
+      },
+      {
+        "date": "20 Ağu",
+        "source": "GitHub Blog",
+        "title": "The August 17 outage, and the work ahead",
+        "desc": "An update on the August 17 outage and the steps we're taking to improve reliability.\nThe post The August 17 outage, and the work ahead appeared first on The GitHub Blog.",
+        "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
+      },
       {
         "date": "20 Ağu",
         "source": "TechCrunch Apps",
@@ -139,20 +153,6 @@
         "title": "ProtoNote",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/protonote"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "Product Hunt",
-        "title": "The New Calendly",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/calendly"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "Product Hunt",
-        "title": "MiniMax Design",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/minimax"
       }
     ]
   }
