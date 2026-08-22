@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T06:17:32.194Z",
+  "generated_at": "2026-08-22T12:13:51.502Z",
   "generated_at_tr": "22 Ağu 2026",
   "categories": {
     "ai": [
@@ -107,6 +107,13 @@
     "arac": [
       {
         "date": "21 Ağu",
+        "source": "Product Hunt",
+        "title": "Port Radar for macOS",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/port-radar-for-macos"
+      },
+      {
+        "date": "21 Ağu",
         "source": "TechCrunch Apps",
         "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
         "desc": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
@@ -128,31 +135,24 @@
       },
       {
         "date": "21 Ağu",
-        "source": "TechCrunch",
-        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-        "desc": "There's about to be a big fight to secure access to space.",
-        "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
+        "source": "Product Hunt",
+        "title": "AutoClaw",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/z-ai"
       },
       {
         "date": "21 Ağu",
         "source": "Product Hunt",
-        "title": "Project SKY",
+        "title": "Open Analytics",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/project-sky"
+        "url": "https://www.producthunt.com/products/open-analytics-2"
       },
       {
-        "date": "20 Ağu",
-        "source": "Product Hunt",
-        "title": "Flunkey",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/flunkey"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "Stack Overflow Blog",
-        "title": "Quantum-Augmented Applications: Integrating Quantum Subroutines into Classical Software Stacks",
-        "desc": "",
-        "url": "https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/"
+        "date": "21 Ağu",
+        "source": "TechCrunch",
+        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+        "desc": "There's about to be a big fight to secure access to space.",
+        "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
       }
     ]
   }
