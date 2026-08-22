@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-08-21T18:18:27.674Z",
-  "generated_at_tr": "21 Ağu 2026",
+  "generated_at": "2026-08-22T00:28:38.542Z",
+  "generated_at_tr": "22 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "21 Ağu",
+        "source": "TechCrunch",
+        "title": "Anthropic’s Opus 4.6 is a smut-machine",
+        "desc": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+        "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
+      },
+      {
+        "date": "21 Ağu",
+        "source": "TechCrunch",
+        "title": "Nvidia partners with data center developer Cloverleaf",
+        "desc": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
+      },
+      {
+        "date": "21 Ağu",
+        "source": "The Verge",
+        "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+        "desc": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a mil",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message"
+      },
+      {
+        "date": "21 Ağu",
+        "source": "TechCrunch",
+        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+        "desc": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+      },
+      {
+        "date": "21 Ağu",
+        "source": "Simon Willison",
+        "title": "llm 0.32.1",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.32.1\">llm 0.32.1</a></p>\n        <p>Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usa",
+        "url": "https://simonwillison.net/2026/Aug/21/llm/"
+      },
       {
         "date": "21 Ağu",
         "source": "Simon Willison",
@@ -16,41 +51,6 @@
         "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
         "desc": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Depart",
         "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
-      },
-      {
-        "date": "21 Ağu",
-        "source": "Stack Overflow Blog",
-        "title": "Dispatches from O'Reilly: The right amount of spec for agentic development",
-        "desc": "When code gets cheap, the hard part is deciding what “correct” means and building a reliable way to check it.",
-        "url": "https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development/"
-      },
-      {
-        "date": "21 Ağu",
-        "source": "The Verge",
-        "title": "Major YouTube creators are facing backlash for accepting AI money",
-        "desc": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The vide",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash"
-      },
-      {
-        "date": "21 Ağu",
-        "source": "MIT Tech Review",
-        "title": "The Download: threats from space mirrors and credit for AI drugs",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for ma",
-        "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/"
-      },
-      {
-        "date": "21 Ağu",
-        "source": "MIT Tech Review",
-        "title": "When AI designs a drug, who gets the credit?",
-        "desc": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its genera",
-        "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/"
-      },
-      {
-        "date": "21 Ağu",
-        "source": "MIT Tech Review",
-        "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
-        "desc": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbit",
-        "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/"
       }
     ],
     "kod": [
@@ -107,6 +107,20 @@
     "arac": [
       {
         "date": "21 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+        "desc": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
+        "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/"
+      },
+      {
+        "date": "21 Ağu",
+        "source": "Simon Willison",
+        "title": "llm-openrouter 0.7",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-openrouter/releases/tag/0.7\">llm-openrouter 0.7</a></p>\n        <p>Now that this plugin is compatible with <a href=\"https://simonwillison.net/2026/Aug/4",
+        "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/"
+      },
+      {
+        "date": "21 Ağu",
         "source": "Simon Willison",
         "title": "Stop Making TUIs",
         "desc": "<p><strong><a href=\"https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/\">Stop Making TUIs</a></strong></p>\nThomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, be",
@@ -139,20 +153,6 @@
         "title": "Quantum-Augmented Applications: Integrating Quantum Subroutines into Classical Software Stacks",
         "desc": "",
         "url": "https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "GitHub Blog",
-        "title": "The August 17 outage, and the work ahead",
-        "desc": "An update on the August 17 outage and the steps we're taking to improve reliability.\nThe post The August 17 outage, and the work ahead appeared first on The GitHub Blog.",
-        "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "Product Hunt",
-        "title": "Lynqo",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/lynqo-your-local-nas-server"
       }
     ]
   }
