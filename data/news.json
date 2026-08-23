@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-08-22T18:11:14.585Z",
-  "generated_at_tr": "22 Ağu 2026",
+  "generated_at": "2026-08-23T00:31:13.999Z",
+  "generated_at_tr": "23 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "22 Ağu",
+        "source": "TechCrunch",
+        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "desc": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+        "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
+      },
+      {
+        "date": "22 Ağu",
+        "source": "Simon Willison",
+        "title": "Quoting Linus Torvalds",
+        "desc": "<blockquote cite=\"https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c\"><p>And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work.</p>\n<p>I'd like to ",
+        "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/"
+      },
+      {
+        "date": "22 Ağu",
+        "source": "TechCrunch",
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "desc": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+      },
       {
         "date": "22 Ağu",
         "source": "Simon Willison",
@@ -30,27 +51,6 @@
         "title": "Anthropic’s Opus 4.6 is a smut-machine",
         "desc": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
         "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
-      },
-      {
-        "date": "21 Ağu",
-        "source": "TechCrunch",
-        "title": "Nvidia partners with data center developer Cloverleaf",
-        "desc": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
-      },
-      {
-        "date": "21 Ağu",
-        "source": "The Verge",
-        "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-        "desc": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a mil",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message"
-      },
-      {
-        "date": "21 Ağu",
-        "source": "TechCrunch",
-        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-        "desc": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
       }
     ],
     "kod": [
