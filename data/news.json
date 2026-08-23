@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:18:58.723Z",
+  "generated_at": "2026-08-23T12:14:02.865Z",
   "generated_at_tr": "23 Ağu 2026",
   "categories": {
     "ai": [
@@ -106,6 +106,13 @@
     ],
     "arac": [
       {
+        "date": "22 Ağu",
+        "source": "Product Hunt",
+        "title": "OpenLogi",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/openlogi"
+      },
+      {
         "date": "21 Ağu",
         "source": "Product Hunt",
         "title": "Port Radar for macOS",
@@ -146,13 +153,6 @@
         "title": "Open Analytics",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/open-analytics-2"
-      },
-      {
-        "date": "21 Ağu",
-        "source": "TechCrunch",
-        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-        "desc": "There's about to be a big fight to secure access to space.",
-        "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
       }
     ]
   }
