@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-08-24T00:30:30.778Z",
+  "generated_at": "2026-08-24T12:20:50.311Z",
   "generated_at_tr": "24 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "24 Ağu",
+        "source": "MIT Tech Review",
+        "title": "Kids outlearn AI—and we still don’t know why",
+        "desc": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child",
+        "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
+      },
       {
         "date": "23 Ağu",
         "source": "Simon Willison",
@@ -44,16 +51,16 @@
         "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
         "desc": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
         "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
-      },
-      {
-        "date": "22 Ağu",
-        "source": "Simon Willison",
-        "title": "Quoting Linus Torvalds",
-        "desc": "<blockquote cite=\"https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c\"><p>And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work.</p>\n<p>I'd like to ",
-        "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/"
       }
     ],
     "kod": [
+      {
+        "date": "24 Ağu",
+        "source": "Simon Willison",
+        "title": "Your executable is a SQLite database",
+        "desc": "<p><strong><a href=\"https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database\">Your executable is a SQLite database</a></strong></p>\nFarid Zakaria describes a neat Linux pattern for creating a SQLite database ",
+        "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/"
+      },
       {
         "date": "23 Ağu",
         "source": "Simon Willison",
@@ -74,13 +81,6 @@
         "title": "Mother tongue",
         "desc": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and s",
         "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/"
-      },
-      {
-        "date": "21 Ağu",
-        "source": "Product Hunt",
-        "title": "Antigravity IDE Extensions",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/google-antigravity"
       },
       {
         "date": "20 Ağu",
@@ -106,6 +106,20 @@
     ],
     "arac": [
       {
+        "date": "24 Ağu",
+        "source": "Product Hunt",
+        "title": "Antigravity Remote Control",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/google-antigravity"
+      },
+      {
+        "date": "23 Ağu",
+        "source": "Product Hunt",
+        "title": "Wavepocket ▶︎•၊||၊||။၊|။",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/wavepocket-free-ios-app"
+      },
+      {
         "date": "23 Ağu",
         "source": "TechCrunch Apps",
         "title": "Uber faces fine of nearly $1B over automated driver suspensions",
@@ -113,46 +127,32 @@
         "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/"
       },
       {
-        "date": "22 Ağu",
+        "date": "23 Ağu",
         "source": "Product Hunt",
-        "title": "OpenLogi",
+        "title": "Dropstone",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/openlogi"
+        "url": "https://www.producthunt.com/products/dropstone-2"
       },
       {
-        "date": "21 Ağu",
+        "date": "23 Ağu",
         "source": "Product Hunt",
-        "title": "Port Radar for macOS",
+        "title": "Lucid Train",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/port-radar-for-macos"
+        "url": "https://www.producthunt.com/products/lucid-train"
       },
       {
-        "date": "21 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
-        "desc": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
-        "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/"
-      },
-      {
-        "date": "21 Ağu",
-        "source": "Simon Willison",
-        "title": "llm-openrouter 0.7",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-openrouter/releases/tag/0.7\">llm-openrouter 0.7</a></p>\n        <p>Now that this plugin is compatible with <a href=\"https://simonwillison.net/2026/Aug/4",
-        "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/"
-      },
-      {
-        "date": "21 Ağu",
-        "source": "Simon Willison",
-        "title": "Stop Making TUIs",
-        "desc": "<p><strong><a href=\"https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/\">Stop Making TUIs</a></strong></p>\nThomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, be",
-        "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/"
-      },
-      {
-        "date": "21 Ağu",
+        "date": "23 Ağu",
         "source": "Product Hunt",
-        "title": "AutoClaw",
+        "title": "IFAH",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/z-ai"
+        "url": "https://www.producthunt.com/products/ifah-a-new-experience-of-sound"
+      },
+      {
+        "date": "23 Ağu",
+        "source": "Product Hunt",
+        "title": "Treebar",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/treebar-where-is-codex"
       }
     ]
   }
