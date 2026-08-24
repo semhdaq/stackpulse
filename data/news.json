@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-08-23T18:11:26.543Z",
-  "generated_at_tr": "23 Ağu 2026",
+  "generated_at": "2026-08-24T00:30:30.778Z",
+  "generated_at_tr": "24 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "23 Ağu",
+        "source": "Simon Willison",
+        "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+        "desc": "<p><strong><a href=\"https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245\">Anthropic’s best AI model struggles to attract users as cheaper tools thrive</a></strong></p>\nA few interesting numbers in this FT stor",
+        "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/"
+      },
+      {
+        "date": "23 Ağu",
+        "source": "TechCrunch",
+        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "desc": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+        "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/"
+      },
+      {
+        "date": "23 Ağu",
+        "source": "TechCrunch",
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "desc": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+        "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
+      },
       {
         "date": "23 Ağu",
         "source": "TechCrunch",
@@ -30,30 +51,16 @@
         "title": "Quoting Linus Torvalds",
         "desc": "<blockquote cite=\"https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c\"><p>And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work.</p>\n<p>I'd like to ",
         "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/"
-      },
-      {
-        "date": "22 Ağu",
-        "source": "TechCrunch",
-        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-        "desc": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
-      },
-      {
-        "date": "22 Ağu",
-        "source": "Simon Willison",
-        "title": "llm 0.33",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.33\">llm 0.33</a></p>\n        <p>My highlights from this release:</p>\n<blockquote>\n<ul>\n<li>Upgraded to the OpenAI Python library 3.x and ",
-        "url": "https://simonwillison.net/2026/Aug/22/llm/"
-      },
-      {
-        "date": "22 Ağu",
-        "source": "TechCrunch",
-        "title": "OpenAI says California should strengthen its AI safety bill",
-        "desc": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-        "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
       }
     ],
     "kod": [
+      {
+        "date": "23 Ağu",
+        "source": "Simon Willison",
+        "title": "Quoting Drew Breunig",
+        "desc": "<blockquote cite=\"https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html\"><p>Prior to Fable, it felt silly to waste <em>too</em> much time improving your coding harness or context strategies. A new model w",
+        "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/"
+      },
       {
         "date": "22 Ağu",
         "source": "Simon Willison",
@@ -95,16 +102,16 @@
         "title": "Conceptual integrity and counting lines of code",
         "desc": "<p>Last week I recorded <a href=\"https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison\">an episode of the Talking Postgres podcast</a> with Claire Giordano on the subject of \"Ho",
         "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/"
-      },
-      {
-        "date": "19 Ağu",
-        "source": "GitHub Blog",
-        "title": "GitHub Copilot app for Beginners: Managing your work",
-        "desc": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.\nThe post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog.",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/"
       }
     ],
     "arac": [
+      {
+        "date": "23 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+        "desc": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+        "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/"
+      },
       {
         "date": "22 Ağu",
         "source": "Product Hunt",
@@ -146,13 +153,6 @@
         "title": "AutoClaw",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/z-ai"
-      },
-      {
-        "date": "21 Ağu",
-        "source": "Product Hunt",
-        "title": "Open Analytics",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/open-analytics-2"
       }
     ]
   }
