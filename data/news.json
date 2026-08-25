@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-08-25T06:22:33.060Z",
+  "generated_at": "2026-08-25T12:21:08.253Z",
   "generated_at_tr": "25 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "25 Ağu",
+        "source": "The Verge",
+        "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+        "desc": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last mont",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "MIT Tech Review",
+        "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+        "desc": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodi",
+        "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/"
+      },
       {
         "date": "25 Ağu",
         "source": "Stack Overflow Blog",
@@ -33,27 +47,20 @@
       },
       {
         "date": "24 Ağu",
-        "source": "TechCrunch",
-        "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-        "desc": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor",
-        "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "TechCrunch",
-        "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-        "desc": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "MIT Tech Review",
-        "title": "How to encourage smarter AI use in the classroom",
-        "desc": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon th",
-        "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/"
+        "source": "Product Hunt",
+        "title": "ChatGPT Ad Library",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/chatgpt-ad-library"
       }
     ],
     "kod": [
+      {
+        "date": "25 Ağu",
+        "source": "MIT Tech Review",
+        "title": "Welcome to the spiderverse, a world measured through webs",
+        "desc": "Counting the creatures in the world around us is critical for a raft of conservation efforts. It helps scientists gauge biodiversity, track migration, and spot invasive species. That census-taking, though, often requires",
+        "url": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/"
+      },
       {
         "date": "24 Ağu",
         "source": "TechCrunch",
@@ -95,16 +102,16 @@
         "title": "Mother tongue",
         "desc": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and s",
         "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/"
-      },
-      {
-        "date": "20 Ağu",
-        "source": "Simon Willison",
-        "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
-        "desc": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/bun-webview-json-api#readme\">A shot-scraper-style JSON API on Bun 1.4&#x27;s new Bun.WebView</a></p>\n        <p>Today saw the long await",
-        "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/"
       }
     ],
     "arac": [
+      {
+        "date": "25 Ağu",
+        "source": "Product Hunt",
+        "title": "Keymap",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/keymap"
+      },
       {
         "date": "24 Ağu",
         "source": "GitHub Blog",
@@ -121,6 +128,20 @@
       },
       {
         "date": "24 Ağu",
+        "source": "Product Hunt",
+        "title": "Splitsense",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/splitsense"
+      },
+      {
+        "date": "24 Ağu",
+        "source": "Product Hunt",
+        "title": "whoisthegoat.lol",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/whoisthegoat-lol"
+      },
+      {
+        "date": "24 Ağu",
         "source": "TechCrunch",
         "title": "Hugging Face reportedly in talks to be acquired for $13B",
         "desc": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
@@ -129,30 +150,9 @@
       {
         "date": "24 Ağu",
         "source": "Product Hunt",
-        "title": "Antigravity Remote Control",
+        "title": "Altar II",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/google-antigravity"
-      },
-      {
-        "date": "23 Ağu",
-        "source": "Product Hunt",
-        "title": "Wavepocket ▶︎•၊||၊||။၊|။",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/wavepocket-free-ios-app"
-      },
-      {
-        "date": "23 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Uber faces fine of nearly $1B over automated driver suspensions",
-        "desc": "The Dutch Data Protection Authority is fining Uber €825 million in the second-largest penalty issued under Europe’s GDPR.",
-        "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/"
-      },
-      {
-        "date": "23 Ağu",
-        "source": "Product Hunt",
-        "title": "Dropstone",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/dropstone-2"
+        "url": "https://www.producthunt.com/products/electronic-materials-office-altar-i"
       }
     ]
   }
