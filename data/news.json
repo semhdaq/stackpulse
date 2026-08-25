@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-08-24T18:20:41.843Z",
-  "generated_at_tr": "24 Ağu 2026",
+  "generated_at": "2026-08-25T00:30:18.274Z",
+  "generated_at_tr": "25 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "25 Ağu",
+        "source": "TechCrunch",
+        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+        "desc": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+        "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+      },
       {
         "date": "24 Ağu",
         "source": "TechCrunch",
         "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-        "desc": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+        "desc": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
         "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
+      },
+      {
+        "date": "24 Ağu",
+        "source": "Simon Willison",
+        "title": "llm-anthropic 0.27",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.27\">llm-anthropic 0.27</a></p>\n        <p>This release of the Anthropic plugin for <a href=\"https://llm.datasette.io/\">LLM</a> ",
+        "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/"
       },
       {
         "date": "24 Ağu",
@@ -37,23 +51,23 @@
         "title": "Responsible AI adoption needs developer workflow design",
         "desc": "Organizations cannot solve shadow AI with a document employees read once. They need to make responsible use easier than improvised use.",
         "url": "https://stackoverflow.blog/2026/08/24/responsible-ai-adoption-needs-developer-workflow-design/"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "MIT Tech Review",
-        "title": "The Download: kids outlearning AI, and space travel agents",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human lang",
-        "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "MIT Tech Review",
-        "title": "Kids outlearn AI—and we still don’t know why",
-        "desc": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child",
-        "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
       }
     ],
     "kod": [
+      {
+        "date": "24 Ağu",
+        "source": "TechCrunch",
+        "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+        "desc": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+        "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/"
+      },
+      {
+        "date": "24 Ağu",
+        "source": "TechCrunch",
+        "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+        "desc": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+        "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/"
+      },
       {
         "date": "24 Ağu",
         "source": "Simon Willison",
@@ -88,23 +102,23 @@
         "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
         "desc": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/bun-webview-json-api#readme\">A shot-scraper-style JSON API on Bun 1.4&#x27;s new Bun.WebView</a></p>\n        <p>Today saw the long await",
         "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/"
-      },
-      {
-        "date": "19 Ağu",
-        "source": "Simon Willison",
-        "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
-        "desc": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/smolmachines-untrusted-sandbox#readme\">smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript</a></p>\n        <p>I tas",
-        "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/"
-      },
-      {
-        "date": "19 Ağu",
-        "source": "Simon Willison",
-        "title": "Conceptual integrity and counting lines of code",
-        "desc": "<p>Last week I recorded <a href=\"https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison\">an episode of the Talking Postgres podcast</a> with Claire Giordano on the subject of \"Ho",
-        "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/"
       }
     ],
     "arac": [
+      {
+        "date": "24 Ağu",
+        "source": "GitHub Blog",
+        "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
+        "desc": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works.\nThe post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared fir",
+        "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/"
+      },
+      {
+        "date": "24 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Zillow and Redfin settle FTC antitrust case",
+        "desc": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
+        "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/"
+      },
       {
         "date": "24 Ağu",
         "source": "TechCrunch",
@@ -139,20 +153,6 @@
         "title": "Dropstone",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/dropstone-2"
-      },
-      {
-        "date": "23 Ağu",
-        "source": "Product Hunt",
-        "title": "Lucid Train",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/lucid-train"
-      },
-      {
-        "date": "23 Ağu",
-        "source": "Product Hunt",
-        "title": "IFAH",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/ifah-a-new-experience-of-sound"
       }
     ]
   }
