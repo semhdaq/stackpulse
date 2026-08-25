@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-08-25T12:21:08.253Z",
+  "generated_at": "2026-08-25T18:20:19.680Z",
   "generated_at_tr": "25 Ağu 2026",
   "categories": {
     "ai": [
       {
         "date": "25 Ağu",
+        "source": "MIT Tech Review",
+        "title": "Art and algorithms at Sotheby’s",
+        "desc": "Do fine art and high tech ever converge? At Sotheby’s they do, thanks to Kelly Shen ’17. Shen works in the growing field of art intelligence for the New York auction house. Shen builds algorithms to predict prices, using",
+        "url": "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "TechCrunch",
+        "title": "Claude Cowork finally remembers what you told the app in chat",
+        "desc": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+        "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "TechCrunch",
+        "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+        "desc": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+        "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"
+      },
+      {
+        "date": "25 Ağu",
         "source": "The Verge",
-        "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-        "desc": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last mont",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack"
+        "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+        "desc": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "TechCrunch",
+        "title": "Accel-backed Keenable is indexing the web for AI agents",
+        "desc": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+        "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
       },
       {
         "date": "25 Ağu",
         "source": "MIT Tech Review",
-        "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-        "desc": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodi",
-        "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "Stack Overflow Blog",
-        "title": "Inside LinkedIn's cognitive memory agent for agentic personalization",
-        "desc": "Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn's hiring assistant a persistent, personalized state.",
-        "url": "https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/"
+        "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise",
+        "url": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/"
       },
       {
         "date": "25 Ağu",
         "source": "TechCrunch",
-        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-        "desc": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-        "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "TechCrunch",
-        "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-        "desc": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-        "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "Simon Willison",
-        "title": "llm-anthropic 0.27",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.27\">llm-anthropic 0.27</a></p>\n        <p>This release of the Anthropic plugin for <a href=\"https://llm.datasette.io/\">LLM</a> ",
-        "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "Product Hunt",
-        "title": "ChatGPT Ad Library",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/chatgpt-ad-library"
+        "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+        "desc": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+        "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/"
       }
     ],
     "kod": [
+      {
+        "date": "25 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Uber launches live video streaming for teen accounts",
+        "desc": "Uber said no one will be able to access the video once the ride ends.",
+        "url": "https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/"
+      },
       {
         "date": "25 Ağu",
         "source": "MIT Tech Review",
@@ -95,16 +102,37 @@
         "title": "More than just code review",
         "desc": "<p>The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way.</p>",
         "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/"
-      },
-      {
-        "date": "21 Ağu",
-        "source": "MIT Tech Review",
-        "title": "Mother tongue",
-        "desc": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and s",
-        "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/"
       }
     ],
     "arac": [
+      {
+        "date": "25 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
+        "desc": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features help households keep tabs on feeding, walks, medication, and more.",
+        "url": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "TechCrunch",
+        "title": "Gamma acquires Accel-backed design startup Lica",
+        "desc": "Lica co-founders are going to work on Gamma's new research team.",
+        "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
+        "desc": "The social app founded by Bonobos co-founder Andy Dunn is expanding beyond events with new digital homes for groups to connect, organize, and make plans.",
+        "url": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "WhatsApp tightens account security with stronger two-step verification and more",
+        "desc": "WhatsApp’s two-step verification previously relied on a six-digit PIN, but now users can choose a longer, alphanumeric password with special characters.",
+        "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/"
+      },
       {
         "date": "25 Ağu",
         "source": "Product Hunt",
@@ -125,34 +153,6 @@
         "title": "Zillow and Redfin settle FTC antitrust case",
         "desc": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
         "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "Product Hunt",
-        "title": "Splitsense",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/splitsense"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "Product Hunt",
-        "title": "whoisthegoat.lol",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/whoisthegoat-lol"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "TechCrunch",
-        "title": "Hugging Face reportedly in talks to be acquired for $13B",
-        "desc": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
-        "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "Product Hunt",
-        "title": "Altar II",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/electronic-materials-office-altar-i"
       }
     ]
   }
