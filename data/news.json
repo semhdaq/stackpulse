@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-08-25T00:30:18.274Z",
+  "generated_at": "2026-08-25T06:22:33.060Z",
   "generated_at_tr": "25 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "25 Ağu",
+        "source": "Stack Overflow Blog",
+        "title": "Inside LinkedIn's cognitive memory agent for agentic personalization",
+        "desc": "Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn's hiring assistant a persistent, personalized state.",
+        "url": "https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/"
+      },
       {
         "date": "25 Ağu",
         "source": "TechCrunch",
@@ -44,13 +51,6 @@
         "title": "How to encourage smarter AI use in the classroom",
         "desc": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon th",
         "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "Stack Overflow Blog",
-        "title": "Responsible AI adoption needs developer workflow design",
-        "desc": "Organizations cannot solve shadow AI with a document employees read once. They need to make responsible use easier than improvised use.",
-        "url": "https://stackoverflow.blog/2026/08/24/responsible-ai-adoption-needs-developer-workflow-design/"
       }
     ],
     "kod": [
