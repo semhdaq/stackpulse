@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-08-26T12:23:27.528Z",
+  "generated_at": "2026-08-26T19:27:44.314Z",
   "generated_at_tr": "26 Ağu 2026",
   "categories": {
     "ai": [
       {
         "date": "26 Ağu",
+        "source": "TechCrunch",
+        "title": "OpenAI releases its official report on the Hugging Face breach",
+        "desc": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+        "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/"
+      },
+      {
+        "date": "26 Ağu",
         "source": "MIT Tech Review",
-        "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use of technology was onc",
-        "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/"
+        "title": "The inside story on why OpenAI agents hacked Hugging Face",
+        "desc": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a gro",
+        "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
       },
       {
         "date": "26 Ağu",
         "source": "The Verge",
-        "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-        "desc": "Bill Gates, chair of the Gates Foundation, speaks during a 2024 conference. | Bloomberg via Getty Images\t\n\nBill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunc",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet"
+        "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+        "desc": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the l",
+        "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai"
       },
       {
         "date": "26 Ağu",
         "source": "TechCrunch",
-        "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-        "desc": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
-        "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/"
+        "title": "Radar makes podcasts searchable — and usable by AI agents",
+        "desc": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+        "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/"
       },
       {
         "date": "26 Ağu",
-        "source": "MIT Tech Review",
-        "title": "Raised on AI",
-        "desc": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creatin",
-        "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/"
+        "source": "TechCrunch",
+        "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+        "desc": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+        "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/"
       },
       {
         "date": "26 Ağu",
-        "source": "MIT Tech Review",
-        "title": "AI models flub these intelligence tests. Can you fare any better?",
-        "desc": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming g",
-        "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/"
+        "source": "TechCrunch",
+        "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+        "desc": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+        "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/"
       },
       {
         "date": "26 Ağu",
-        "source": "Simon Willison",
-        "title": "Quoting Paul Dix",
-        "desc": "<blockquote cite=\"https://pauldix.com/the-end-of-programming\"><p>The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently ru",
-        "url": "https://simonwillison.net/2026/Aug/26/paul-dix/"
-      },
-      {
-        "date": "26 Ağu",
-        "source": "MIT Tech Review",
-        "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-        "desc": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates",
-        "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
+        "source": "VentureBeat",
+        "title": "Orchestration is the new challenge for CX in the age of AI agents",
+        "desc": "Presented by Tata Communications \n\nEnterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has",
+        "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
       }
     ],
     "kod": [
+      {
+        "date": "26 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Bluesky now lets you upload 10-minute long videos",
+        "desc": "Bluesky's new 10-minute video support includes faster upload speeds, too.",
+        "url": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/"
+      },
       {
         "date": "25 Ağu",
         "source": "Simon Willison",
@@ -84,27 +91,41 @@
       },
       {
         "date": "24 Ağu",
-        "source": "TechCrunch",
-        "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-        "desc": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-        "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "TechCrunch",
-        "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-        "desc": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
-        "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "date": "24 Ağu",
         "source": "Simon Willison",
         "title": "Your executable is a SQLite database",
         "desc": "<p><strong><a href=\"https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database\">Your executable is a SQLite database</a></strong></p>\nFarid Zakaria describes a neat Linux pattern for creating a SQLite database ",
         "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/"
+      },
+      {
+        "date": "23 Ağu",
+        "source": "Simon Willison",
+        "title": "Quoting Drew Breunig",
+        "desc": "<blockquote cite=\"https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html\"><p>Prior to Fable, it felt silly to waste <em>too</em> much time improving your coding harness or context strategies. A new model w",
+        "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/"
       }
     ],
     "arac": [
+      {
+        "date": "26 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
+        "desc": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.",
+        "url": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/"
+      },
+      {
+        "date": "26 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states",
+        "desc": "One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission.",
+        "url": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/"
+      },
+      {
+        "date": "26 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Ring introduces a new encryption standard, makes it the default for cloud features",
+        "desc": "Ring says  users can still opt for end-to-end encryption.",
+        "url": "https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/"
+      },
       {
         "date": "26 Ağu",
         "source": "Product Hunt",
@@ -132,27 +153,6 @@
         "title": "AgeLab research inspires an A I startup",
         "desc": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be ",
         "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "MIT Tech Review",
-        "title": "Amping up T cells to target cancer",
-        "desc": "Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don’t stimulate enough",
-        "url": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "Product Hunt",
-        "title": "BaudBuddy",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/baudbuddy-serial-terminal"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "Product Hunt",
-        "title": "DeployHermes",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/deployhermes"
       }
     ]
   }
