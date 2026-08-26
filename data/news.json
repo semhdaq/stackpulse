@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-08-26T00:31:28.747Z",
+  "generated_at": "2026-08-26T06:24:59.865Z",
   "generated_at_tr": "26 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "26 Ağu",
+        "source": "TechCrunch",
+        "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+        "desc": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+        "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/"
+      },
+      {
+        "date": "26 Ağu",
+        "source": "TechCrunch",
+        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+        "desc": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+        "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/"
+      },
       {
         "date": "26 Ağu",
         "source": "TechCrunch",
@@ -37,20 +51,6 @@
         "title": "Seeing through murky waters",
         "desc": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settl",
         "url": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "MIT Tech Review",
-        "title": "Your brain on AI",
-        "desc": "Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem with this strategy.  Participants who evaluated paired news h",
-        "url": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "TechCrunch",
-        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-        "desc": "The company's new fundraising total now stands at $232 million.",
-        "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
       }
     ],
     "kod": [
@@ -150,9 +150,9 @@
       {
         "date": "25 Ağu",
         "source": "TechCrunch Apps",
-        "title": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
-        "desc": "The social app founded by Bonobos co-founder Andy Dunn is expanding beyond events with new digital homes for groups to connect, organize, and make plans.",
-        "url": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/"
+        "title": "WhatsApp tightens account security with stronger two-step verification and more",
+        "desc": "WhatsApp’s two-step verification previously relied on a six-digit PIN, but now users can choose a longer, alphanumeric password with special characters.",
+        "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/"
       }
     ]
   }
