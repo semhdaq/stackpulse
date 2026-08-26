@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-08-26T06:24:59.865Z",
+  "generated_at": "2026-08-26T12:23:27.528Z",
   "generated_at_tr": "26 Ağu 2026",
   "categories": {
     "ai": [
       {
         "date": "26 Ağu",
-        "source": "TechCrunch",
-        "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-        "desc": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
-        "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/"
+        "source": "MIT Tech Review",
+        "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use of technology was onc",
+        "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/"
+      },
+      {
+        "date": "26 Ağu",
+        "source": "The Verge",
+        "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+        "desc": "Bill Gates, chair of the Gates Foundation, speaks during a 2024 conference. | Bloomberg via Getty Images\t\n\nBill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunc",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet"
       },
       {
         "date": "26 Ağu",
         "source": "TechCrunch",
-        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-        "desc": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
-        "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/"
+        "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+        "desc": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+        "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/"
       },
       {
         "date": "26 Ağu",
-        "source": "TechCrunch",
-        "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-        "desc": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
-        "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "GitHub Blog",
-        "title": "How to evaluate LLMs before production",
-        "desc": "These are the lessons we learned evaluating LLMs for real-world secret scanning.\nThe post How to evaluate LLMs before production appeared first on The GitHub Blog.",
-        "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/"
-      },
-      {
-        "date": "25 Ağu",
         "source": "MIT Tech Review",
-        "title": "Addressing a sticking point in sustainable adhesives",
-        "desc": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a c",
-        "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/"
+        "title": "Raised on AI",
+        "desc": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creatin",
+        "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/"
       },
       {
-        "date": "25 Ağu",
+        "date": "26 Ağu",
         "source": "MIT Tech Review",
-        "title": "A new stamp on cyberfraud prevention",
-        "desc": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detai",
-        "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/"
+        "title": "AI models flub these intelligence tests. Can you fare any better?",
+        "desc": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming g",
+        "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/"
       },
       {
-        "date": "25 Ağu",
+        "date": "26 Ağu",
+        "source": "Simon Willison",
+        "title": "Quoting Paul Dix",
+        "desc": "<blockquote cite=\"https://pauldix.com/the-end-of-programming\"><p>The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently ru",
+        "url": "https://simonwillison.net/2026/Aug/26/paul-dix/"
+      },
+      {
+        "date": "26 Ağu",
         "source": "MIT Tech Review",
-        "title": "Seeing through murky waters",
-        "desc": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settl",
-        "url": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/"
+        "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+        "desc": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates",
+        "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
       }
     ],
     "kod": [
@@ -67,20 +67,6 @@
         "title": "YouTuber finds niche as college admissions mentor",
         "desc": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young peop",
         "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "MIT Tech Review",
-        "title": "Taking your temperature from the inside",
-        "desc": "Oral and forehead thermometers may not accurately capture a person’s core body temperature, and the few ingestible temperature sensors on the market are so big they are hard to swallow and risk obstructing the GI tract. ",
-        "url": "https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "MIT Tech Review",
-        "title": "MIT tech powered the Artemis II livestreams",
-        "desc": "During the original US missions to the moon in the 1960s and ’70s, astronauts relied on radio-­frequency systems to communicate, sending grainy, low-quality images and videos to Earth. But on the Artemis II Orion mission",
-        "url": "https://www.technologyreview.com/2026/08/25/1140961/mit-tech-powered-the-artemis-ii-livestreams/"
       },
       {
         "date": "25 Ağu",
@@ -102,9 +88,37 @@
         "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
         "desc": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
         "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/"
+      },
+      {
+        "date": "24 Ağu",
+        "source": "TechCrunch",
+        "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+        "desc": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+        "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "date": "24 Ağu",
+        "source": "Simon Willison",
+        "title": "Your executable is a SQLite database",
+        "desc": "<p><strong><a href=\"https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database\">Your executable is a SQLite database</a></strong></p>\nFarid Zakaria describes a neat Linux pattern for creating a SQLite database ",
+        "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/"
       }
     ],
     "arac": [
+      {
+        "date": "26 Ağu",
+        "source": "Product Hunt",
+        "title": "OpenComputer",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/opencomputer"
+      },
+      {
+        "date": "26 Ağu",
+        "source": "Product Hunt",
+        "title": "HEVN U.S.",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/hevn-u-s-accounts-for-non-us-companies"
+      },
       {
         "date": "25 Ağu",
         "source": "MIT Tech Review",
@@ -128,31 +142,17 @@
       },
       {
         "date": "25 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
-        "desc": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with e",
-        "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/"
+        "source": "Product Hunt",
+        "title": "BaudBuddy",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/baudbuddy-serial-terminal"
       },
       {
         "date": "25 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
-        "desc": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features help households keep tabs on feeding, walks, medication, and more.",
-        "url": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "TechCrunch",
-        "title": "Gamma acquires Accel-backed design startup Lica",
-        "desc": "Lica co-founders are going to work on Gamma's new research team.",
-        "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "WhatsApp tightens account security with stronger two-step verification and more",
-        "desc": "WhatsApp’s two-step verification previously relied on a six-digit PIN, but now users can choose a longer, alphanumeric password with special characters.",
-        "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/"
+        "source": "Product Hunt",
+        "title": "DeployHermes",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/deployhermes"
       }
     ]
   }
