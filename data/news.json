@@ -1,59 +1,94 @@
 {
-  "generated_at": "2026-08-25T18:20:19.680Z",
-  "generated_at_tr": "25 Ağu 2026",
+  "generated_at": "2026-08-26T00:31:28.747Z",
+  "generated_at_tr": "26 Ağu 2026",
   "categories": {
     "ai": [
       {
-        "date": "25 Ağu",
-        "source": "MIT Tech Review",
-        "title": "Art and algorithms at Sotheby’s",
-        "desc": "Do fine art and high tech ever converge? At Sotheby’s they do, thanks to Kelly Shen ’17. Shen works in the growing field of art intelligence for the New York auction house. Shen builds algorithms to predict prices, using",
-        "url": "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/"
-      },
-      {
-        "date": "25 Ağu",
+        "date": "26 Ağu",
         "source": "TechCrunch",
-        "title": "Claude Cowork finally remembers what you told the app in chat",
-        "desc": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
-        "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
+        "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+        "desc": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+        "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/"
       },
       {
         "date": "25 Ağu",
-        "source": "TechCrunch",
-        "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-        "desc": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
-        "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "The Verge",
-        "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-        "desc": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "TechCrunch",
-        "title": "Accel-backed Keenable is indexing the web for AI agents",
-        "desc": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
-        "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
+        "source": "GitHub Blog",
+        "title": "How to evaluate LLMs before production",
+        "desc": "These are the lessons we learned evaluating LLMs for real-world secret scanning.\nThe post How to evaluate LLMs before production appeared first on The GitHub Blog.",
+        "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/"
       },
       {
         "date": "25 Ağu",
         "source": "MIT Tech Review",
-        "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise",
-        "url": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/"
+        "title": "Addressing a sticking point in sustainable adhesives",
+        "desc": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a c",
+        "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "MIT Tech Review",
+        "title": "A new stamp on cyberfraud prevention",
+        "desc": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detai",
+        "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "MIT Tech Review",
+        "title": "Seeing through murky waters",
+        "desc": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settl",
+        "url": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "MIT Tech Review",
+        "title": "Your brain on AI",
+        "desc": "Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem with this strategy.  Participants who evaluated paired news h",
+        "url": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/"
       },
       {
         "date": "25 Ağu",
         "source": "TechCrunch",
-        "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-        "desc": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-        "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/"
+        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+        "desc": "The company's new fundraising total now stands at $232 million.",
+        "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
       }
     ],
     "kod": [
+      {
+        "date": "25 Ağu",
+        "source": "Simon Willison",
+        "title": "EVE Online: The Move to Python 3 Begins!",
+        "desc": "<p><strong><a href=\"https://www.eveonline.com/news/view/the-move-to-python-3-begins\">EVE Online: The Move to Python 3 Begins!</a></strong></p>\nEVE Online has been one of the most interesting case studies in Python at sca",
+        "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "MIT Tech Review",
+        "title": "YouTuber finds niche as college admissions mentor",
+        "desc": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young peop",
+        "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "MIT Tech Review",
+        "title": "Taking your temperature from the inside",
+        "desc": "Oral and forehead thermometers may not accurately capture a person’s core body temperature, and the few ingestible temperature sensors on the market are so big they are hard to swallow and risk obstructing the GI tract. ",
+        "url": "https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "MIT Tech Review",
+        "title": "MIT tech powered the Artemis II livestreams",
+        "desc": "During the original US missions to the moon in the 1960s and ’70s, astronauts relied on radio-­frequency systems to communicate, sending grainy, low-quality images and videos to Earth. But on the Artemis II Orion mission",
+        "url": "https://www.technologyreview.com/2026/08/25/1140961/mit-tech-powered-the-artemis-ii-livestreams/"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+        "desc": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
+        "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/"
+      },
       {
         "date": "25 Ağu",
         "source": "TechCrunch Apps",
@@ -62,49 +97,42 @@
         "url": "https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/"
       },
       {
-        "date": "25 Ağu",
-        "source": "MIT Tech Review",
-        "title": "Welcome to the spiderverse, a world measured through webs",
-        "desc": "Counting the creatures in the world around us is critical for a raft of conservation efforts. It helps scientists gauge biodiversity, track migration, and spot invasive species. That census-taking, though, often requires",
-        "url": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/"
-      },
-      {
         "date": "24 Ağu",
         "source": "TechCrunch",
         "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
         "desc": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
         "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "TechCrunch",
-        "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-        "desc": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
-        "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "Simon Willison",
-        "title": "Your executable is a SQLite database",
-        "desc": "<p><strong><a href=\"https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database\">Your executable is a SQLite database</a></strong></p>\nFarid Zakaria describes a neat Linux pattern for creating a SQLite database ",
-        "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/"
-      },
-      {
-        "date": "23 Ağu",
-        "source": "Simon Willison",
-        "title": "Quoting Drew Breunig",
-        "desc": "<blockquote cite=\"https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html\"><p>Prior to Fable, it felt silly to waste <em>too</em> much time improving your coding harness or context strategies. A new model w",
-        "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/"
-      },
-      {
-        "date": "22 Ağu",
-        "source": "Simon Willison",
-        "title": "More than just code review",
-        "desc": "<p>The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way.</p>",
-        "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/"
       }
     ],
     "arac": [
+      {
+        "date": "25 Ağu",
+        "source": "MIT Tech Review",
+        "title": "Launching youth entrepreneurship",
+        "desc": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science",
+        "url": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "MIT Tech Review",
+        "title": "AgeLab research inspires an A I startup",
+        "desc": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be ",
+        "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "MIT Tech Review",
+        "title": "Amping up T cells to target cancer",
+        "desc": "Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don’t stimulate enough",
+        "url": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/"
+      },
+      {
+        "date": "25 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+        "desc": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with e",
+        "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/"
+      },
       {
         "date": "25 Ağu",
         "source": "TechCrunch Apps",
@@ -125,34 +153,6 @@
         "title": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
         "desc": "The social app founded by Bonobos co-founder Andy Dunn is expanding beyond events with new digital homes for groups to connect, organize, and make plans.",
         "url": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "WhatsApp tightens account security with stronger two-step verification and more",
-        "desc": "WhatsApp’s two-step verification previously relied on a six-digit PIN, but now users can choose a longer, alphanumeric password with special characters.",
-        "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "Product Hunt",
-        "title": "Keymap",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/keymap"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "GitHub Blog",
-        "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
-        "desc": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works.\nThe post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared fir",
-        "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Zillow and Redfin settle FTC antitrust case",
-        "desc": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
-        "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/"
       }
     ]
   }
