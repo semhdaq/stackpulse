@@ -1,59 +1,87 @@
 {
-  "generated_at": "2026-08-26T19:27:44.314Z",
-  "generated_at_tr": "26 Ağu 2026",
+  "generated_at": "2026-08-27T16:56:08.414Z",
+  "generated_at_tr": "27 Ağu 2026",
   "categories": {
     "ai": [
       {
-        "date": "26 Ağu",
+        "date": "27 Ağu",
         "source": "TechCrunch",
-        "title": "OpenAI releases its official report on the Hugging Face breach",
-        "desc": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-        "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/"
+        "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+        "desc": "The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking proc",
+        "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/"
       },
       {
-        "date": "26 Ağu",
-        "source": "MIT Tech Review",
-        "title": "The inside story on why OpenAI agents hacked Hugging Face",
-        "desc": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a gro",
-        "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-      },
-      {
-        "date": "26 Ağu",
-        "source": "The Verge",
-        "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-        "desc": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the l",
-        "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai"
-      },
-      {
-        "date": "26 Ağu",
-        "source": "TechCrunch",
-        "title": "Radar makes podcasts searchable — and usable by AI agents",
-        "desc": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-        "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/"
-      },
-      {
-        "date": "26 Ağu",
-        "source": "TechCrunch",
-        "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-        "desc": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-        "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/"
-      },
-      {
-        "date": "26 Ağu",
-        "source": "TechCrunch",
-        "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-        "desc": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
-        "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/"
-      },
-      {
-        "date": "26 Ağu",
+        "date": "27 Ağu",
         "source": "VentureBeat",
         "title": "Orchestration is the new challenge for CX in the age of AI agents",
         "desc": "Presented by Tata Communications \n\nEnterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has",
         "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
+      },
+      {
+        "date": "27 Ağu",
+        "source": "TechCrunch",
+        "title": "AI’s memory crunch is coming for Android apps",
+        "desc": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+        "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/"
+      },
+      {
+        "date": "27 Ağu",
+        "source": "TechCrunch",
+        "title": "Here’s all the times AI has gone rogue and hacked other companies",
+        "desc": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+        "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/"
+      },
+      {
+        "date": "27 Ağu",
+        "source": "VentureBeat",
+        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "desc": "Presented by Gravitee \n\nAgent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.\nThat’s because enterprises don't deploy a single agent and watch it run, they deploy f",
+        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
+      },
+      {
+        "date": "27 Ağu",
+        "source": "The Verge",
+        "title": "OpenAI&#8217;s executive exodus has one big winner",
+        "desc": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg B",
+        "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus"
+      },
+      {
+        "date": "27 Ağu",
+        "source": "The Verge",
+        "title": "Hugging Face’s new robot is an adorable rollerskating duck",
+        "desc": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue",
+        "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot"
       }
     ],
     "kod": [
+      {
+        "date": "27 Ağu",
+        "source": "GitHub Blog",
+        "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+        "desc": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months.\nThe post OpenClaw went viral. Meet the maintainers building ",
+        "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/"
+      },
+      {
+        "date": "27 Ağu",
+        "source": "TechCrunch",
+        "title": "Hugging Face is selling a cute $399 open-source duck robot, Microduck",
+        "desc": "Hugging Face is taking orders for the Microduck, a $399 tiny open-source duck robot that developers can train at home out of the box.",
+        "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
+      },
+      {
+        "date": "26 Ağu",
+        "source": "Simon Willison",
+        "title": "Qwen3.8-Flash-Next",
+        "desc": "<p><strong><a href=\"https://qwen.ai/blog?id=qwen3.8-flash-next\">Qwen3.8-Flash-Next</a></strong></p>\nAnother open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the ar",
+        "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/"
+      },
+      {
+        "date": "26 Ağu",
+        "source": "GitHub Blog",
+        "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+        "desc": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task.\nThe post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared firs",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/"
+      },
       {
         "date": "26 Ağu",
         "source": "TechCrunch Apps",
@@ -74,85 +102,57 @@
         "title": "YouTuber finds niche as college admissions mentor",
         "desc": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young peop",
         "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
-        "desc": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
-        "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Uber launches live video streaming for teen accounts",
-        "desc": "Uber said no one will be able to access the video once the ride ends.",
-        "url": "https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/"
-      },
-      {
-        "date": "24 Ağu",
-        "source": "Simon Willison",
-        "title": "Your executable is a SQLite database",
-        "desc": "<p><strong><a href=\"https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database\">Your executable is a SQLite database</a></strong></p>\nFarid Zakaria describes a neat Linux pattern for creating a SQLite database ",
-        "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/"
-      },
-      {
-        "date": "23 Ağu",
-        "source": "Simon Willison",
-        "title": "Quoting Drew Breunig",
-        "desc": "<blockquote cite=\"https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html\"><p>Prior to Fable, it felt silly to waste <em>too</em> much time improving your coding harness or context strategies. A new model w",
-        "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/"
       }
     ],
     "arac": [
       {
-        "date": "26 Ağu",
+        "date": "27 Ağu",
         "source": "TechCrunch Apps",
-        "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
-        "desc": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.",
-        "url": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/"
+        "title": "Hold up, there’s a new Twitter in town",
+        "desc": "Coates said in a LinkedIn post that the company is not trying to recreate Twitter.",
+        "url": "https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/"
       },
       {
-        "date": "26 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states",
-        "desc": "One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission.",
-        "url": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/"
+        "date": "27 Ağu",
+        "source": "The Verge",
+        "title": "Adobe is adding more AI to Photoshop",
+        "desc": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's AI features in a sin",
+        "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup"
       },
       {
-        "date": "26 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Ring introduces a new encryption standard, makes it the default for cloud features",
-        "desc": "Ring says  users can still opt for end-to-end encryption.",
-        "url": "https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/"
-      },
-      {
-        "date": "26 Ağu",
+        "date": "27 Ağu",
         "source": "Product Hunt",
-        "title": "OpenComputer",
+        "title": "IQ Routing",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/opencomputer"
+        "url": "https://www.producthunt.com/products/iq-routing"
       },
       {
-        "date": "26 Ağu",
+        "date": "27 Ağu",
         "source": "Product Hunt",
-        "title": "HEVN U.S.",
+        "title": "Wondering Canvas",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/hevn-u-s-accounts-for-non-us-companies"
+        "url": "https://www.producthunt.com/products/wondering-2"
       },
       {
-        "date": "25 Ağu",
-        "source": "MIT Tech Review",
-        "title": "Launching youth entrepreneurship",
-        "desc": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science",
-        "url": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/"
+        "date": "27 Ağu",
+        "source": "Product Hunt",
+        "title": "Pluto",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/pluto-11"
       },
       {
-        "date": "25 Ağu",
-        "source": "MIT Tech Review",
-        "title": "AgeLab research inspires an A I startup",
-        "desc": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be ",
-        "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/"
+        "date": "27 Ağu",
+        "source": "Product Hunt",
+        "title": "Ticket Fairy CLI",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/the-ticket-fairy"
+      },
+      {
+        "date": "27 Ağu",
+        "source": "Product Hunt",
+        "title": "Speko",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/speko"
       }
     ]
   }
