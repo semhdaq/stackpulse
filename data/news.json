@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-08-28T01:49:21.417Z",
+  "generated_at": "2026-08-28T17:46:20.860Z",
   "generated_at_tr": "28 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "28 Ağu",
+        "source": "TechCrunch",
+        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+        "desc": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+        "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"
+      },
+      {
+        "date": "28 Ağu",
+        "source": "TechCrunch",
+        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+        "desc": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+        "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"
+      },
+      {
+        "date": "28 Ağu",
+        "source": "Stack Overflow Blog",
+        "title": "When you keep AI Lean, you keep AI correct",
+        "desc": "Ryan chats with Leo de Moura, Senior Principal Applied Scientist at AWS and the creator of the Lean language, about proving correctness in AI agents with the Lean language, how automated reasoning complements probabilist",
+        "url": "https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/"
+      },
+      {
+        "date": "28 Ağu",
+        "source": "The Verge",
+        "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+        "desc": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. \nThe l",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling"
+      },
       {
         "date": "27 Ağu",
         "source": "TechCrunch",
@@ -19,41 +47,27 @@
       },
       {
         "date": "27 Ağu",
-        "source": "TechCrunch",
-        "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-        "desc": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-        "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "The Verge",
-        "title": "Google’s AI note-taking app now allows you to interact with books",
-        "desc": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Noteboo",
-        "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "TechCrunch",
-        "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-        "desc": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
-        "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist",
-        "desc": "Google teamed up with the Pokémon Company to introduce a special-edition Fitbit Air that works with the Pokémon Sleep app.",
-        "url": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "The Verge",
-        "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-        "desc": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately,",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi"
+        "source": "Product Hunt",
+        "title": "Gemini Omni 1.1 Flash",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/gemini-omni-1-1-flash"
       }
     ],
     "kod": [
+      {
+        "date": "28 Ağu",
+        "source": "MIT Tech Review",
+        "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I kn",
+        "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
+      },
+      {
+        "date": "28 Ağu",
+        "source": "MIT Tech Review",
+        "title": "How to sign up for a virtual power plant—and decide whether you should",
+        "desc": "MIT Technology Review’s How To series helps you get things done.  Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increa",
+        "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/"
+      },
       {
         "date": "27 Ağu",
         "source": "TechCrunch Apps",
@@ -76,35 +90,49 @@
         "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
       },
       {
+        "date": "27 Ağu",
+        "source": "Product Hunt",
+        "title": "Fide Island",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/fide-island"
+      },
+      {
         "date": "26 Ağu",
         "source": "Simon Willison",
         "title": "Qwen3.8-Flash-Next",
         "desc": "<p><strong><a href=\"https://qwen.ai/blog?id=qwen3.8-flash-next\">Qwen3.8-Flash-Next</a></strong></p>\nAnother open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the ar",
         "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/"
-      },
-      {
-        "date": "26 Ağu",
-        "source": "GitHub Blog",
-        "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-        "desc": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task.\nThe post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared firs",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/"
-      },
-      {
-        "date": "26 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Bluesky now lets you upload 10-minute long videos",
-        "desc": "Bluesky's new 10-minute video support includes faster upload speeds, too.",
-        "url": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "Simon Willison",
-        "title": "EVE Online: The Move to Python 3 Begins!",
-        "desc": "<p><strong><a href=\"https://www.eveonline.com/news/view/the-move-to-python-3-begins\">EVE Online: The Move to Python 3 Begins!</a></strong></p>\nEVE Online has been one of the most interesting case studies in Python at sca",
-        "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/"
       }
     ],
     "arac": [
+      {
+        "date": "28 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Friend-focused photo-sharing app Retro snags $21M",
+        "desc": "Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding.",
+        "url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/"
+      },
+      {
+        "date": "28 Ağu",
+        "source": "Product Hunt",
+        "title": "Revalvo",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/revalvo"
+      },
+      {
+        "date": "27 Ağu",
+        "source": "Product Hunt",
+        "title": "OpenTag",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/opentag"
+      },
+      {
+        "date": "27 Ağu",
+        "source": "Product Hunt",
+        "title": "Almanac",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/almanac-5"
+      },
       {
         "date": "27 Ağu",
         "source": "TechCrunch Apps",
@@ -116,7 +144,7 @@
         "date": "27 Ağu",
         "source": "MIT Tech Review",
         "title": "A startup claims it’s found a drug to make your blood young",
-        "desc": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable com",
+        "desc": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable com",
         "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
       },
       {
@@ -125,34 +153,6 @@
         "title": "Hold up, there’s a new Twitter in town",
         "desc": "Former Twitter trademark counsel Stephen Coates said in a LinkedIn post that the company is not trying to re-create Twitter.",
         "url": "https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "The Verge",
-        "title": "Adobe is adding more AI to Photoshop",
-        "desc": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's AI features in a sin",
-        "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "Product Hunt",
-        "title": "IQ Routing",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/iq-routing"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "Product Hunt",
-        "title": "Wondering Canvas",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/wondering-2"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "Product Hunt",
-        "title": "Pluto",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/pluto-11"
       }
     ]
   }
