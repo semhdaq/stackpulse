@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-08-27T16:56:08.414Z",
-  "generated_at_tr": "27 Ağu 2026",
+  "generated_at": "2026-08-28T01:49:21.417Z",
+  "generated_at_tr": "28 Ağu 2026",
   "categories": {
     "ai": [
       {
         "date": "27 Ağu",
         "source": "TechCrunch",
-        "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-        "desc": "The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking proc",
-        "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/"
+        "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+        "desc": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+        "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/"
       },
       {
         "date": "27 Ağu",
-        "source": "VentureBeat",
-        "title": "Orchestration is the new challenge for CX in the age of AI agents",
-        "desc": "Presented by Tata Communications \n\nEnterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has",
-        "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "TechCrunch",
-        "title": "AI’s memory crunch is coming for Android apps",
-        "desc": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
-        "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/"
+        "source": "Simon Willison",
+        "title": "Breaking Claude Code Opus 5 Auto Mode",
+        "desc": "<p><strong><a href=\"https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/\">Breaking Claude Code Opus 5 Auto Mode</a></strong></p>\nAnthropic are putting a great deal of faith in Claude Code's",
+        "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/"
       },
       {
         "date": "27 Ağu",
         "source": "TechCrunch",
-        "title": "Here’s all the times AI has gone rogue and hacked other companies",
-        "desc": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-        "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "VentureBeat",
-        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-        "desc": "Presented by Gravitee \n\nAgent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.\nThat’s because enterprises don't deploy a single agent and watch it run, they deploy f",
-        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
+        "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+        "desc": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+        "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/"
       },
       {
         "date": "27 Ağu",
         "source": "The Verge",
-        "title": "OpenAI&#8217;s executive exodus has one big winner",
-        "desc": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg B",
-        "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus"
+        "title": "Google’s AI note-taking app now allows you to interact with books",
+        "desc": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Noteboo",
+        "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books"
+      },
+      {
+        "date": "27 Ağu",
+        "source": "TechCrunch",
+        "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+        "desc": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+        "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
+      },
+      {
+        "date": "27 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist",
+        "desc": "Google teamed up with the Pokémon Company to introduce a special-edition Fitbit Air that works with the Pokémon Sleep app.",
+        "url": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/"
       },
       {
         "date": "27 Ağu",
         "source": "The Verge",
-        "title": "Hugging Face’s new robot is an adorable rollerskating duck",
-        "desc": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue",
-        "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot"
+        "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+        "desc": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately,",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi"
       }
     ],
     "kod": [
+      {
+        "date": "27 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+        "desc": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
+        "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/"
+      },
       {
         "date": "27 Ağu",
         "source": "GitHub Blog",
@@ -64,8 +71,8 @@
       {
         "date": "27 Ağu",
         "source": "TechCrunch",
-        "title": "Hugging Face is selling a cute $399 open-source duck robot, Microduck",
-        "desc": "Hugging Face is taking orders for the Microduck, a $399 tiny open-source duck robot that developers can train at home out of the box.",
+        "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+        "desc": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
         "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
       },
       {
@@ -95,21 +102,28 @@
         "title": "EVE Online: The Move to Python 3 Begins!",
         "desc": "<p><strong><a href=\"https://www.eveonline.com/news/view/the-move-to-python-3-begins\">EVE Online: The Move to Python 3 Begins!</a></strong></p>\nEVE Online has been one of the most interesting case studies in Python at sca",
         "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/"
-      },
-      {
-        "date": "25 Ağu",
-        "source": "MIT Tech Review",
-        "title": "YouTuber finds niche as college admissions mentor",
-        "desc": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young peop",
-        "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/"
       }
     ],
     "arac": [
       {
         "date": "27 Ağu",
         "source": "TechCrunch Apps",
+        "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
+        "desc": "Sometimes people just want to post to their followers, Bluesky says.",
+        "url": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/"
+      },
+      {
+        "date": "27 Ağu",
+        "source": "MIT Tech Review",
+        "title": "A startup claims it’s found a drug to make your blood young",
+        "desc": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable com",
+        "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
+      },
+      {
+        "date": "27 Ağu",
+        "source": "TechCrunch Apps",
         "title": "Hold up, there’s a new Twitter in town",
-        "desc": "Coates said in a LinkedIn post that the company is not trying to recreate Twitter.",
+        "desc": "Former Twitter trademark counsel Stephen Coates said in a LinkedIn post that the company is not trying to re-create Twitter.",
         "url": "https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/"
       },
       {
@@ -139,20 +153,6 @@
         "title": "Pluto",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/pluto-11"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "Product Hunt",
-        "title": "Ticket Fairy CLI",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/the-ticket-fairy"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "Product Hunt",
-        "title": "Speko",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/speko"
       }
     ]
   }
