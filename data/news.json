@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-08-29T11:50:57.400Z",
+  "generated_at": "2026-08-29T15:49:10.222Z",
   "generated_at_tr": "29 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "29 Ağu",
+        "source": "TechCrunch",
+        "title": "Nvidia’s AI advantage is moving beyond the GPU",
+        "desc": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+      },
+      {
+        "date": "29 Ağu",
+        "source": "The Verge",
+        "title": "Musicians-turned-detectives are hunting for AI grifters",
+        "desc": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of h",
+        "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai"
+      },
       {
         "date": "28 Ağu",
         "source": "TechCrunch",
@@ -37,20 +51,6 @@
         "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
         "desc": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
         "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "TechCrunch",
-        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-        "desc": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-        "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "Stack Overflow Blog",
-        "title": "When you keep AI Lean, you keep AI correct",
-        "desc": "Ryan chats with Leo de Moura, Senior Principal Applied Scientist at AWS and the creator of the Lean language, about proving correctness in AI agents with the Lean language, how automated reasoning complements probabilist",
-        "url": "https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/"
       }
     ],
     "kod": [
