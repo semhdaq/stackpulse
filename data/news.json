@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T01:13:08.583Z",
+  "generated_at": "2026-08-29T11:50:57.400Z",
   "generated_at_tr": "29 Ağu 2026",
   "categories": {
     "ai": [
@@ -107,10 +107,31 @@
     "arac": [
       {
         "date": "28 Ağu",
+        "source": "Product Hunt",
+        "title": "God’s Eye View",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/god-s-eye-view"
+      },
+      {
+        "date": "28 Ağu",
         "source": "TechCrunch Apps",
         "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
         "desc": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
         "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/"
+      },
+      {
+        "date": "28 Ağu",
+        "source": "Product Hunt",
+        "title": "Hy4 preview",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/hunyuan-a13b"
+      },
+      {
+        "date": "28 Ağu",
+        "source": "Product Hunt",
+        "title": "Cohere Parse 5",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/cohere-2"
       },
       {
         "date": "28 Ağu",
@@ -122,37 +143,16 @@
       {
         "date": "28 Ağu",
         "source": "Product Hunt",
+        "title": "Staats",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/staats-3"
+      },
+      {
+        "date": "28 Ağu",
+        "source": "Product Hunt",
         "title": "Revalvo",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/revalvo"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "Product Hunt",
-        "title": "OpenTag",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/opentag"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "Product Hunt",
-        "title": "Almanac",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/almanac-5"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
-        "desc": "Sometimes people just want to post to their followers, Bluesky says.",
-        "url": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "MIT Tech Review",
-        "title": "A startup claims it’s found a drug to make your blood young",
-        "desc": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable com",
-        "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
       }
     ]
   }
