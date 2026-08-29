@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-08-28T17:46:20.860Z",
-  "generated_at_tr": "28 Ağu 2026",
+  "generated_at": "2026-08-29T01:13:08.583Z",
+  "generated_at_tr": "29 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "28 Ağu",
+        "source": "TechCrunch",
+        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+        "desc": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+        "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+      },
+      {
+        "date": "28 Ağu",
+        "source": "TechCrunch",
+        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+        "desc": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+        "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
+      },
+      {
+        "date": "28 Ağu",
+        "source": "TechCrunch",
+        "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+        "desc": "There's a lot of capital pouring into the business of giving models away.",
+        "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
+      },
+      {
+        "date": "28 Ağu",
+        "source": "The Verge",
+        "title": "Trump’s EPA wants to let data centers hide their air pollution",
+        "desc": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create.\nThe EPA p",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit"
+      },
       {
         "date": "28 Ağu",
         "source": "TechCrunch",
@@ -23,37 +51,16 @@
         "title": "When you keep AI Lean, you keep AI correct",
         "desc": "Ryan chats with Leo de Moura, Senior Principal Applied Scientist at AWS and the creator of the Lean language, about proving correctness in AI agents with the Lean language, how automated reasoning complements probabilist",
         "url": "https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "The Verge",
-        "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-        "desc": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. \nThe l",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "TechCrunch",
-        "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-        "desc": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-        "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "Simon Willison",
-        "title": "Breaking Claude Code Opus 5 Auto Mode",
-        "desc": "<p><strong><a href=\"https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/\">Breaking Claude Code Opus 5 Auto Mode</a></strong></p>\nAnthropic are putting a great deal of faith in Claude Code's",
-        "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "Product Hunt",
-        "title": "Gemini Omni 1.1 Flash",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/gemini-omni-1-1-flash"
       }
     ],
     "kod": [
+      {
+        "date": "28 Ağu",
+        "source": "Simon Willison",
+        "title": "Just a rumour of a bug is enough to find a security exploit these days",
+        "desc": "<p><strong><a href=\"https://anil.recoil.org/notes/rumour-is-the-exploit\">Just a rumour of a bug is enough to find a security exploit these days</a></strong></p>\nAnil Madhavapeddy is a professor of computer science at Cam",
+        "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/"
+      },
       {
         "date": "28 Ağu",
         "source": "MIT Tech Review",
@@ -95,16 +102,16 @@
         "title": "Fide Island",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/fide-island"
-      },
-      {
-        "date": "26 Ağu",
-        "source": "Simon Willison",
-        "title": "Qwen3.8-Flash-Next",
-        "desc": "<p><strong><a href=\"https://qwen.ai/blog?id=qwen3.8-flash-next\">Qwen3.8-Flash-Next</a></strong></p>\nAnother open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the ar",
-        "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/"
       }
     ],
     "arac": [
+      {
+        "date": "28 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
+        "desc": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
+        "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/"
+      },
       {
         "date": "28 Ağu",
         "source": "TechCrunch Apps",
@@ -146,13 +153,6 @@
         "title": "A startup claims it’s found a drug to make your blood young",
         "desc": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable com",
         "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Hold up, there’s a new Twitter in town",
-        "desc": "Former Twitter trademark counsel Stephen Coates said in a LinkedIn post that the company is not trying to re-create Twitter.",
-        "url": "https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/"
       }
     ]
   }
