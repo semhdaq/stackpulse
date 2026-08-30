@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-08-30T15:33:53.075Z",
+  "generated_at": "2026-08-30T20:09:28.358Z",
   "generated_at_tr": "30 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "30 Ağu",
+        "source": "TechCrunch",
+        "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+        "desc": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and h",
+        "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
+      },
+      {
+        "date": "30 Ağu",
+        "source": "The Verge",
+        "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+        "desc": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state s",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
+      },
       {
         "date": "30 Ağu",
         "source": "TechCrunch",
@@ -37,20 +51,6 @@
         "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
         "desc": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are as",
         "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
-      },
-      {
-        "date": "29 Ağu",
-        "source": "TechCrunch",
-        "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-        "desc": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why ",
-        "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
-      },
-      {
-        "date": "29 Ağu",
-        "source": "TechCrunch",
-        "title": "Nvidia’s AI advantage is moving beyond the GPU",
-        "desc": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
       }
     ],
     "kod": [
@@ -97,11 +97,11 @@
         "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
       },
       {
-        "date": "26 Ağu",
-        "source": "Simon Willison",
-        "title": "Qwen3.8-Flash-Next",
-        "desc": "<p><strong><a href=\"https://qwen.ai/blog?id=qwen3.8-flash-next\">Qwen3.8-Flash-Next</a></strong></p>\nAnother open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the ar",
-        "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/"
+        "date": "27 Ağu",
+        "source": "Product Hunt",
+        "title": "Fide Island",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/fide-island"
       }
     ],
     "arac": [
