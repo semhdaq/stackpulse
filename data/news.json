@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T01:56:43.505Z",
+  "generated_at": "2026-08-30T10:48:01.736Z",
   "generated_at_tr": "30 Ağu 2026",
   "categories": {
     "ai": [
@@ -12,10 +12,24 @@
       },
       {
         "date": "29 Ağu",
+        "source": "Product Hunt",
+        "title": "Superagent",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents"
+      },
+      {
+        "date": "29 Ağu",
         "source": "TechCrunch",
         "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
         "desc": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
         "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+      },
+      {
+        "date": "29 Ağu",
+        "source": "The Verge",
+        "title": "Sony Music and Warner Chappell are suing Anthropic",
+        "desc": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
       },
       {
         "date": "29 Ağu",
@@ -32,25 +46,11 @@
         "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
       },
       {
-        "date": "28 Ağu",
-        "source": "TechCrunch",
-        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-        "desc": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-        "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "TechCrunch",
-        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-        "desc": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-        "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "TechCrunch",
-        "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-        "desc": "There's a lot of capital pouring into the business of giving models away.",
-        "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
+        "date": "29 Ağu",
+        "source": "The Verge",
+        "title": "Musicians-turned-detectives are hunting for AI grifters",
+        "desc": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of h",
+        "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai"
       }
     ],
     "kod": [
@@ -97,20 +97,41 @@
         "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
       },
       {
-        "date": "27 Ağu",
-        "source": "Product Hunt",
-        "title": "Fide Island",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/fide-island"
+        "date": "26 Ağu",
+        "source": "Simon Willison",
+        "title": "Qwen3.8-Flash-Next",
+        "desc": "<p><strong><a href=\"https://qwen.ai/blog?id=qwen3.8-flash-next\">Qwen3.8-Flash-Next</a></strong></p>\nAnother open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the ar",
+        "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/"
       }
     ],
     "arac": [
+      {
+        "date": "29 Ağu",
+        "source": "Product Hunt",
+        "title": "oMLX",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/omlx"
+      },
       {
         "date": "29 Ağu",
         "source": "TechCrunch Apps",
         "title": "Hollywood celebs are getting into microdrama apps",
         "desc": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
         "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/"
+      },
+      {
+        "date": "29 Ağu",
+        "source": "Product Hunt",
+        "title": "Prequel",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/prequel-2"
+      },
+      {
+        "date": "28 Ağu",
+        "source": "Product Hunt",
+        "title": "Maritime",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/maritime"
       },
       {
         "date": "28 Ağu",
@@ -121,38 +142,17 @@
       },
       {
         "date": "28 Ağu",
+        "source": "Product Hunt",
+        "title": "Ulpaso",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/ulpaso"
+      },
+      {
+        "date": "28 Ağu",
         "source": "TechCrunch Apps",
         "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
         "desc": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
         "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "Product Hunt",
-        "title": "Hy4 preview",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/hunyuan-a13b"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "Product Hunt",
-        "title": "Cohere Parse 5",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/cohere-2"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Friend-focused photo-sharing app Retro snags $21M",
-        "desc": "Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding.",
-        "url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "Product Hunt",
-        "title": "Staats",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/staats-3"
       }
     ]
   }
