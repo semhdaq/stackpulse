@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-08-31T01:51:56.944Z",
+  "generated_at": "2026-08-31T11:57:06.195Z",
   "generated_at_tr": "31 Ağu 2026",
   "categories": {
     "ai": [
+      {
+        "date": "31 Ağu",
+        "source": "TechCrunch",
+        "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+        "desc": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+        "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
+      },
+      {
+        "date": "31 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+        "desc": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance match",
+        "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/"
+      },
       {
         "date": "30 Ağu",
         "source": "Simon Willison",
@@ -37,20 +51,6 @@
         "title": "Introducing Hy4 Preview",
         "desc": "<p><strong><a href=\"https://hy.tencent.ai/research/hy4-preview\">Introducing Hy4 Preview</a></strong></p>\nNew open weight text input (no vision)  LLM from Chinese company Tencent today: 770B total parameters, 49B active p",
         "url": "https://simonwillison.net/2026/Aug/29/hy4/"
-      },
-      {
-        "date": "29 Ağu",
-        "source": "Product Hunt",
-        "title": "Superagent",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents"
-      },
-      {
-        "date": "29 Ağu",
-        "source": "TechCrunch",
-        "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-        "desc": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-        "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
       }
     ],
     "kod": [
@@ -106,11 +106,32 @@
     ],
     "arac": [
       {
+        "date": "31 Ağu",
+        "source": "Product Hunt",
+        "title": "Tether",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/tether-a-ball-for-boring-meetings"
+      },
+      {
+        "date": "31 Ağu",
+        "source": "Product Hunt",
+        "title": "EP–2350 FX–MIC",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/teenage-engineering"
+      },
+      {
         "date": "29 Ağu",
         "source": "Product Hunt",
         "title": "oMLX",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/omlx"
+      },
+      {
+        "date": "29 Ağu",
+        "source": "Product Hunt",
+        "title": "Orato",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/orato-speech-coach"
       },
       {
         "date": "29 Ağu",
@@ -132,27 +153,6 @@
         "title": "Maritime",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/maritime"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "Product Hunt",
-        "title": "God’s Eye View",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/god-s-eye-view"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "Product Hunt",
-        "title": "Ulpaso",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/ulpaso"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
-        "desc": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
-        "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/"
       }
     ]
   }
