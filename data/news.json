@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-08-31T11:57:06.195Z",
+  "generated_at": "2026-08-31T18:31:29.882Z",
   "generated_at_tr": "31 Ağu 2026",
   "categories": {
     "ai": [
       {
         "date": "31 Ağu",
-        "source": "TechCrunch",
-        "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-        "desc": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-        "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
+        "source": "MIT Tech Review",
+        "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+        "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in whi",
+        "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
       },
       {
         "date": "31 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
-        "desc": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance match",
-        "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/"
-      },
-      {
-        "date": "30 Ağu",
-        "source": "Simon Willison",
-        "title": "Understanding ChatGPT Work",
-        "desc": "<p>OpenAI <a href=\"https://openai.com/index/chatgpt-for-your-most-ambitious-work/\">announced ChatGPT Work</a> on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very p",
-        "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/"
-      },
-      {
-        "date": "30 Ağu",
         "source": "TechCrunch",
-        "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-        "desc": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and h",
-        "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
+        "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+        "desc": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+        "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
       },
       {
-        "date": "30 Ağu",
+        "date": "31 Ağu",
         "source": "The Verge",
-        "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-        "desc": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state s",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
+        "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+        "desc": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can impr",
+        "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
       },
       {
-        "date": "30 Ağu",
+        "date": "31 Ağu",
         "source": "TechCrunch",
-        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-        "desc": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-        "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
+        "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+        "desc": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+        "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
       },
       {
-        "date": "29 Ağu",
-        "source": "Simon Willison",
-        "title": "Introducing Hy4 Preview",
-        "desc": "<p><strong><a href=\"https://hy.tencent.ai/research/hy4-preview\">Introducing Hy4 Preview</a></strong></p>\nNew open weight text input (no vision)  LLM from Chinese company Tencent today: 770B total parameters, 49B active p",
-        "url": "https://simonwillison.net/2026/Aug/29/hy4/"
+        "date": "31 Ağu",
+        "source": "The Verge",
+        "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+        "desc": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has t",
+        "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras"
+      },
+      {
+        "date": "31 Ağu",
+        "source": "The Verge",
+        "title": "ChatGPT to face tougher regulation in the EU",
+        "desc": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Ver",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"
+      },
+      {
+        "date": "31 Ağu",
+        "source": "The Verge",
+        "title": "Instagram cracks down on AI accounts pretending to be human",
+        "desc": "“AI creator” accounts like Aitana Lopez will get a new “AI-generated profile” label. | Image: Aitana Lopez\t\n\nInstagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to",
+        "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop"
       }
     ],
     "kod": [
+      {
+        "date": "31 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "MapQuest’s app surges to No. 1 in Navigation after refusing to rename Lake Ontario",
+        "desc": "MapQuest is getting an unexpected boost from its decision to defy President Trump’s renaming of Lake Ontario.",
+        "url": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"
+      },
       {
         "date": "28 Ağu",
         "source": "Simon Willison",
@@ -91,13 +98,6 @@
       },
       {
         "date": "27 Ağu",
-        "source": "TechCrunch",
-        "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-        "desc": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
-        "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
-      },
-      {
-        "date": "27 Ağu",
         "source": "Product Hunt",
         "title": "Fide Island",
         "desc": "Discussion\n            |\n            Link",
@@ -105,6 +105,20 @@
       }
     ],
     "arac": [
+      {
+        "date": "31 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "VLC crosses 7 billion downloads",
+        "desc": "In our world of expensive streaming platforms, the very free and offline VLC media player has crossed 7 billion downloads.",
+        "url": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/"
+      },
+      {
+        "date": "31 Ağu",
+        "source": "TechCrunch",
+        "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+        "desc": "Circleback is also introducing new pricing plans starting from $14 per month.",
+        "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
+      },
       {
         "date": "31 Ağu",
         "source": "Product Hunt",
@@ -139,20 +153,6 @@
         "title": "Hollywood celebs are getting into microdrama apps",
         "desc": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
         "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/"
-      },
-      {
-        "date": "29 Ağu",
-        "source": "Product Hunt",
-        "title": "Prequel",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/prequel-2"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "Product Hunt",
-        "title": "Maritime",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/maritime"
       }
     ]
   }
