@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-09-01T02:14:51.155Z",
+  "generated_at": "2026-09-01T15:38:16.349Z",
   "generated_at_tr": "1 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "1 Eyl",
         "source": "TechCrunch",
+        "title": "Fambot introduces an ‘AI chief of staff’ for families",
+        "desc": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+        "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/"
+      },
+      {
+        "date": "1 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Making the AI-powered case for legacy modernization",
+        "desc": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization ",
+        "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/"
+      },
+      {
+        "date": "1 Eyl",
+        "source": "The Verge",
+        "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+        "desc": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video gam",
+        "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27"
+      },
+      {
+        "date": "1 Eyl",
+        "source": "MIT Tech Review",
+        "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial fo",
+        "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/"
+      },
+      {
+        "date": "1 Eyl",
+        "source": "MIT Tech Review",
+        "title": "How engineered microbes could help feed the world’s crops",
+        "desc": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a",
+        "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/"
+      },
+      {
+        "date": "1 Eyl",
+        "source": "Product Hunt",
+        "title": "Cosmic Agent Plugins",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/cosmic"
+      },
+      {
+        "date": "1 Eyl",
+        "source": "TechCrunch",
         "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
         "desc": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
         "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
-      },
-      {
-        "date": "31 Ağu",
-        "source": "TechCrunch",
-        "title": "The Pentagon now has its own version of ChatGPT and Grok",
-        "desc": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-        "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
-      },
-      {
-        "date": "31 Ağu",
-        "source": "TechCrunch",
-        "title": "Instagram puts new limits on undisclosed AI profiles",
-        "desc": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-        "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
-      },
-      {
-        "date": "31 Ağu",
-        "source": "TechCrunch",
-        "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-        "desc": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-        "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
-      },
-      {
-        "date": "31 Ağu",
-        "source": "MIT Tech Review",
-        "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-        "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in whi",
-        "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
-      },
-      {
-        "date": "31 Ağu",
-        "source": "TechCrunch",
-        "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-        "desc": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-        "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
-      },
-      {
-        "date": "31 Ağu",
-        "source": "The Verge",
-        "title": "Debian won&#8217;t ban AI code from its Linux distribution",
-        "desc": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can impr",
-        "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
       }
     ],
     "kod": [
+      {
+        "date": "1 Eyl",
+        "source": "Stack Overflow Blog",
+        "title": "The good ol’ days of building Java",
+        "desc": "Ryan sits down with Tim Lindholm, an early contributor to the Java language at Sun Microsystems, to chat about what it was like building one of the most popular programming languages ever at its inception, why it was str",
+        "url": "https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/"
+      },
       {
         "date": "31 Ağu",
         "source": "Simon Willison",
@@ -84,33 +91,54 @@
       },
       {
         "date": "28 Ağu",
+        "source": "Product Hunt",
+        "title": "Sider Code",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/sider-code-customize-any-website"
+      },
+      {
+        "date": "28 Ağu",
         "source": "MIT Tech Review",
         "title": "How to sign up for a virtual power plant—and decide whether you should",
         "desc": "MIT Technology Review’s How To series helps you get things done.  Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increa",
         "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
-        "desc": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
-        "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "GitHub Blog",
-        "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
-        "desc": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months.\nThe post OpenClaw went viral. Meet the maintainers building ",
-        "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/"
       }
     ],
     "arac": [
+      {
+        "date": "1 Eyl",
+        "source": "Simon Willison",
+        "title": "Python 3.15.0 candidate 2 is here!",
+        "desc": "<p><strong><a href=\"https://discuss.python.org/t/python-3-15-0-candidate-2-is-here/108841\">Python 3.15.0 candidate 2 is here!</a></strong></p>\nHugo van Kemenade (release manager for Python 3.14 and 3.15) announces the fi",
+        "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/"
+      },
+      {
+        "date": "1 Eyl",
+        "source": "Product Hunt",
+        "title": "HONOR Robot Phone",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/honor-robot-phone"
+      },
+      {
+        "date": "31 Ağu",
+        "source": "Product Hunt",
+        "title": "Murmell",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/murmell"
+      },
       {
         "date": "31 Ağu",
         "source": "Simon Willison",
         "title": "Quoting Andrew Digby",
         "desc": "<blockquote cite=\"https://bsky.app/profile/digs.bsky.social/post/3mufrrsfhq22r\"><p>325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the population. In 1995 there",
         "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/"
+      },
+      {
+        "date": "31 Ağu",
+        "source": "Product Hunt",
+        "title": "nOS4",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/nos4"
       },
       {
         "date": "31 Ağu",
@@ -121,38 +149,10 @@
       },
       {
         "date": "31 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "VLC crosses 7 billion downloads",
-        "desc": "In our world of expensive streaming platforms, the very free and offline VLC media player has crossed 7 billion downloads.",
-        "url": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/"
-      },
-      {
-        "date": "31 Ağu",
-        "source": "TechCrunch",
-        "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
-        "desc": "Circleback is also introducing new pricing plans starting from $14 per month.",
-        "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
-      },
-      {
-        "date": "31 Ağu",
         "source": "Product Hunt",
-        "title": "Tether",
+        "title": "EAS Observe",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tether-a-ball-for-boring-meetings"
-      },
-      {
-        "date": "31 Ağu",
-        "source": "Product Hunt",
-        "title": "EP–2350 FX–MIC",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/teenage-engineering"
-      },
-      {
-        "date": "29 Ağu",
-        "source": "Product Hunt",
-        "title": "oMLX",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/omlx"
+        "url": "https://www.producthunt.com/products/expo"
       }
     ]
   }
