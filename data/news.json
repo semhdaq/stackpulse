@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-08-31T18:31:29.882Z",
-  "generated_at_tr": "31 Ağu 2026",
+  "generated_at": "2026-09-01T02:14:51.155Z",
+  "generated_at_tr": "1 Eyl 2026",
   "categories": {
     "ai": [
       {
+        "date": "1 Eyl",
+        "source": "TechCrunch",
+        "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+        "desc": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+        "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
+      },
+      {
+        "date": "31 Ağu",
+        "source": "TechCrunch",
+        "title": "The Pentagon now has its own version of ChatGPT and Grok",
+        "desc": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+        "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
+      },
+      {
+        "date": "31 Ağu",
+        "source": "TechCrunch",
+        "title": "Instagram puts new limits on undisclosed AI profiles",
+        "desc": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+        "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+      },
+      {
+        "date": "31 Ağu",
+        "source": "TechCrunch",
+        "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+        "desc": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+        "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
+      },
+      {
         "date": "31 Ağu",
         "source": "MIT Tech Review",
-        "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+        "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
         "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in whi",
         "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
       },
@@ -23,37 +51,16 @@
         "title": "Debian won&#8217;t ban AI code from its Linux distribution",
         "desc": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can impr",
         "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
-      },
-      {
-        "date": "31 Ağu",
-        "source": "TechCrunch",
-        "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-        "desc": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-        "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
-      },
-      {
-        "date": "31 Ağu",
-        "source": "The Verge",
-        "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-        "desc": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has t",
-        "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras"
-      },
-      {
-        "date": "31 Ağu",
-        "source": "The Verge",
-        "title": "ChatGPT to face tougher regulation in the EU",
-        "desc": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Ver",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"
-      },
-      {
-        "date": "31 Ağu",
-        "source": "The Verge",
-        "title": "Instagram cracks down on AI accounts pretending to be human",
-        "desc": "“AI creator” accounts like Aitana Lopez will get a new “AI-generated profile” label. | Image: Aitana Lopez\t\n\nInstagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to",
-        "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop"
       }
     ],
     "kod": [
+      {
+        "date": "31 Ağu",
+        "source": "Simon Willison",
+        "title": "Introducing wrapture",
+        "desc": "<p><strong><a href=\"https://grahamdumpleton.me/posts/2026/08/introducing-wrapture/\">Introducing wrapture</a></strong></p>\nNew from Graham Dumpleton (of <a href=\"https://pypi.org/project/wrapt/\">wrapt</a>, mod_wsgi, and N",
+        "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/"
+      },
       {
         "date": "31 Ağu",
         "source": "TechCrunch Apps",
@@ -95,16 +102,23 @@
         "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
         "desc": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months.\nThe post OpenClaw went viral. Meet the maintainers building ",
         "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/"
-      },
-      {
-        "date": "27 Ağu",
-        "source": "Product Hunt",
-        "title": "Fide Island",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/fide-island"
       }
     ],
     "arac": [
+      {
+        "date": "31 Ağu",
+        "source": "Simon Willison",
+        "title": "Quoting Andrew Digby",
+        "desc": "<blockquote cite=\"https://bsky.app/profile/digs.bsky.social/post/3mufrrsfhq22r\"><p>325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the population. In 1995 there",
+        "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/"
+      },
+      {
+        "date": "31 Ağu",
+        "source": "TechCrunch Apps",
+        "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
+        "desc": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
+        "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/"
+      },
       {
         "date": "31 Ağu",
         "source": "TechCrunch Apps",
@@ -139,20 +153,6 @@
         "title": "oMLX",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/omlx"
-      },
-      {
-        "date": "29 Ağu",
-        "source": "Product Hunt",
-        "title": "Orato",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/orato-speech-coach"
-      },
-      {
-        "date": "29 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "Hollywood celebs are getting into microdrama apps",
-        "desc": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
-        "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/"
       }
     ]
   }
