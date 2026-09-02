@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-09-02T01:37:13.361Z",
+  "generated_at": "2026-09-02T10:02:10.330Z",
   "generated_at_tr": "2 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "2 Eyl",
+        "source": "Product Hunt",
+        "title": "Basedash AI Sources",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/basedash"
+      },
       {
         "date": "1 Eyl",
         "source": "Simon Willison",
@@ -40,26 +47,33 @@
       },
       {
         "date": "1 Eyl",
-        "source": "The Verge",
-        "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-        "desc": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "TechCrunch",
-        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-        "desc": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-        "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
+        "source": "Product Hunt",
+        "title": "Claude Fable 5.1",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/claude-fable-5-1"
       }
     ],
     "kod": [
+      {
+        "date": "2 Eyl",
+        "source": "Simon Willison",
+        "title": "Quoting Rick Brewster",
+        "desc": "<blockquote cite=\"https://forums.paint.net/topic/134563-🍷-extremely-experimental-winelinux-support-how-to-get-started/\"><p>Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will n",
+        "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/"
+      },
       {
         "date": "1 Eyl",
         "source": "TechCrunch Apps",
         "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
         "desc": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
         "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/"
+      },
+      {
+        "date": "1 Eyl",
+        "source": "Simon Willison",
+        "title": "datasette-mcp 0.2",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-mcp/releases/tag/0.2\">datasette-mcp 0.2</a></p>\n        <blockquote>\n<ul>\n<li><code>\"rows\"</code> from <code>execute_sql</code> is now an array",
+        "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/"
       },
       {
         "date": "1 Eyl",
@@ -88,23 +102,23 @@
         "title": "Just a rumour of a bug is enough to find a security exploit these days",
         "desc": "<p><strong><a href=\"https://anil.recoil.org/notes/rumour-is-the-exploit\">Just a rumour of a bug is enough to find a security exploit these days</a></strong></p>\nAnil Madhavapeddy is a professor of computer science at Cam",
         "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "MIT Tech Review",
-        "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I kn",
-        "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "Product Hunt",
-        "title": "Sider Code",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/sider-code-customize-any-website"
       }
     ],
     "arac": [
+      {
+        "date": "2 Eyl",
+        "source": "Product Hunt",
+        "title": "Doop",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/doop"
+      },
+      {
+        "date": "2 Eyl",
+        "source": "Product Hunt",
+        "title": "Dyson CameraJet",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/dyson-humidifier"
+      },
       {
         "date": "1 Eyl",
         "source": "TechCrunch Apps",
@@ -121,6 +135,13 @@
       },
       {
         "date": "1 Eyl",
+        "source": "Product Hunt",
+        "title": "CleanShot 5.0 with Studio Mode",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/cleanshot"
+      },
+      {
+        "date": "1 Eyl",
         "source": "Simon Willison",
         "title": "GeoJSON Map Viewer",
         "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/geojson\">GeoJSON Map Viewer</a></p>\n        <p>I was helping Natalie gather some maps of local political boundaries (for the <a href=\"https://granada.ca.",
@@ -132,27 +153,6 @@
         "title": "Quoting Tarn Adams",
         "desc": "<blockquote cite=\"https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/\"><p>They took the l",
         "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "TechCrunch",
-        "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-        "desc": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-        "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "TechCrunch",
-        "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-        "desc": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-        "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "Simon Willison",
-        "title": "Python 3.15.0 candidate 2 is here!",
-        "desc": "<p><strong><a href=\"https://discuss.python.org/t/python-3-15-0-candidate-2-is-here/108841\">Python 3.15.0 candidate 2 is here!</a></strong></p>\nHugo van Kemenade (release manager for Python 3.14 and 3.15) announces the fi",
-        "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/"
       }
     ]
   }
