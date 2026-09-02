@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-09-02T10:02:10.330Z",
+  "generated_at": "2026-09-02T20:10:59.950Z",
   "generated_at_tr": "2 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "2 Eyl",
-        "source": "Product Hunt",
-        "title": "Basedash AI Sources",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/basedash"
+        "source": "GitHub Blog",
+        "title": "How we make AI coding more cost efficient without sacrificing task quality",
+        "desc": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.\nThe post How we make AI coding more cost efficient without sacrificing task quality appeared first on The Git",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/"
       },
       {
-        "date": "1 Eyl",
+        "date": "2 Eyl",
+        "source": "TechCrunch",
+        "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+        "desc": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance",
+        "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/"
+      },
+      {
+        "date": "2 Eyl",
+        "source": "TechCrunch",
+        "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+        "desc": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance",
+        "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/"
+      },
+      {
+        "date": "2 Eyl",
+        "source": "TechCrunch",
+        "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+        "desc": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+        "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/"
+      },
+      {
+        "date": "2 Eyl",
+        "source": "The Verge",
+        "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+        "desc": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle o",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
+      },
+      {
+        "date": "2 Eyl",
         "source": "Simon Willison",
-        "title": "Claude Fable 5.1 made me a really nice animated pelican",
-        "desc": "<p>Today is <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-1\">Claude Fable (and Mythos) 5.1 day</a>. Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-so",
-        "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/"
+        "title": "llm-gemini 0.34",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.34\">llm-gemini 0.34</a></p>\n        <blockquote>\n<ul>\n<li>New model <code>gemini-3.8-flash</code> for <a href=\"https://blog.google",
+        "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/"
       },
       {
-        "date": "1 Eyl",
+        "date": "2 Eyl",
         "source": "The Verge",
-        "title": "Google needs Hollywood more than the studios need AI",
-        "desc": "Google has reportedly been reaching out to a number of Hollywood's biggest studios,  hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles ",
-        "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "TechCrunch",
-        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-        "desc": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-        "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "The Verge",
-        "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-        "desc": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance th",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "TechCrunch",
-        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-        "desc": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-        "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "Product Hunt",
-        "title": "Claude Fable 5.1",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/claude-fable-5-1"
+        "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+        "desc": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. \nThe landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully t",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit"
       }
     ],
     "kod": [
@@ -107,6 +107,20 @@
     "arac": [
       {
         "date": "2 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "X shifts US creator payouts from Stripe to X Money",
+        "desc": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
+        "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/"
+      },
+      {
+        "date": "2 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Adobe is making its tools available in Slack",
+        "desc": "Users will be able to access Express, Premiere, and Acrobat in Slack",
+        "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/"
+      },
+      {
+        "date": "2 Eyl",
         "source": "Product Hunt",
         "title": "Doop",
         "desc": "Discussion\n            |\n            Link",
@@ -139,20 +153,6 @@
         "title": "CleanShot 5.0 with Studio Mode",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/cleanshot"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "Simon Willison",
-        "title": "GeoJSON Map Viewer",
-        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/geojson\">GeoJSON Map Viewer</a></p>\n        <p>I was helping Natalie gather some maps of local political boundaries (for the <a href=\"https://granada.ca.",
-        "url": "https://simonwillison.net/2026/Sep/1/geojson/"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "Simon Willison",
-        "title": "Quoting Tarn Adams",
-        "desc": "<blockquote cite=\"https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/\"><p>They took the l",
-        "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/"
       }
     ]
   }
