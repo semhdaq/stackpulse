@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-09-01T20:13:05.822Z",
-  "generated_at_tr": "1 Eyl 2026",
+  "generated_at": "2026-09-02T01:37:13.361Z",
+  "generated_at_tr": "2 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "1 Eyl",
+        "source": "Simon Willison",
+        "title": "Claude Fable 5.1 made me a really nice animated pelican",
+        "desc": "<p>Today is <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-1\">Claude Fable (and Mythos) 5.1 day</a>. Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-so",
+        "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/"
+      },
+      {
+        "date": "1 Eyl",
+        "source": "The Verge",
+        "title": "Google needs Hollywood more than the studios need AI",
+        "desc": "Google has reportedly been reaching out to a number of Hollywood's biggest studios,  hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles ",
+        "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai"
+      },
+      {
+        "date": "1 Eyl",
+        "source": "TechCrunch",
+        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+        "desc": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+        "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
+      },
+      {
+        "date": "1 Eyl",
+        "source": "The Verge",
+        "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+        "desc": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance th",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1"
+      },
+      {
+        "date": "1 Eyl",
+        "source": "TechCrunch",
+        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+        "desc": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+        "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
+      },
+      {
+        "date": "1 Eyl",
+        "source": "The Verge",
+        "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+        "desc": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay"
+      },
       {
         "date": "1 Eyl",
         "source": "TechCrunch",
         "title": "Anthropic’s new Fable release is cheaper, less restrictive",
         "desc": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
         "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "MIT Tech Review",
-        "title": "How AI plotted an interstellar journey to Alpha Centauri",
-        "desc": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.  It’s a hugely ambitious mission—if all goes well, the spac",
-        "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "Simon Willison",
-        "title": "Codex bundles LibreOffice",
-        "desc": "<p>I was poking around in my <code>~/.cache/</code> folder using <a href=\"https://www.omnigroup.com/more\">OmniDiskSweeper</a> when I spotted something interesting. The OpenAI Codex desktop app (since <a href=\"https://hel",
-        "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "The Verge",
-        "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
-        "desc": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of A",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "The Verge",
-        "title": "Apple accuses OpenAI of destroying evidence",
-        "desc": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only ",
-        "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "TechCrunch",
-        "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-        "desc": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-        "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "TechCrunch",
-        "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-        "desc": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-        "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
       }
     ],
     "kod": [
+      {
+        "date": "1 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+        "desc": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+        "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/"
+      },
       {
         "date": "1 Eyl",
         "source": "Stack Overflow Blog",
@@ -95,16 +102,30 @@
         "title": "Sider Code",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/sider-code-customize-any-website"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "MIT Tech Review",
-        "title": "How to sign up for a virtual power plant—and decide whether you should",
-        "desc": "MIT Technology Review’s How To series helps you get things done.  Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increa",
-        "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/"
       }
     ],
     "arac": [
+      {
+        "date": "1 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+        "desc": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+        "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/"
+      },
+      {
+        "date": "1 Eyl",
+        "source": "TechCrunch",
+        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+        "desc": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+        "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/"
+      },
+      {
+        "date": "1 Eyl",
+        "source": "Simon Willison",
+        "title": "GeoJSON Map Viewer",
+        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/geojson\">GeoJSON Map Viewer</a></p>\n        <p>I was helping Natalie gather some maps of local political boundaries (for the <a href=\"https://granada.ca.",
+        "url": "https://simonwillison.net/2026/Sep/1/geojson/"
+      },
       {
         "date": "1 Eyl",
         "source": "Simon Willison",
@@ -132,27 +153,6 @@
         "title": "Python 3.15.0 candidate 2 is here!",
         "desc": "<p><strong><a href=\"https://discuss.python.org/t/python-3-15-0-candidate-2-is-here/108841\">Python 3.15.0 candidate 2 is here!</a></strong></p>\nHugo van Kemenade (release manager for Python 3.14 and 3.15) announces the fi",
         "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "Product Hunt",
-        "title": "HONOR Robot Phone",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/honor-robot-phone"
-      },
-      {
-        "date": "31 Ağu",
-        "source": "Product Hunt",
-        "title": "Murmell",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/murmell"
-      },
-      {
-        "date": "31 Ağu",
-        "source": "Simon Willison",
-        "title": "Quoting Andrew Digby",
-        "desc": "<blockquote cite=\"https://bsky.app/profile/digs.bsky.social/post/3mufrrsfhq22r\"><p>325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the population. In 1995 there",
-        "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/"
       }
     ]
   }
