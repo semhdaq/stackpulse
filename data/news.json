@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-09-02T20:10:59.950Z",
-  "generated_at_tr": "2 Eyl 2026",
+  "generated_at": "2026-09-03T01:41:26.375Z",
+  "generated_at_tr": "3 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "2 Eyl",
+        "source": "TechCrunch",
+        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+        "desc": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
+      },
+      {
+        "date": "2 Eyl",
+        "source": "TechCrunch",
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "desc": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+        "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/"
+      },
+      {
+        "date": "2 Eyl",
+        "source": "TechCrunch",
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "desc": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+        "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/"
+      },
+      {
+        "date": "2 Eyl",
+        "source": "The Verge",
+        "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+        "desc": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling to",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash"
+      },
       {
         "date": "2 Eyl",
         "source": "GitHub Blog",
@@ -12,48 +40,27 @@
       },
       {
         "date": "2 Eyl",
+        "source": "The Verge",
+        "title": "Amazon’s AI assistant can now spot fake emails from the company",
+        "desc": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you ca",
+        "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails"
+      },
+      {
+        "date": "2 Eyl",
         "source": "TechCrunch",
         "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
         "desc": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance",
         "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "TechCrunch",
-        "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-        "desc": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance",
-        "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "TechCrunch",
-        "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-        "desc": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
-        "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "The Verge",
-        "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-        "desc": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle o",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "Simon Willison",
-        "title": "llm-gemini 0.34",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.34\">llm-gemini 0.34</a></p>\n        <blockquote>\n<ul>\n<li>New model <code>gemini-3.8-flash</code> for <a href=\"https://blog.google",
-        "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "The Verge",
-        "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-        "desc": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. \nThe landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully t",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit"
       }
     ],
     "kod": [
+      {
+        "date": "2 Eyl",
+        "source": "GitHub Blog",
+        "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+        "desc": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.\nThe post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing",
+        "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/"
+      },
       {
         "date": "2 Eyl",
         "source": "Simon Willison",
@@ -95,16 +102,23 @@
         "title": "MapQuest’s app surges to No. 1 in Navigation after refusing to rename Lake Ontario",
         "desc": "MapQuest is getting an unexpected boost from its decision to defy President Trump’s renaming of Lake Ontario.",
         "url": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"
-      },
-      {
-        "date": "28 Ağu",
-        "source": "Simon Willison",
-        "title": "Just a rumour of a bug is enough to find a security exploit these days",
-        "desc": "<p><strong><a href=\"https://anil.recoil.org/notes/rumour-is-the-exploit\">Just a rumour of a bug is enough to find a security exploit these days</a></strong></p>\nAnil Madhavapeddy is a professor of computer science at Cam",
-        "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/"
       }
     ],
     "arac": [
+      {
+        "date": "2 Eyl",
+        "source": "TechCrunch",
+        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+        "desc": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+        "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/"
+      },
+      {
+        "date": "2 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+        "desc": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
+        "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/"
+      },
       {
         "date": "2 Eyl",
         "source": "TechCrunch Apps",
@@ -139,20 +153,6 @@
         "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
         "desc": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
         "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "TechCrunch",
-        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-        "desc": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-        "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "Product Hunt",
-        "title": "CleanShot 5.0 with Studio Mode",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/cleanshot"
       }
     ]
   }
