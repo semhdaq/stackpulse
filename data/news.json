@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-09-03T10:12:27.594Z",
+  "generated_at": "2026-09-03T15:19:31.678Z",
   "generated_at_tr": "3 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "3 Eyl",
+        "source": "Stack Overflow Blog",
+        "title": "Elevating security, control, and accessibility: Stack Internal 2026.6",
+        "desc": "In our 2026.6 release, we are shipping updates across administrative security, programmatic API control, developer portal integrations, and platform-wide accessibility—ensuring both your engineers and your AI agents act ",
+        "url": "https://stackoverflow.blog/2026/09/03/security-control-and-accessibility-si-2026-6/"
+      },
+      {
+        "date": "3 Eyl",
+        "source": "TechCrunch",
+        "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+        "desc": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNex",
+        "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/"
+      },
+      {
+        "date": "3 Eyl",
+        "source": "The Verge",
+        "title": "Google says its AI weather model is getting better",
+        "desc": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall.\nIn the announcement today, the company says it's now able to make forecasts",
+        "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update"
+      },
+      {
+        "date": "3 Eyl",
+        "source": "The Verge",
+        "title": "Nvidia is buying Hugging Face for almost $13 billion",
+        "desc": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker.\nHugging",
+        "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
+      },
+      {
+        "date": "3 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Agriculture relies on fossil fuels. It’s costing us.",
+        "desc": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how",
+        "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/"
+      },
       {
         "date": "3 Eyl",
         "source": "MIT Tech Review",
@@ -16,44 +51,23 @@
         "title": "The economics of agent scale: tokens, ROI, and building platforms for AI-first teams (Part 2)",
         "desc": "Andi Gutmans, head of Agentic Data Cloud at Google, returns for the second half of his Leaders of Code conversation to talk through the cost and infrastructure side of agentic development. ICYMI, part one covered judgmen",
         "url": "https://stackoverflow.blog/2026/09/03/the-economics-of-agent-scale/"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "TechCrunch",
-        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-        "desc": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "TechCrunch",
-        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-        "desc": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-        "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "TechCrunch",
-        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-        "desc": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-        "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "The Verge",
-        "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-        "desc": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling to",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "GitHub Blog",
-        "title": "How we make AI coding more cost efficient without sacrificing task quality",
-        "desc": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.\nThe post How we make AI coding more cost efficient without sacrificing task quality appeared first on The Git",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/"
       }
     ],
     "kod": [
+      {
+        "date": "3 Eyl",
+        "source": "TechCrunch",
+        "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+        "desc": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+        "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
+      },
+      {
+        "date": "3 Eyl",
+        "source": "MIT Tech Review",
+        "title": "The Download: rethinking child safety and fossil-fueled farming",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining f",
+        "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
+      },
       {
         "date": "2 Eyl",
         "source": "GitHub Blog",
@@ -88,23 +102,16 @@
         "title": "datasette-mcp 0.2",
         "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-mcp/releases/tag/0.2\">datasette-mcp 0.2</a></p>\n        <blockquote>\n<ul>\n<li><code>\"rows\"</code> from <code>execute_sql</code> is now an array",
         "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "Stack Overflow Blog",
-        "title": "The good ol’ days of building Java",
-        "desc": "Ryan sits down with Tim Lindholm, an early contributor to the Java language at Sun Microsystems, to chat about what it was like building one of the most popular programming languages ever at its inception, why it was str",
-        "url": "https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/"
-      },
-      {
-        "date": "31 Ağu",
-        "source": "Simon Willison",
-        "title": "Introducing wrapture",
-        "desc": "<p><strong><a href=\"https://grahamdumpleton.me/posts/2026/08/introducing-wrapture/\">Introducing wrapture</a></strong></p>\nNew from Graham Dumpleton (of <a href=\"https://pypi.org/project/wrapt/\">wrapt</a>, mod_wsgi, and N",
-        "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/"
       }
     ],
     "arac": [
+      {
+        "date": "3 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
+        "desc": "With the additions, the app is borrowing features from messaging apps as it looks to deepen engagement on its platform.",
+        "url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/"
+      },
       {
         "date": "3 Eyl",
         "source": "Product Hunt",
@@ -146,13 +153,6 @@
         "title": "Higgsfield Genjutsu",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/higgsfield"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "Product Hunt",
-        "title": "Readr",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/readr-3"
       }
     ]
   }
