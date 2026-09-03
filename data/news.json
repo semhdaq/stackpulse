@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-09-03T01:41:26.375Z",
+  "generated_at": "2026-09-03T10:12:27.594Z",
   "generated_at_tr": "3 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "3 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Scaling agentic AI pilots across the enterprise",
+        "desc": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that r",
+        "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/"
+      },
+      {
+        "date": "3 Eyl",
+        "source": "Stack Overflow Blog",
+        "title": "The economics of agent scale: tokens, ROI, and building platforms for AI-first teams (Part 2)",
+        "desc": "Andi Gutmans, head of Agentic Data Cloud at Google, returns for the second half of his Leaders of Code conversation to talk through the cost and infrastructure side of agentic development. ICYMI, part one covered judgmen",
+        "url": "https://stackoverflow.blog/2026/09/03/the-economics-of-agent-scale/"
+      },
       {
         "date": "2 Eyl",
         "source": "TechCrunch",
@@ -37,20 +51,6 @@
         "title": "How we make AI coding more cost efficient without sacrificing task quality",
         "desc": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.\nThe post How we make AI coding more cost efficient without sacrificing task quality appeared first on The Git",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "The Verge",
-        "title": "Amazon’s AI assistant can now spot fake emails from the company",
-        "desc": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you ca",
-        "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "TechCrunch",
-        "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-        "desc": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance",
-        "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/"
       }
     ],
     "kod": [
@@ -60,6 +60,13 @@
         "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
         "desc": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.\nThe post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing",
         "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/"
+      },
+      {
+        "date": "2 Eyl",
+        "source": "Product Hunt",
+        "title": "CodeLook",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/codelook"
       },
       {
         "date": "2 Eyl",
@@ -95,22 +102,36 @@
         "title": "Introducing wrapture",
         "desc": "<p><strong><a href=\"https://grahamdumpleton.me/posts/2026/08/introducing-wrapture/\">Introducing wrapture</a></strong></p>\nNew from Graham Dumpleton (of <a href=\"https://pypi.org/project/wrapt/\">wrapt</a>, mod_wsgi, and N",
         "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/"
-      },
-      {
-        "date": "31 Ağu",
-        "source": "TechCrunch Apps",
-        "title": "MapQuest’s app surges to No. 1 in Navigation after refusing to rename Lake Ontario",
-        "desc": "MapQuest is getting an unexpected boost from its decision to defy President Trump’s renaming of Lake Ontario.",
-        "url": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"
       }
     ],
     "arac": [
+      {
+        "date": "3 Eyl",
+        "source": "Product Hunt",
+        "title": "Omi",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend"
+      },
+      {
+        "date": "3 Eyl",
+        "source": "Product Hunt",
+        "title": "Nex",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/nex-4"
+      },
       {
         "date": "2 Eyl",
         "source": "TechCrunch",
         "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
         "desc": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
         "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/"
+      },
+      {
+        "date": "2 Eyl",
+        "source": "Product Hunt",
+        "title": "Thaw",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/thaw-2"
       },
       {
         "date": "2 Eyl",
@@ -121,38 +142,17 @@
       },
       {
         "date": "2 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "X shifts US creator payouts from Stripe to X Money",
-        "desc": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
-        "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "Adobe is making its tools available in Slack",
-        "desc": "Users will be able to access Express, Premiere, and Acrobat in Slack",
-        "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/"
+        "source": "Product Hunt",
+        "title": "Higgsfield Genjutsu",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/higgsfield"
       },
       {
         "date": "2 Eyl",
         "source": "Product Hunt",
-        "title": "Doop",
+        "title": "Readr",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/doop"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "Product Hunt",
-        "title": "Dyson CameraJet",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/dyson-humidifier"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
-        "desc": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
-        "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/"
+        "url": "https://www.producthunt.com/products/readr-3"
       }
     ]
   }
