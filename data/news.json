@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-09-03T20:12:01.991Z",
-  "generated_at_tr": "3 Eyl 2026",
+  "generated_at": "2026-09-04T01:37:47.023Z",
+  "generated_at_tr": "4 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "3 Eyl",
+        "source": "Simon Willison",
+        "title": "GPT‑6 Astra",
+        "desc": "<p><strong><a href=\"https://openai.com/index/gpt-6-astra/\">GPT‑6 Astra</a></strong></p>\nGPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Pl",
+        "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/"
+      },
       {
         "date": "3 Eyl",
         "source": "TechCrunch",
@@ -44,16 +51,16 @@
         "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
         "desc": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. \nLet's get the obvious thing out of the wa",
         "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook"
-      },
-      {
-        "date": "3 Eyl",
-        "source": "The Verge",
-        "title": "Google now lets you chat with Gmail, Docs, and Keep",
-        "desc": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep ",
-        "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini"
       }
     ],
     "kod": [
+      {
+        "date": "4 Eyl",
+        "source": "TechCrunch",
+        "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+        "desc": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+        "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+      },
       {
         "date": "3 Eyl",
         "source": "TechCrunch",
@@ -95,13 +102,6 @@
         "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
         "desc": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
         "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "Simon Willison",
-        "title": "datasette-mcp 0.2",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-mcp/releases/tag/0.2\">datasette-mcp 0.2</a></p>\n        <blockquote>\n<ul>\n<li><code>\"rows\"</code> from <code>execute_sql</code> is now an array",
-        "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/"
       }
     ],
     "arac": [
@@ -109,7 +109,7 @@
         "date": "3 Eyl",
         "source": "TechCrunch",
         "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-        "desc": "The high-profile startup's annual revenue run rate stands at at over $100 million.",
+        "desc": "The high-profile startup's annual revenue run rate stands at over $100 million.",
         "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
       },
       {
