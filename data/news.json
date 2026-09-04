@@ -1,59 +1,80 @@
 {
-  "generated_at": "2026-09-04T01:37:47.023Z",
+  "generated_at": "2026-09-04T15:14:48.846Z",
   "generated_at_tr": "4 Eyl 2026",
   "categories": {
     "ai": [
       {
-        "date": "3 Eyl",
-        "source": "Simon Willison",
-        "title": "GPT‑6 Astra",
-        "desc": "<p><strong><a href=\"https://openai.com/index/gpt-6-astra/\">GPT‑6 Astra</a></strong></p>\nGPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Pl",
-        "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/"
-      },
-      {
-        "date": "3 Eyl",
+        "date": "4 Eyl",
         "source": "TechCrunch",
-        "title": "Abliteration.ai is making a business out of removing AI guardrails",
-        "desc": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-        "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
+        "title": "Google’s Gemini Spark can now manage your Google Photos library",
+        "desc": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+        "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
       },
       {
-        "date": "3 Eyl",
-        "source": "TechCrunch",
-        "title": "Meta is paying to peek at how you use their latest AI model",
-        "desc": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing the",
-        "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
-      },
-      {
-        "date": "3 Eyl",
-        "source": "TechCrunch",
-        "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-        "desc": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-        "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
-      },
-      {
-        "date": "3 Eyl",
+        "date": "4 Eyl",
         "source": "The Verge",
-        "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-        "desc": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
+        "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+        "desc": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepare",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
       },
       {
-        "date": "3 Eyl",
-        "source": "TechCrunch",
-        "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-        "desc": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-        "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/"
+        "date": "4 Eyl",
+        "source": "MIT Tech Review",
+        "title": "The Download: selling battlefield drone data and AI reshaping language",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a",
+        "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/"
       },
       {
-        "date": "3 Eyl",
+        "date": "4 Eyl",
         "source": "The Verge",
-        "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-        "desc": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. \nLet's get the obvious thing out of the wa",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook"
+        "title": "Instagram’s AI detection is a mess (again)",
+        "desc": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say M",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion"
+      },
+      {
+        "date": "4 Eyl",
+        "source": "The Verge",
+        "title": "Why AI food looks like that",
+        "desc": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens fro",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that"
+      },
+      {
+        "date": "4 Eyl",
+        "source": "The Verge",
+        "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+        "desc": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.  \nThe compa",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout"
+      },
+      {
+        "date": "4 Eyl",
+        "source": "The Verge",
+        "title": "This NAS company wants to run your local smart home",
+        "desc": "Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nUgreen, known for its phone power banks, ch",
+        "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home"
       }
     ],
     "kod": [
+      {
+        "date": "4 Eyl",
+        "source": "TechCrunch",
+        "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+        "desc": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+        "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/"
+      },
+      {
+        "date": "4 Eyl",
+        "source": "The Verge",
+        "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+        "desc": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith",
+        "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers"
+      },
+      {
+        "date": "4 Eyl",
+        "source": "Simon Willison",
+        "title": "August newsletter is out",
+        "desc": "<p>The August edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a> is out. If you are a sponsor (or if you start a sponsorship now) you can <a href=\"https://github.com/simonw-p",
+        "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/"
+      },
       {
         "date": "4 Eyl",
         "source": "TechCrunch",
@@ -81,27 +102,6 @@
         "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
         "desc": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.\nThe post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing",
         "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "Product Hunt",
-        "title": "CodeLook",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/codelook"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "Simon Willison",
-        "title": "Quoting Rick Brewster",
-        "desc": "<blockquote cite=\"https://forums.paint.net/topic/134563-🍷-extremely-experimental-winelinux-support-how-to-get-started/\"><p>Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will n",
-        "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/"
-      },
-      {
-        "date": "1 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
-        "desc": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
-        "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/"
       }
     ],
     "arac": [
@@ -114,6 +114,27 @@
       },
       {
         "date": "3 Eyl",
+        "source": "Product Hunt",
+        "title": "Clockwork",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/clockwork-5"
+      },
+      {
+        "date": "3 Eyl",
+        "source": "Product Hunt",
+        "title": "WeatherNext 3",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/weathernext-3"
+      },
+      {
+        "date": "3 Eyl",
+        "source": "Product Hunt",
+        "title": "Omarchy",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/omarchy-3"
+      },
+      {
+        "date": "3 Eyl",
         "source": "TechCrunch Apps",
         "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
         "desc": "With the additions, the app is borrowing features from messaging apps as it looks to deepen engagement on its platform.",
@@ -122,37 +143,16 @@
       {
         "date": "3 Eyl",
         "source": "Product Hunt",
-        "title": "Omi",
+        "title": "Chalked for Mac",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend"
+        "url": "https://www.producthunt.com/products/chalked"
       },
       {
         "date": "3 Eyl",
         "source": "Product Hunt",
-        "title": "Nex",
+        "title": "cmmnts",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/nex-4"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "TechCrunch",
-        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-        "desc": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-        "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "Product Hunt",
-        "title": "Thaw",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/thaw-2"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
-        "desc": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
-        "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/"
+        "url": "https://www.producthunt.com/products/cmmnts"
       }
     ]
   }
