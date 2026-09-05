@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T01:36:39.791Z",
+  "generated_at": "2026-09-05T09:32:02.975Z",
   "generated_at_tr": "5 Eyl 2026",
   "categories": {
     "ai": [
@@ -127,32 +127,32 @@
         "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/"
       },
       {
+        "date": "4 Eyl",
+        "source": "Product Hunt",
+        "title": "Ponytail",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/ponytail"
+      },
+      {
+        "date": "4 Eyl",
+        "source": "Product Hunt",
+        "title": "GitWarren",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/gitwarren"
+      },
+      {
+        "date": "4 Eyl",
+        "source": "Product Hunt",
+        "title": "Experiential Labs",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/experiential-labs"
+      },
+      {
         "date": "3 Eyl",
         "source": "TechCrunch",
         "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
         "desc": "The high-profile startup's annual revenue run rate stands at over $100 million.",
         "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
-      },
-      {
-        "date": "3 Eyl",
-        "source": "Product Hunt",
-        "title": "Clockwork",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/clockwork-5"
-      },
-      {
-        "date": "3 Eyl",
-        "source": "Product Hunt",
-        "title": "WeatherNext 3",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/weathernext-3"
-      },
-      {
-        "date": "3 Eyl",
-        "source": "Product Hunt",
-        "title": "Omarchy",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/omarchy-3"
       }
     ]
   }
