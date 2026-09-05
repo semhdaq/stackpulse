@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-09-05T09:32:02.975Z",
+  "generated_at": "2026-09-05T19:37:33.907Z",
   "generated_at_tr": "5 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "5 Eyl",
+        "source": "TechCrunch",
+        "title": "Hikers rescued after using Google Gemini for planning",
+        "desc": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+        "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+      },
+      {
+        "date": "5 Eyl",
+        "source": "TechCrunch",
+        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+        "desc": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
+      },
+      {
+        "date": "5 Eyl",
+        "source": "Simon Willison",
+        "title": "Using Blender with coding agents on macOS",
+        "desc": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/llms/blender-coding-agents-macos\">Using Blender with coding agents on macOS</a></p>\n        <p>I've been having fun with Blender in ChatGPT Codex on my Mac ",
+        "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/"
+      },
+      {
+        "date": "5 Eyl",
+        "source": "The Verge",
+        "title": "OpenAI admits to German wiki ‘incident’",
+        "desc": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control a",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident"
+      },
       {
         "date": "4 Eyl",
         "source": "Simon Willison",
@@ -23,34 +51,6 @@
         "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
         "desc": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
         "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "MIT Tech Review",
-        "title": "Architecting memory and storage in the AI era",
-        "desc": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of com",
-        "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "The Verge",
-        "title": "Roland is getting into generative AI music with Melody Flip",
-        "desc": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offer",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "Simon Willison",
-        "title": "OpenAI's rogue agents were caught communicating via public wikis",
-        "desc": "<p>Here we go again... <a href=\"https://collusion.wiki\">Discovery of a new OpenAI agent message board</a> by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the <em>latest</em> <a href=\"http",
-        "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "TechCrunch",
-        "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-        "desc": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-        "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
       }
     ],
     "kod": [
@@ -106,6 +106,13 @@
     ],
     "arac": [
       {
+        "date": "5 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+        "desc": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+        "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/"
+      },
+      {
         "date": "4 Eyl",
         "source": "TechCrunch",
         "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -146,13 +153,6 @@
         "title": "Experiential Labs",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/experiential-labs"
-      },
-      {
-        "date": "3 Eyl",
-        "source": "TechCrunch",
-        "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-        "desc": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-        "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
       }
     ]
   }
