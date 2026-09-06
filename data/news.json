@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T01:30:39.314Z",
+  "generated_at": "2026-09-06T09:46:03.571Z",
   "generated_at_tr": "6 Eyl 2026",
   "categories": {
     "ai": [
@@ -55,6 +55,13 @@
     ],
     "kod": [
       {
+        "date": "6 Eyl",
+        "source": "Simon Willison",
+        "title": "Quoting Zach Kehs",
+        "desc": "<blockquote cite=\"https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/#9-ref\"><p>If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code ",
+        "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/"
+      },
+      {
         "date": "4 Eyl",
         "source": "GitHub Blog",
         "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
@@ -95,13 +102,6 @@
         "title": "The Download: rethinking child safety and fossil-fueled farming",
         "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining f",
         "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
-      },
-      {
-        "date": "2 Eyl",
-        "source": "GitHub Blog",
-        "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-        "desc": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.\nThe post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing",
-        "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/"
       }
     ],
     "arac": [
@@ -118,6 +118,13 @@
         "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
         "desc": "The round is being raised just months after the robot data startup exited from stealth.",
         "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
+      },
+      {
+        "date": "4 Eyl",
+        "source": "Product Hunt",
+        "title": "DocsAlot Visual Editor",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/docsalot-2"
       },
       {
         "date": "4 Eyl",
@@ -146,13 +153,6 @@
         "title": "GitWarren",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/gitwarren"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "Product Hunt",
-        "title": "Experiential Labs",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/experiential-labs"
       }
     ]
   }
