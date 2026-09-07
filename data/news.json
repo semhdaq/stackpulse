@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-09-06T14:28:58.228Z",
-  "generated_at_tr": "6 Eyl 2026",
+  "generated_at": "2026-09-07T01:29:11.334Z",
+  "generated_at_tr": "7 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "6 Eyl",
+        "source": "Simon Willison",
+        "title": "Research acceleration: The view inside OpenAI",
+        "desc": "<p><strong><a href=\"https://openai.com/index/research-acceleration-view-inside-openai/\">Research acceleration: The view inside OpenAI</a></strong></p>\nApparently today is RSI day at OpenAI, for Recursive Self-Improvement",
+        "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/"
+      },
+      {
+        "date": "6 Eyl",
+        "source": "The Verge",
+        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+        "desc": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most adva",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft"
+      },
+      {
+        "date": "6 Eyl",
+        "source": "TechCrunch",
+        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "desc": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+        "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
+      },
+      {
+        "date": "6 Eyl",
+        "source": "TechCrunch",
+        "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+        "desc": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+        "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
+      },
       {
         "date": "5 Eyl",
         "source": "Simon Willison",
@@ -23,37 +51,23 @@
         "title": "Hikers rescued after using Google Gemini for planning",
         "desc": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
         "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
-      },
-      {
-        "date": "5 Eyl",
-        "source": "TechCrunch",
-        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-        "desc": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
-      },
-      {
-        "date": "5 Eyl",
-        "source": "Simon Willison",
-        "title": "Using Blender with coding agents on macOS",
-        "desc": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/llms/blender-coding-agents-macos\">Using Blender with coding agents on macOS</a></p>\n        <p>I've been having fun with Blender in ChatGPT Codex on my Mac ",
-        "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/"
-      },
-      {
-        "date": "5 Eyl",
-        "source": "The Verge",
-        "title": "OpenAI admits to German wiki ‘incident’",
-        "desc": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control a",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "Simon Willison",
-        "title": "The Pelican comparison grid for Astra is pretty interesting",
-        "desc": "<p>I got access to GPT-6 Astra this afternoon, so naturally I used it to generate <a href=\"https://simonwillison.net/tags/pelican-riding-a-bicycle/\">SVGs of pelicans riding bicycles</a> - at low, medium, high, xhigh and ",
-        "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/"
       }
     ],
     "kod": [
+      {
+        "date": "6 Eyl",
+        "source": "Simon Willison",
+        "title": "The purpose of DNS is to spread scams",
+        "desc": "<p><strong><a href=\"https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/\">The purpose of DNS is to spread scams</a></strong></p>\nTerence Eden shares some daunting statistics in support of his take that",
+        "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/"
+      },
+      {
+        "date": "6 Eyl",
+        "source": "Simon Willison",
+        "title": "There's No Limit to How Bad Code Can Get",
+        "desc": "<p><a href=\"https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get#c_8kdtaw\">My comment</a> on <a href=\"https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get\">There&#x27;s No Limit to How Bad Code Ca",
+        "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/"
+      },
       {
         "date": "6 Eyl",
         "source": "Simon Willison",
@@ -88,23 +102,16 @@
         "title": "August newsletter is out",
         "desc": "<p>The August edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a> is out. If you are a sponsor (or if you start a sponsorship now) you can <a href=\"https://github.com/simonw-p",
         "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "TechCrunch",
-        "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-        "desc": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-        "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
-      },
-      {
-        "date": "3 Eyl",
-        "source": "MIT Tech Review",
-        "title": "The Download: rethinking child safety and fossil-fueled farming",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining f",
-        "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
       }
     ],
     "arac": [
+      {
+        "date": "6 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+        "desc": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+        "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/"
+      },
       {
         "date": "5 Eyl",
         "source": "TechCrunch Apps",
@@ -146,13 +153,6 @@
         "title": "Ponytail",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/ponytail"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "Product Hunt",
-        "title": "GitWarren",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/gitwarren"
       }
     ]
   }
