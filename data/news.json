@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-09-07T10:50:53.454Z",
+  "generated_at": "2026-09-07T16:43:29.055Z",
   "generated_at_tr": "7 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "7 Eyl",
+        "source": "MIT Tech Review",
+        "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is search",
+        "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
+      },
       {
         "date": "6 Eyl",
         "source": "Simon Willison",
@@ -44,13 +51,6 @@
         "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
         "desc": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
         "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
-      },
-      {
-        "date": "5 Eyl",
-        "source": "TechCrunch",
-        "title": "Hikers rescued after using Google Gemini for planning",
-        "desc": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-        "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
       }
     ],
     "kod": [
