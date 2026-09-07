@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-09-07T16:43:29.055Z",
+  "generated_at": "2026-09-07T20:51:22.259Z",
   "generated_at_tr": "7 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "7 Eyl",
+        "source": "TechCrunch",
+        "title": "Opaque recurrence, and other AI terms that you should probably know",
+        "desc": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+      },
       {
         "date": "7 Eyl",
         "source": "MIT Tech Review",
@@ -44,13 +51,6 @@
         "title": "Introducing GPT-6 Astra for developers",
         "desc": "<p><strong><a href=\"https://www.youtube.com/watch?v=bOC3DisEOfg\">Introducing GPT-6 Astra for developers</a></strong></p>\nBlink and you'll miss it, but there's a familiar creature at <a href=\"https://www.youtube.com/watch",
         "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/"
-      },
-      {
-        "date": "5 Eyl",
-        "source": "TechCrunch",
-        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-        "desc": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-        "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
       }
     ],
     "kod": [
@@ -150,7 +150,7 @@
       {
         "date": "4 Eyl",
         "source": "TechCrunch",
-        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
         "desc": "The round is being raised just months after the robot data startup exited from stealth.",
         "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
       }
