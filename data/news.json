@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T01:29:11.334Z",
+  "generated_at": "2026-09-07T10:50:53.454Z",
   "generated_at_tr": "7 Eyl 2026",
   "categories": {
     "ai": [
@@ -56,6 +56,13 @@
     "kod": [
       {
         "date": "6 Eyl",
+        "source": "Product Hunt",
+        "title": "Airuncode",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/airuncode"
+      },
+      {
+        "date": "6 Eyl",
         "source": "Simon Willison",
         "title": "The purpose of DNS is to spread scams",
         "desc": "<p><strong><a href=\"https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/\">The purpose of DNS is to spread scams</a></strong></p>\nTerence Eden shares some daunting statistics in support of his take that",
@@ -95,22 +102,43 @@
         "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
         "desc": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith",
         "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "Simon Willison",
-        "title": "August newsletter is out",
-        "desc": "<p>The August edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a> is out. If you are a sponsor (or if you start a sponsorship now) you can <a href=\"https://github.com/simonw-p",
-        "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/"
       }
     ],
     "arac": [
+      {
+        "date": "7 Eyl",
+        "source": "Product Hunt",
+        "title": "Clipnote",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/clipnote-2"
+      },
       {
         "date": "6 Eyl",
         "source": "TechCrunch Apps",
         "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
         "desc": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
         "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/"
+      },
+      {
+        "date": "6 Eyl",
+        "source": "Product Hunt",
+        "title": "Tucky",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/tucky"
+      },
+      {
+        "date": "6 Eyl",
+        "source": "Product Hunt",
+        "title": "Remind",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/remind-7"
+      },
+      {
+        "date": "6 Eyl",
+        "source": "Product Hunt",
+        "title": "Assist",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/assist-4"
       },
       {
         "date": "5 Eyl",
@@ -125,34 +153,6 @@
         "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
         "desc": "The round is being raised just months after the robot data startup exited from stealth.",
         "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "Product Hunt",
-        "title": "DocsAlot Visual Editor",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/docsalot-2"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
-        "desc": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
-        "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "TechCrunch",
-        "title": "What will Apple’s John Ternus era look like?",
-        "desc": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s ",
-        "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "Product Hunt",
-        "title": "Ponytail",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/ponytail"
       }
     ]
   }
