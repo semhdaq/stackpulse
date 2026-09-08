@@ -1,13 +1,48 @@
 {
-  "generated_at": "2026-09-08T15:27:54.068Z",
+  "generated_at": "2026-09-08T20:23:16.758Z",
   "generated_at_tr": "8 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "8 Eyl",
         "source": "TechCrunch",
+        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+        "desc": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their",
+        "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "The Verge",
+        "title": "Meta bets on AI agent Muse to catch up in AI race",
+        "desc": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion dollar str",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "TechCrunch",
+        "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+        "desc": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+        "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "The Verge",
+        "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+        "desc": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believi",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "TechCrunch",
+        "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+        "desc": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+        "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "TechCrunch",
         "title": "Mistral raises €3B as sovereign AI becomes big business",
-        "desc": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+        "desc": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
         "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
       },
       {
@@ -16,41 +51,6 @@
         "title": "Google’s Atlas of the human genome could pave the way for new treatments",
         "desc": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving th",
         "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "The Verge",
-        "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-        "desc": "Suspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe\t\n\nAdobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes ",
-        "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "MIT Tech Review",
-        "title": "This founder is teaching chips how to recycle (their energy)",
-        "desc": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology of",
-        "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "MIT Tech Review",
-        "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-        "desc": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person the",
-        "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "MIT Tech Review",
-        "title": "This founder is making cheaper, cleaner steel",
-        "desc": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at d",
-        "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "Stack Overflow Blog",
-        "title": "Scaling your money safely with AI",
-        "desc": "Ryan chats with Srini Venkatesan, CTO at PayPal, about validating AI-generated deterministic code for security, developing autonomous SDLC harnesses with iterative feedback loops, and creating a seamless headless checkou",
-        "url": "https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/"
       }
     ],
     "kod": [
@@ -107,6 +107,13 @@
     "arac": [
       {
         "date": "8 Eyl",
+        "source": "TechCrunch",
+        "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+        "desc": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+        "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
+      },
+      {
+        "date": "8 Eyl",
         "source": "Product Hunt",
         "title": "bonds",
         "desc": "Discussion\n            |\n            Link",
@@ -146,13 +153,6 @@
         "title": "Tables.so",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/tables-so"
-      },
-      {
-        "date": "7 Eyl",
-        "source": "Product Hunt",
-        "title": "Knockin'",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/knockin"
       }
     ]
   }
