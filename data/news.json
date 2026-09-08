@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-09-07T20:51:22.259Z",
-  "generated_at_tr": "7 Eyl 2026",
+  "generated_at": "2026-09-08T01:38:41.553Z",
+  "generated_at_tr": "8 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "7 Eyl",
+        "source": "Simon Willison",
+        "title": "llm 0.35",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.35\">llm 0.35</a></p>\n        <blockquote>\n<ul>\n<li>New OpenAI model: <code>gpt-6-astra</code> for <a href=\"https://openai.com/index/gpt-6",
+        "url": "https://simonwillison.net/2026/Sep/7/llm/"
+      },
+      {
+        "date": "7 Eyl",
+        "source": "Simon Willison",
+        "title": "Quoting Jakub Pachocki",
+        "desc": "<blockquote cite=\"https://openai.com/index/an-alien-mind/#scalable-defense\"><p>The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers p",
+        "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/"
+      },
       {
         "date": "7 Eyl",
         "source": "TechCrunch",
@@ -37,23 +51,23 @@
         "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
         "desc": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
         "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
-      },
-      {
-        "date": "6 Eyl",
-        "source": "TechCrunch",
-        "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-        "desc": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-        "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
-      },
-      {
-        "date": "5 Eyl",
-        "source": "Simon Willison",
-        "title": "Introducing GPT-6 Astra for developers",
-        "desc": "<p><strong><a href=\"https://www.youtube.com/watch?v=bOC3DisEOfg\">Introducing GPT-6 Astra for developers</a></strong></p>\nBlink and you'll miss it, but there's a familiar creature at <a href=\"https://www.youtube.com/watch",
-        "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/"
       }
     ],
     "kod": [
+      {
+        "date": "7 Eyl",
+        "source": "Simon Willison",
+        "title": "Creepy crawlies",
+        "desc": "<p><strong><a href=\"https://people.kernel.org/monsieuricon/creepy-crawlies\">Creepy crawlies</a></strong></p>\nKonstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the persp",
+        "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/"
+      },
+      {
+        "date": "7 Eyl",
+        "source": "Simon Willison",
+        "title": "Video compressor",
+        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/video-compressor\">Video compressor</a></p>\n        <p>I recorded a short demo video of <a href=\"https://simonwillison.net/2026/Sep/7/equal-earth/\">my Equ",
+        "url": "https://simonwillison.net/2026/Sep/7/video-compressor/"
+      },
       {
         "date": "6 Eyl",
         "source": "Product Hunt",
@@ -88,23 +102,16 @@
         "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
         "desc": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot.",
         "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "TechCrunch",
-        "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-        "desc": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
-        "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "The Verge",
-        "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
-        "desc": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith",
-        "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers"
       }
     ],
     "arac": [
+      {
+        "date": "7 Eyl",
+        "source": "Simon Willison",
+        "title": "Mercator ↔ Equal Earth",
+        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/equal-earth\">Mercator ↔ Equal Earth</a></p>\n        <p>I got curious about the Equal Earth map projection that was recently <a href=\"https://www.theguard",
+        "url": "https://simonwillison.net/2026/Sep/7/equal-earth/"
+      },
       {
         "date": "7 Eyl",
         "source": "Product Hunt",
@@ -146,13 +153,6 @@
         "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
         "desc": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
         "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "TechCrunch",
-        "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-        "desc": "The round is being raised just months after the robot data startup exited from stealth.",
-        "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
       }
     ]
   }
