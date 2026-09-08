@@ -1,59 +1,73 @@
 {
-  "generated_at": "2026-09-08T10:10:18.103Z",
+  "generated_at": "2026-09-08T15:27:54.068Z",
   "generated_at_tr": "8 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "8 Eyl",
+        "source": "TechCrunch",
+        "title": "Mistral raises €3B as sovereign AI becomes big business",
+        "desc": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+        "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "The Verge",
+        "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+        "desc": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving th",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "The Verge",
+        "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+        "desc": "Suspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe\t\n\nAdobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes ",
+        "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "MIT Tech Review",
+        "title": "This founder is teaching chips how to recycle (their energy)",
+        "desc": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology of",
+        "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "MIT Tech Review",
+        "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+        "desc": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person the",
+        "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "MIT Tech Review",
+        "title": "This founder is making cheaper, cleaner steel",
+        "desc": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at d",
+        "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/"
+      },
       {
         "date": "8 Eyl",
         "source": "Stack Overflow Blog",
         "title": "Scaling your money safely with AI",
         "desc": "Ryan chats with Srini Venkatesan, CTO at PayPal, about validating AI-generated deterministic code for security, developing autonomous SDLC harnesses with iterative feedback loops, and creating a seamless headless checkou",
         "url": "https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "Product Hunt",
-        "title": "Trancy Air",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/trancy-air"
-      },
-      {
-        "date": "7 Eyl",
-        "source": "Simon Willison",
-        "title": "llm 0.35",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.35\">llm 0.35</a></p>\n        <blockquote>\n<ul>\n<li>New OpenAI model: <code>gpt-6-astra</code> for <a href=\"https://openai.com/index/gpt-6",
-        "url": "https://simonwillison.net/2026/Sep/7/llm/"
-      },
-      {
-        "date": "7 Eyl",
-        "source": "Simon Willison",
-        "title": "Quoting Jakub Pachocki",
-        "desc": "<blockquote cite=\"https://openai.com/index/an-alien-mind/#scalable-defense\"><p>The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers p",
-        "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/"
-      },
-      {
-        "date": "7 Eyl",
-        "source": "TechCrunch",
-        "title": "Opaque recurrence, and other AI terms that you should probably know",
-        "desc": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-        "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
-      },
-      {
-        "date": "7 Eyl",
-        "source": "Product Hunt",
-        "title": "Kopai",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents"
-      },
-      {
-        "date": "7 Eyl",
-        "source": "MIT Tech Review",
-        "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is search",
-        "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
       }
     ],
     "kod": [
+      {
+        "date": "8 Eyl",
+        "source": "MIT Tech Review",
+        "title": "The Download: our 35 Innovators Under 35 this year",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation",
+        "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "MIT Tech Review",
+        "title": "This geneticist’s age-reversal tech could help restore sight",
+        "desc": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his f",
+        "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/"
+      },
       {
         "date": "7 Eyl",
         "source": "Simon Willison",
@@ -88,20 +102,6 @@
         "title": "There's No Limit to How Bad Code Can Get",
         "desc": "<p><a href=\"https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get#c_8kdtaw\">My comment</a> on <a href=\"https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get\">There&#x27;s No Limit to How Bad Code Ca",
         "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/"
-      },
-      {
-        "date": "6 Eyl",
-        "source": "Simon Willison",
-        "title": "Quoting Zach Kehs",
-        "desc": "<blockquote cite=\"https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/#9-ref\"><p>If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code ",
-        "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/"
-      },
-      {
-        "date": "4 Eyl",
-        "source": "GitHub Blog",
-        "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-        "desc": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot.",
-        "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/"
       }
     ],
     "arac": [
