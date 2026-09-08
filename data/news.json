@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-09-08T01:38:41.553Z",
+  "generated_at": "2026-09-08T10:10:18.103Z",
   "generated_at_tr": "8 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "8 Eyl",
+        "source": "Stack Overflow Blog",
+        "title": "Scaling your money safely with AI",
+        "desc": "Ryan chats with Srini Venkatesan, CTO at PayPal, about validating AI-generated deterministic code for security, developing autonomous SDLC harnesses with iterative feedback loops, and creating a seamless headless checkou",
+        "url": "https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "Product Hunt",
+        "title": "Trancy Air",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/trancy-air"
+      },
       {
         "date": "7 Eyl",
         "source": "Simon Willison",
@@ -26,31 +40,17 @@
       },
       {
         "date": "7 Eyl",
+        "source": "Product Hunt",
+        "title": "Kopai",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents"
+      },
+      {
+        "date": "7 Eyl",
         "source": "MIT Tech Review",
         "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
         "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is search",
         "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
-      },
-      {
-        "date": "6 Eyl",
-        "source": "Simon Willison",
-        "title": "Research acceleration: The view inside OpenAI",
-        "desc": "<p><strong><a href=\"https://openai.com/index/research-acceleration-view-inside-openai/\">Research acceleration: The view inside OpenAI</a></strong></p>\nApparently today is RSI day at OpenAI, for Recursive Self-Improvement",
-        "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/"
-      },
-      {
-        "date": "6 Eyl",
-        "source": "The Verge",
-        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-        "desc": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most adva",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft"
-      },
-      {
-        "date": "6 Eyl",
-        "source": "TechCrunch",
-        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-        "desc": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-        "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
       }
     ],
     "kod": [
@@ -106,6 +106,34 @@
     ],
     "arac": [
       {
+        "date": "8 Eyl",
+        "source": "Product Hunt",
+        "title": "bonds",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/bonds-2"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "Product Hunt",
+        "title": "Catenary",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/catenary"
+      },
+      {
+        "date": "7 Eyl",
+        "source": "Product Hunt",
+        "title": "Pastea",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/pastea"
+      },
+      {
+        "date": "7 Eyl",
+        "source": "Product Hunt",
+        "title": "Lyrimuse",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/lyrimuse"
+      },
+      {
         "date": "7 Eyl",
         "source": "Simon Willison",
         "title": "Mercator ↔ Equal Earth",
@@ -115,44 +143,16 @@
       {
         "date": "7 Eyl",
         "source": "Product Hunt",
-        "title": "Clipnote",
+        "title": "Tables.so",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/clipnote-2"
+        "url": "https://www.producthunt.com/products/tables-so"
       },
       {
-        "date": "6 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-        "desc": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-        "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/"
-      },
-      {
-        "date": "6 Eyl",
+        "date": "7 Eyl",
         "source": "Product Hunt",
-        "title": "Tucky",
+        "title": "Knockin'",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tucky"
-      },
-      {
-        "date": "6 Eyl",
-        "source": "Product Hunt",
-        "title": "Remind",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/remind-7"
-      },
-      {
-        "date": "6 Eyl",
-        "source": "Product Hunt",
-        "title": "Assist",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/assist-4"
-      },
-      {
-        "date": "5 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
-        "desc": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
-        "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/"
+        "url": "https://www.producthunt.com/products/knockin"
       }
     ]
   }
