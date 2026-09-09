@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-09-09T10:13:07.803Z",
+  "generated_at": "2026-09-09T15:24:25.577Z",
   "generated_at_tr": "9 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "9 Eyl",
-        "source": "MIT Tech Review",
-        "title": "Batteries just broke another record in the US",
-        "desc": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of",
-        "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "MIT Tech Review",
-        "title": "Understanding the thermal ceiling in portable power",
-        "desc": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone’s bat",
-        "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "Stack Overflow Blog",
-        "title": "Java’s age is its AI superpower",
-        "desc": "Ryan welcomes Markus Eisele to the program to talk about why your coding agent should be writing Java.",
-        "url": "https://stackoverflow.blog/2026/09/09/java-s-age-is-its-ai-superpower/"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "MIT Tech Review",
-        "title": "What OpenAI’s latest controversy tells us about the future of math",
-        "desc": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in m",
-        "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "Simon Willison",
-        "title": "On the Navier–Stokes Millennium Prize Problem",
-        "desc": "<p><strong><a href=\"https://openai.com/index/navier-stokes-solution/\">On the Navier–Stokes Millennium Prize Problem</a></strong></p>\nImpressive result from OpenAI, who used an unreleased model to produce a resolution to ",
-        "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "Simon Willison",
-        "title": "Introducing ChatGPT Images 2.5",
-        "desc": "<p><strong><a href=\"https://openai.com/index/introducing-chatgpt-images-2-5/\">Introducing ChatGPT Images 2.5</a></strong></p>\nOpenAI's image generation models are apparently used \"more than 3 billion images across ChatGP",
-        "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/"
-      },
-      {
-        "date": "8 Eyl",
         "source": "TechCrunch",
-        "title": "Hackers are stealing Claude tokens from subscribers",
-        "desc": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-        "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
+        "title": "Viral AI assistant Instinct now has its own email address",
+        "desc": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+        "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "TechCrunch",
+        "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+        "desc": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+        "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "TechCrunch",
+        "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+        "desc": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+        "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "TechCrunch",
+        "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+        "desc": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+        "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "TechCrunch",
+        "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+        "desc": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+        "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "TechCrunch",
+        "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+        "desc": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+        "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "The Verge",
+        "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+        "desc": "Maxton Hall. | Image: Prime Video\t\n\nAmazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German se",
+        "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing"
       }
     ],
     "kod": [
@@ -107,6 +107,13 @@
     "arac": [
       {
         "date": "9 Eyl",
+        "source": "TechCrunch",
+        "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+        "desc": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spen",
+        "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/"
+      },
+      {
+        "date": "9 Eyl",
         "source": "Product Hunt",
         "title": "Type.com",
         "desc": "Discussion\n            |\n            Link",
@@ -146,13 +153,6 @@
         "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
         "desc": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
         "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "Product Hunt",
-        "title": "Ass Auction",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/ass-auction"
       }
     ]
   }
