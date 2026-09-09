@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-09-09T01:45:52.726Z",
+  "generated_at": "2026-09-09T10:13:07.803Z",
   "generated_at_tr": "9 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "9 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Batteries just broke another record in the US",
+        "desc": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of",
+        "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Understanding the thermal ceiling in portable power",
+        "desc": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone’s bat",
+        "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "Stack Overflow Blog",
+        "title": "Java’s age is its AI superpower",
+        "desc": "Ryan welcomes Markus Eisele to the program to talk about why your coding agent should be writing Java.",
+        "url": "https://stackoverflow.blog/2026/09/09/java-s-age-is-its-ai-superpower/"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "MIT Tech Review",
+        "title": "What OpenAI’s latest controversy tells us about the future of math",
+        "desc": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in m",
+        "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/"
+      },
       {
         "date": "8 Eyl",
         "source": "Simon Willison",
@@ -23,34 +51,6 @@
         "title": "Hackers are stealing Claude tokens from subscribers",
         "desc": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
         "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "TechCrunch",
-        "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-        "desc": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-        "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "The Verge",
-        "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-        "desc": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "The Verge",
-        "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-        "desc": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat.\t\n\nOpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doo",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "TechCrunch",
-        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-        "desc": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their",
-        "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
       }
     ],
     "kod": [
@@ -60,6 +60,13 @@
         "title": "Quoting Terence Tao",
         "desc": "<blockquote cite=\"https://mathstodon.xyz/@tao/117237320796901560\"><p>I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scena",
         "url": "https://simonwillison.net/2026/Sep/9/terence-tao/"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "Product Hunt",
+        "title": "Frigade Assist API",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/frigade"
       },
       {
         "date": "8 Eyl",
@@ -95,16 +102,44 @@
         "title": "Airuncode",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/airuncode"
-      },
-      {
-        "date": "6 Eyl",
-        "source": "Simon Willison",
-        "title": "The purpose of DNS is to spread scams",
-        "desc": "<p><strong><a href=\"https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/\">The purpose of DNS is to spread scams</a></strong></p>\nTerence Eden shares some daunting statistics in support of his take that",
-        "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/"
       }
     ],
     "arac": [
+      {
+        "date": "9 Eyl",
+        "source": "Product Hunt",
+        "title": "Type.com",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/type-com"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "Product Hunt",
+        "title": "AlphaGenome Atlas",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/alphagenome-atlas"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "Product Hunt",
+        "title": "Basedash in Español Français & Português",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/basedash"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "Product Hunt",
+        "title": "Muse",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/muse-22"
+      },
+      {
+        "date": "8 Eyl",
+        "source": "Product Hunt",
+        "title": "DuckFightClub",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/duckfightclub"
+      },
       {
         "date": "8 Eyl",
         "source": "TechCrunch",
@@ -115,44 +150,9 @@
       {
         "date": "8 Eyl",
         "source": "Product Hunt",
-        "title": "bonds",
+        "title": "Ass Auction",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/bonds-2"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "Product Hunt",
-        "title": "Catenary",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/catenary"
-      },
-      {
-        "date": "7 Eyl",
-        "source": "Product Hunt",
-        "title": "Pastea",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/pastea"
-      },
-      {
-        "date": "7 Eyl",
-        "source": "Product Hunt",
-        "title": "Lyrimuse",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/lyrimuse"
-      },
-      {
-        "date": "7 Eyl",
-        "source": "Simon Willison",
-        "title": "Mercator ↔ Equal Earth",
-        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/equal-earth\">Mercator ↔ Equal Earth</a></p>\n        <p>I got curious about the Equal Earth map projection that was recently <a href=\"https://www.theguard",
-        "url": "https://simonwillison.net/2026/Sep/7/equal-earth/"
-      },
-      {
-        "date": "7 Eyl",
-        "source": "Product Hunt",
-        "title": "Tables.so",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tables-so"
+        "url": "https://www.producthunt.com/products/ass-auction"
       }
     ]
   }
