@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-09-09T15:24:25.577Z",
+  "generated_at": "2026-09-09T20:06:52.810Z",
   "generated_at_tr": "9 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "9 Eyl",
         "source": "TechCrunch",
-        "title": "Viral AI assistant Instinct now has its own email address",
-        "desc": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-        "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/"
+        "title": "The hinge for Apple’s new foldable phone was built with AI",
+        "desc": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+        "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/"
       },
       {
         "date": "9 Eyl",
         "source": "TechCrunch",
-        "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-        "desc": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-        "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/"
+        "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+        "desc": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+        "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/"
       },
       {
         "date": "9 Eyl",
         "source": "TechCrunch",
-        "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-        "desc": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
-        "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "TechCrunch",
-        "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-        "desc": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
-        "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "TechCrunch",
-        "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-        "desc": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
-        "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "TechCrunch",
-        "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-        "desc": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
-        "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
+        "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+        "desc": "The company also argued that its on-device models offer consumers more privacy.",
+        "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/"
       },
       {
         "date": "9 Eyl",
         "source": "The Verge",
-        "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-        "desc": "Maxton Hall. | Image: Prime Video\t\n\nAmazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German se",
-        "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing"
+        "title": "Microsoft has new AI privacy rules for schools",
+        "desc": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI. \nIn a new agreement with the American Federation of Teachers (AFT),",
+        "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "TechCrunch",
+        "title": "Superintelligence is coming. Should we let it?",
+        "desc": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more c",
+        "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "TechCrunch",
+        "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+        "desc": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more c",
+        "url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "TechCrunch",
+        "title": "Viral AI assistant Instinct now has its own email address",
+        "desc": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+        "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/"
       }
     ],
     "kod": [
@@ -108,8 +108,36 @@
       {
         "date": "9 Eyl",
         "source": "TechCrunch",
+        "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+        "desc": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+        "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "The Verge",
+        "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+        "desc": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the devi",
+        "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Apple Watch’s new feature listens to your chats and recaps them",
+        "desc": "The Siri Recap feature is similar to other note-taking apps like Granola.",
+        "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "TechCrunch",
+        "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+        "desc": "The update uses Apple Intelligence to make better sense of your health data.",
+        "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "TechCrunch",
         "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-        "desc": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spen",
+        "desc": "If you want to manufacture in space — and bring the products back again — there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of startups launching spacecraft that s",
         "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/"
       },
       {
@@ -125,34 +153,6 @@
         "title": "AlphaGenome Atlas",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/alphagenome-atlas"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "Product Hunt",
-        "title": "Basedash in Español Français & Português",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/basedash"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "Product Hunt",
-        "title": "Muse",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/muse-22"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "Product Hunt",
-        "title": "DuckFightClub",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/duckfightclub"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "TechCrunch",
-        "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-        "desc": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-        "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
       }
     ]
   }
