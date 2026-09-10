@@ -1,59 +1,80 @@
 {
-  "generated_at": "2026-09-10T10:07:44.526Z",
+  "generated_at": "2026-09-10T15:19:08.255Z",
   "generated_at_tr": "10 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "10 Eyl",
-        "source": "MIT Tech Review",
-        "title": "God told them to sell crypto. Their investors lost everything.",
-        "desc": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now",
-        "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/"
-      },
-      {
-        "date": "10 Eyl",
-        "source": "MIT Tech Review",
-        "title": "Healthcare AI’s next test is integration",
-        "desc": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinic",
-        "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/"
-      },
-      {
-        "date": "10 Eyl",
-        "source": "TechCrunch",
-        "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-        "desc": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-        "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "Simon Willison",
-        "title": ".blend URL Viewer",
-        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/blender-viewer\">.blend URL Viewer</a></p>\n        <p>I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see <a href=\"https://til.simonwill",
-        "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "TechCrunch",
-        "title": "OpenAI adds a prominent AI doomer to its board of directors",
-        "desc": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-        "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "TechCrunch",
-        "title": "Massachusetts hits data centers with new clean power rules",
-        "desc": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-        "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/"
-      },
-      {
-        "date": "9 Eyl",
         "source": "The Verge",
-        "title": "Suno releases its first AI music model made with record industry help",
-        "desc": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data t",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help"
+        "title": "Sure, Meta’s AI Muse works, but it sure creeps me out",
+        "desc": "I turned my Muse assistant into a purple cat. | Screenshot: The Verge\t\n\nMeta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent c",
+        "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on"
+      },
+      {
+        "date": "10 Eyl",
+        "source": "TechCrunch",
+        "title": "AI agents are flooding public services with new requests",
+        "desc": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+        "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/"
+      },
+      {
+        "date": "10 Eyl",
+        "source": "TechCrunch",
+        "title": "Maven Robotics wants to steal your robot deployment deal",
+        "desc": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+        "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/"
+      },
+      {
+        "date": "10 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Snapchat takes aim at Partiful with new event-planning features",
+        "desc": "Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.",
+        "url": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/"
+      },
+      {
+        "date": "10 Eyl",
+        "source": "The Verge",
+        "title": "Mathematicians want proof OpenAI didn’t use their work",
+        "desc": "Sam Altman, chief executive officer of OpenAI, during a media tour of the Stargate AI data center. | Bloomberg via Getty Images\t\n\nAnother researcher is challenging OpenAI about the data driving its increasingly impressiv",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data"
+      },
+      {
+        "date": "10 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Powering AI is an architecture problem",
+        "desc": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years",
+        "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
+      },
+      {
+        "date": "10 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Can the US battery market untangle from China?",
+        "desc": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from int",
+        "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/"
       }
     ],
     "kod": [
+      {
+        "date": "10 Eyl",
+        "source": "The Verge",
+        "title": "Why the current tech backlash feels different",
+        "desc": "This interview has been lightly edited for length and clarity. \nNick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senior producer. And I’m joined by our brand-",
+        "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers"
+      },
+      {
+        "date": "10 Eyl",
+        "source": "MIT Tech Review",
+        "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado f",
+        "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
+      },
+      {
+        "date": "10 Eyl",
+        "source": "MIT Tech Review",
+        "title": "This road map could help us decide whether to deploy solar geoengineering",
+        "desc": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Re",
+        "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/"
+      },
       {
         "date": "10 Eyl",
         "source": "GitHub Blog",
@@ -81,27 +102,6 @@
         "title": "Frigade Assist API",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/frigade"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "MIT Tech Review",
-        "title": "The Download: our 35 Innovators Under 35 this year",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation",
-        "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"
-      },
-      {
-        "date": "7 Eyl",
-        "source": "Simon Willison",
-        "title": "Creepy crawlies",
-        "desc": "<p><strong><a href=\"https://people.kernel.org/monsieuricon/creepy-crawlies\">Creepy crawlies</a></strong></p>\nKonstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the persp",
-        "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/"
-      },
-      {
-        "date": "7 Eyl",
-        "source": "Simon Willison",
-        "title": "Video compressor",
-        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/video-compressor\">Video compressor</a></p>\n        <p>I recorded a short demo video of <a href=\"https://simonwillison.net/2026/Sep/7/equal-earth/\">my Equ",
-        "url": "https://simonwillison.net/2026/Sep/7/video-compressor/"
       }
     ],
     "arac": [
