@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-09-09T20:06:52.810Z",
-  "generated_at_tr": "9 Eyl 2026",
+  "generated_at": "2026-09-10T01:41:36.564Z",
+  "generated_at_tr": "10 Eyl 2026",
   "categories": {
     "ai": [
       {
-        "date": "9 Eyl",
+        "date": "10 Eyl",
         "source": "TechCrunch",
-        "title": "The hinge for Apple’s new foldable phone was built with AI",
-        "desc": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-        "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/"
+        "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+        "desc": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+        "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "Simon Willison",
+        "title": ".blend URL Viewer",
+        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/blender-viewer\">.blend URL Viewer</a></p>\n        <p>I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see <a href=\"https://til.simonwill",
+        "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/"
       },
       {
         "date": "9 Eyl",
         "source": "TechCrunch",
-        "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
-        "desc": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-        "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/"
+        "title": "OpenAI adds a prominent AI doomer to its board of directors",
+        "desc": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+        "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/"
       },
       {
         "date": "9 Eyl",
         "source": "TechCrunch",
-        "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-        "desc": "The company also argued that its on-device models offer consumers more privacy.",
-        "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/"
+        "title": "Massachusetts hits data centers with new clean power rules",
+        "desc": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+        "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/"
       },
       {
         "date": "9 Eyl",
         "source": "The Verge",
-        "title": "Microsoft has new AI privacy rules for schools",
-        "desc": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI. \nIn a new agreement with the American Federation of Teachers (AFT),",
-        "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy"
+        "title": "Suno releases its first AI music model made with record industry help",
+        "desc": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data t",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "The Verge",
+        "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+        "desc": "Open AI CEO Sam Altman speaks during the G20 Innovation Ministerial. | (Photo by Matt RAMEY / AFP via Getty Images)\t\n\nOpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize proble",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes"
       },
       {
         "date": "9 Eyl",
         "source": "TechCrunch",
-        "title": "Superintelligence is coming. Should we let it?",
-        "desc": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more c",
-        "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "TechCrunch",
-        "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
-        "desc": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more c",
-        "url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "TechCrunch",
-        "title": "Viral AI assistant Instinct now has its own email address",
-        "desc": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-        "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/"
+        "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+        "desc": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they co",
+        "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
       }
     ],
     "kod": [
+      {
+        "date": "10 Eyl",
+        "source": "Simon Willison",
+        "title": "Quoting Calif Research",
+        "desc": "<blockquote cite=\"https://calif.io/research/weworm\"><p>Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...]</p>\n<p>The victim does not need to an",
+        "url": "https://simonwillison.net/2026/Sep/10/calif-research/"
+      },
       {
         "date": "9 Eyl",
         "source": "Simon Willison",
@@ -95,16 +102,23 @@
         "title": "Video compressor",
         "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/video-compressor\">Video compressor</a></p>\n        <p>I recorded a short demo video of <a href=\"https://simonwillison.net/2026/Sep/7/equal-earth/\">my Equ",
         "url": "https://simonwillison.net/2026/Sep/7/video-compressor/"
-      },
-      {
-        "date": "6 Eyl",
-        "source": "Product Hunt",
-        "title": "Airuncode",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/airuncode"
       }
     ],
     "arac": [
+      {
+        "date": "9 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+        "desc": "Mullenweg said in a company Slack message that it was against his will.",
+        "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "The Verge",
+        "title": "Read the Apple document explaining how new listening features still protect your privacy",
+        "desc": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple",
+        "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy"
+      },
       {
         "date": "9 Eyl",
         "source": "TechCrunch",
@@ -135,24 +149,10 @@
       },
       {
         "date": "9 Eyl",
-        "source": "TechCrunch",
-        "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-        "desc": "If you want to manufacture in space — and bring the products back again — there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of startups launching spacecraft that s",
-        "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/"
-      },
-      {
-        "date": "9 Eyl",
         "source": "Product Hunt",
         "title": "Type.com",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/type-com"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "Product Hunt",
-        "title": "AlphaGenome Atlas",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/alphagenome-atlas"
       }
     ]
   }
