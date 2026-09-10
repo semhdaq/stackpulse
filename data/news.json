@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-09-10T01:41:36.564Z",
+  "generated_at": "2026-09-10T10:07:44.526Z",
   "generated_at_tr": "10 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "10 Eyl",
+        "source": "MIT Tech Review",
+        "title": "God told them to sell crypto. Their investors lost everything.",
+        "desc": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now",
+        "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/"
+      },
+      {
+        "date": "10 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Healthcare AI’s next test is integration",
+        "desc": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinic",
+        "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/"
+      },
       {
         "date": "10 Eyl",
         "source": "TechCrunch",
@@ -37,23 +51,16 @@
         "title": "Suno releases its first AI music model made with record industry help",
         "desc": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data t",
         "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "The Verge",
-        "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-        "desc": "Open AI CEO Sam Altman speaks during the G20 Innovation Ministerial. | (Photo by Matt RAMEY / AFP via Getty Images)\t\n\nOpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize proble",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "TechCrunch",
-        "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-        "desc": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they co",
-        "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
       }
     ],
     "kod": [
+      {
+        "date": "10 Eyl",
+        "source": "GitHub Blog",
+        "title": "GitHub availability report: August 2026",
+        "desc": "In August, we experienced five incidents that resulted in degraded performance across GitHub services.\nThe post GitHub availability report: August 2026 appeared first on The GitHub Blog.",
+        "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/"
+      },
       {
         "date": "10 Eyl",
         "source": "Simon Willison",
@@ -83,13 +90,6 @@
         "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"
       },
       {
-        "date": "8 Eyl",
-        "source": "MIT Tech Review",
-        "title": "This geneticist’s age-reversal tech could help restore sight",
-        "desc": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his f",
-        "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/"
-      },
-      {
         "date": "7 Eyl",
         "source": "Simon Willison",
         "title": "Creepy crawlies",
@@ -106,6 +106,20 @@
     ],
     "arac": [
       {
+        "date": "10 Eyl",
+        "source": "Product Hunt",
+        "title": "Suno v6",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/suno"
+      },
+      {
+        "date": "10 Eyl",
+        "source": "Product Hunt",
+        "title": "Modeinspect",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/modeinspect-1-0"
+      },
+      {
         "date": "9 Eyl",
         "source": "TechCrunch Apps",
         "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
@@ -121,38 +135,24 @@
       },
       {
         "date": "9 Eyl",
-        "source": "TechCrunch",
-        "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-        "desc": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-        "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "The Verge",
-        "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-        "desc": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the devi",
-        "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "Apple Watch’s new feature listens to your chats and recaps them",
-        "desc": "The Siri Recap feature is similar to other note-taking apps like Granola.",
-        "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "TechCrunch",
-        "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-        "desc": "The update uses Apple Intelligence to make better sense of your health data.",
-        "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/"
+        "source": "Product Hunt",
+        "title": "iPhone Duo",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/apple"
       },
       {
         "date": "9 Eyl",
         "source": "Product Hunt",
-        "title": "Type.com",
+        "title": "hob",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/type-com"
+        "url": "https://www.producthunt.com/products/hob-2"
+      },
+      {
+        "date": "9 Eyl",
+        "source": "TechCrunch",
+        "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+        "desc": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+        "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
       }
     ]
   }
