@@ -1,59 +1,87 @@
 {
-  "generated_at": "2026-09-10T15:19:08.255Z",
-  "generated_at_tr": "10 Eyl 2026",
+  "generated_at": "2026-09-11T01:40:38.164Z",
+  "generated_at_tr": "11 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "10 Eyl",
-        "source": "The Verge",
-        "title": "Sure, Meta’s AI Muse works, but it sure creeps me out",
-        "desc": "I turned my Muse assistant into a purple cat. | Screenshot: The Verge\t\n\nMeta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent c",
-        "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on"
+        "source": "TechCrunch",
+        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "desc": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+        "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/"
       },
       {
         "date": "10 Eyl",
         "source": "TechCrunch",
-        "title": "AI agents are flooding public services with new requests",
-        "desc": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-        "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/"
+        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+        "desc": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+        "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
       },
       {
         "date": "10 Eyl",
         "source": "TechCrunch",
-        "title": "Maven Robotics wants to steal your robot deployment deal",
-        "desc": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-        "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/"
+        "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+        "desc": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+        "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
       },
       {
         "date": "10 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "Snapchat takes aim at Partiful with new event-planning features",
-        "desc": "Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.",
-        "url": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/"
+        "source": "TechCrunch",
+        "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+        "desc": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+        "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/"
+      },
+      {
+        "date": "10 Eyl",
+        "source": "TechCrunch",
+        "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+        "desc": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+        "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"
       },
       {
         "date": "10 Eyl",
         "source": "The Verge",
-        "title": "Mathematicians want proof OpenAI didn’t use their work",
-        "desc": "Sam Altman, chief executive officer of OpenAI, during a media tour of the Stargate AI data center. | Bloomberg via Getty Images\t\n\nAnother researcher is challenging OpenAI about the data driving its increasingly impressiv",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data"
+        "title": "Schools are catching on to Big Tech’s playbook",
+        "desc": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for l",
+        "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids"
       },
       {
         "date": "10 Eyl",
-        "source": "MIT Tech Review",
-        "title": "Powering AI is an architecture problem",
-        "desc": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years",
-        "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
-      },
-      {
-        "date": "10 Eyl",
-        "source": "MIT Tech Review",
-        "title": "Can the US battery market untangle from China?",
-        "desc": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from int",
-        "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/"
+        "source": "TechCrunch",
+        "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+        "desc": "Come inside the mind of a bot trying to convince the internet it's human.",
+        "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/"
       }
     ],
     "kod": [
+      {
+        "date": "10 Eyl",
+        "source": "Simon Willison",
+        "title": "Any Nix package, live in your browser",
+        "desc": "<p><strong><a href=\"https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser\">Any Nix package, live in your browser</a></strong></p>\nFarid Zakaria calls this his \"<em>magnum opus</em> of Nix work\", and I can ",
+        "url": "https://simonwillison.net/2026/Sep/10/trynix/"
+      },
+      {
+        "date": "10 Eyl",
+        "source": "The Verge",
+        "title": "Slack can now vibe-code interactive charts and reports inside chats",
+        "desc": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what",
+        "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch"
+      },
+      {
+        "date": "10 Eyl",
+        "source": "Simon Willison",
+        "title": "Native is now the future of mobile at Shopify",
+        "desc": "<p><strong><a href=\"https://shopify.engineering/back-to-native\">Native is now the future of mobile at Shopify</a></strong></p>\nShopify are moving from React Native back to separate Swift and Kotlin codebases for their na",
+        "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/"
+      },
+      {
+        "date": "10 Eyl",
+        "source": "Stack Overflow Blog",
+        "title": "(Re)introducing Developer Story",
+        "desc": "For the past few years, we’ve been looking at ways to bring a little more of the individual developer back to Stack.",
+        "url": "https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/"
+      },
       {
         "date": "10 Eyl",
         "source": "The Verge",
@@ -74,37 +102,23 @@
         "title": "This road map could help us decide whether to deploy solar geoengineering",
         "desc": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Re",
         "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/"
-      },
-      {
-        "date": "10 Eyl",
-        "source": "GitHub Blog",
-        "title": "GitHub availability report: August 2026",
-        "desc": "In August, we experienced five incidents that resulted in degraded performance across GitHub services.\nThe post GitHub availability report: August 2026 appeared first on The GitHub Blog.",
-        "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/"
-      },
-      {
-        "date": "10 Eyl",
-        "source": "Simon Willison",
-        "title": "Quoting Calif Research",
-        "desc": "<blockquote cite=\"https://calif.io/research/weworm\"><p>Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...]</p>\n<p>The victim does not need to an",
-        "url": "https://simonwillison.net/2026/Sep/10/calif-research/"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "Simon Willison",
-        "title": "Quoting Terence Tao",
-        "desc": "<blockquote cite=\"https://mathstodon.xyz/@tao/117237320796901560\"><p>I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scena",
-        "url": "https://simonwillison.net/2026/Sep/9/terence-tao/"
-      },
-      {
-        "date": "8 Eyl",
-        "source": "Product Hunt",
-        "title": "Frigade Assist API",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/frigade"
       }
     ],
     "arac": [
+      {
+        "date": "10 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
+        "desc": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
+        "url": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/"
+      },
+      {
+        "date": "10 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Google is making it easier to switch between password managers on Android",
+        "desc": "Google's new feature will transfer your passkeys as well.",
+        "url": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/"
+      },
       {
         "date": "10 Eyl",
         "source": "Product Hunt",
@@ -139,20 +153,6 @@
         "title": "iPhone Duo",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/apple"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "Product Hunt",
-        "title": "hob",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/hob-2"
-      },
-      {
-        "date": "9 Eyl",
-        "source": "TechCrunch",
-        "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-        "desc": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-        "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
       }
     ]
   }
