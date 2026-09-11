@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-09-11T10:05:00.903Z",
+  "generated_at": "2026-09-11T15:20:50.045Z",
   "generated_at_tr": "11 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "11 Eyl",
+        "source": "The Verge",
+        "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+        "desc": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to ",
+        "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions"
+      },
       {
         "date": "11 Eyl",
         "source": "MIT Tech Review",
@@ -44,16 +51,30 @@
         "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
         "desc": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
         "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/"
-      },
-      {
-        "date": "10 Eyl",
-        "source": "TechCrunch",
-        "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-        "desc": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-        "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"
       }
     ],
     "kod": [
+      {
+        "date": "11 Eyl",
+        "source": "Simon Willison",
+        "title": "Soft-deprecating re.match()",
+        "desc": "<p><strong><a href=\"https://hugovk.dev/blog/2026/soft-deprecating-re.match/\">Soft-deprecating re.match()</a></strong></p>\nPython has a concept of <a href=\"https://peps.python.org/pep-0387/#soft-deprecation\">soft deprecat",
+        "url": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/"
+      },
+      {
+        "date": "11 Eyl",
+        "source": "Simon Willison",
+        "title": "Don't sleep on wrapture",
+        "desc": "<p>Graham Dumpleton's new monkey patching package <a href=\"https://wrapture.readthedocs.io/\">wrapture</a> is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about i",
+        "url": "https://simonwillison.net/2026/Sep/11/wrapture/"
+      },
+      {
+        "date": "11 Eyl",
+        "source": "MIT Tech Review",
+        "title": "The Download: biotech’s future and cheaper, cleaner steel",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/"
+      },
       {
         "date": "10 Eyl",
         "source": "Simon Willison",
@@ -81,30 +102,16 @@
         "title": "Native is now the future of mobile at Shopify",
         "desc": "<p><strong><a href=\"https://shopify.engineering/back-to-native\">Native is now the future of mobile at Shopify</a></strong></p>\nShopify are moving from React Native back to separate Swift and Kotlin codebases for their na",
         "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/"
-      },
-      {
-        "date": "10 Eyl",
-        "source": "Stack Overflow Blog",
-        "title": "(Re)introducing Developer Story",
-        "desc": "For the past few years, we’ve been looking at ways to bring a little more of the individual developer back to Stack.",
-        "url": "https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/"
-      },
-      {
-        "date": "10 Eyl",
-        "source": "The Verge",
-        "title": "Why the current tech backlash feels different",
-        "desc": "This interview has been lightly edited for length and clarity. \nNick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senior producer. And I’m joined by our brand-",
-        "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers"
-      },
-      {
-        "date": "10 Eyl",
-        "source": "MIT Tech Review",
-        "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado f",
-        "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
       }
     ],
     "arac": [
+      {
+        "date": "11 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Matt Mullenweg tells Automattic staff in Slack he’s back in control after CEO ouster",
+        "desc": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
+        "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/"
+      },
       {
         "date": "11 Eyl",
         "source": "Product Hunt",
@@ -146,13 +153,6 @@
         "title": "Jackalope",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/jackalope"
-      },
-      {
-        "date": "10 Eyl",
-        "source": "Product Hunt",
-        "title": "Devin Voice",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/devin-voice"
       }
     ]
   }
