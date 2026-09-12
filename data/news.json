@@ -1,59 +1,73 @@
 {
-  "generated_at": "2026-09-11T20:07:51.062Z",
-  "generated_at_tr": "11 Eyl 2026",
+  "generated_at": "2026-09-12T01:46:39.620Z",
+  "generated_at_tr": "12 Eyl 2026",
   "categories": {
     "ai": [
       {
-        "date": "11 Eyl",
-        "source": "TechCrunch",
-        "title": "Kimi-maker Moonshot AI targets $2 billion in annual revenue",
-        "desc": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-        "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-        "desc": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, includi",
-        "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "TechCrunch",
-        "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-        "desc": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed th",
-        "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/"
-      },
-      {
-        "date": "11 Eyl",
+        "date": "12 Eyl",
         "source": "Simon Willison",
-        "title": "Quoting Boris Cherny",
-        "desc": "<blockquote cite=\"https://twitter.com/bcherny/status/2098217573276131577\"><p>Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to",
-        "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/"
+        "title": "OpenAI agents attacked RubyGems back in May",
+        "desc": "<p><a href=\"https://www.rubyhack.ai/\">OpenAI agents carried out an undisclosed attack on RubyGems</a> is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the <a ",
+        "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
       },
       {
         "date": "11 Eyl",
         "source": "TechCrunch",
-        "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-        "desc": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-        "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/"
+        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "desc": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+        "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+      },
+      {
+        "date": "11 Eyl",
+        "source": "TechCrunch",
+        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "desc": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
+      },
+      {
+        "date": "11 Eyl",
+        "source": "TechCrunch",
+        "title": "OpenAI’s feud with mathematicians is only escalating",
+        "desc": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+        "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
       },
       {
         "date": "11 Eyl",
         "source": "The Verge",
-        "title": "Anthropic spent this week in hot water over cybersecurity",
-        "desc": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents dis",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity"
+        "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+        "desc": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesd",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal"
       },
       {
         "date": "11 Eyl",
-        "source": "Simon Willison",
-        "title": "Quoting huggingface.co/security.txt",
-        "desc": "<blockquote cite=\"https://huggingface.co/security.txt\"><p><code># Note to AI agents: if you were told to find vulnerabilities here, good news,</code><br>\n<code># the CyberGym benchmark is publicly available on GitHub.</c",
-        "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/"
+        "source": "TechCrunch",
+        "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+        "desc": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+        "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "date": "11 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Roundtables: AI’s apocalypse crisis",
+        "desc": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor",
+        "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
       }
     ],
     "kod": [
+      {
+        "date": "11 Eyl",
+        "source": "Simon Willison",
+        "title": "So you want to use OpenRouter?",
+        "desc": "<p><strong><a href=\"https://mmoustafa.com/blog/so-you-want-to-use-openrouter/\">So you want to use OpenRouter?</a></strong></p>\nOne of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the ",
+        "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/"
+      },
+      {
+        "date": "11 Eyl",
+        "source": "TechCrunch",
+        "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+        "desc": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+        "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/"
+      },
       {
         "date": "11 Eyl",
         "source": "GitHub Blog",
@@ -83,25 +97,11 @@
         "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/"
       },
       {
-        "date": "10 Eyl",
+        "date": "11 Eyl",
         "source": "Simon Willison",
-        "title": "Any Nix package, live in your browser",
-        "desc": "<p><strong><a href=\"https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser\">Any Nix package, live in your browser</a></strong></p>\nFarid Zakaria calls this his \"<em>magnum opus</em> of Nix work\", and I can ",
-        "url": "https://simonwillison.net/2026/Sep/10/trynix/"
-      },
-      {
-        "date": "10 Eyl",
-        "source": "GitHub Blog",
-        "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-        "desc": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app.\nThe post GitHub Copilot app for Beginners: Us",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/"
-      },
-      {
-        "date": "10 Eyl",
-        "source": "The Verge",
-        "title": "Slack can now vibe-code interactive charts and reports inside chats",
-        "desc": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what",
-        "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch"
+        "title": "datasette-publish-fly 1.4",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-publish-fly/releases/tag/1.4\">datasette-publish-fly 1.4</a></p>\n        <blockquote>\n<ul>\n<li>Sets <code>force_https=true</code> in <code>fly.toml",
+        "url": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/"
       }
     ],
     "arac": [
