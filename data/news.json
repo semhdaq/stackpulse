@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T01:46:39.620Z",
+  "generated_at": "2026-09-12T09:40:49.591Z",
   "generated_at_tr": "12 Eyl 2026",
   "categories": {
     "ai": [
@@ -107,10 +107,24 @@
     "arac": [
       {
         "date": "11 Eyl",
+        "source": "Product Hunt",
+        "title": "DockFix 5.0",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/dockfix"
+      },
+      {
+        "date": "11 Eyl",
         "source": "TechCrunch Apps",
         "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
         "desc": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
         "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/"
+      },
+      {
+        "date": "11 Eyl",
+        "source": "Product Hunt",
+        "title": "SUDARI",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/sudari"
       },
       {
         "date": "11 Eyl",
@@ -139,20 +153,6 @@
         "title": "Accordio",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/accordio"
-      },
-      {
-        "date": "10 Eyl",
-        "source": "Product Hunt",
-        "title": "Cadenya",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/cadenya-the-agent-runtime"
-      },
-      {
-        "date": "10 Eyl",
-        "source": "Product Hunt",
-        "title": "Jackalope",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/jackalope"
       }
     ]
   }
