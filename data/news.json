@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-09-12T09:40:49.591Z",
+  "generated_at": "2026-09-12T14:28:45.997Z",
   "generated_at_tr": "12 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "12 Eyl",
+        "source": "The Verge",
+        "title": "OpenAI just wants to win",
+        "desc": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In nor",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition"
+      },
       {
         "date": "12 Eyl",
         "source": "Simon Willison",
@@ -44,13 +51,6 @@
         "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
         "desc": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
         "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "MIT Tech Review",
-        "title": "Roundtables: AI’s apocalypse crisis",
-        "desc": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor",
-        "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
       }
     ],
     "kod": [
