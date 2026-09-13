@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T01:37:32.750Z",
+  "generated_at": "2026-09-13T10:42:01.301Z",
   "generated_at_tr": "13 Eyl 2026",
   "categories": {
     "ai": [
@@ -9,6 +9,20 @@
         "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
         "desc": "<p>Here's a neat thing I had <a href=\"https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\">ChatGPT Work</a> with GPT-6 Astra (Max) do this morning:</p>\r\n<blockquote>\r\n<p><code>I live at &lt;my address&gt;. ",
         "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/"
+      },
+      {
+        "date": "12 Eyl",
+        "source": "The Verge",
+        "title": "OpenAI’s rogue AI tried to hack another company in May",
+        "desc": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. N",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack"
+      },
+      {
+        "date": "12 Eyl",
+        "source": "The Verge",
+        "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+        "desc": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking inciden",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised"
       },
       {
         "date": "12 Eyl",
@@ -37,20 +51,6 @@
         "title": "Trump is giving data centers a pass to pollute",
         "desc": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefi",
         "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa"
-      },
-      {
-        "date": "12 Eyl",
-        "source": "The Verge",
-        "title": "OpenAI just wants to win",
-        "desc": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In nor",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition"
-      },
-      {
-        "date": "12 Eyl",
-        "source": "Simon Willison",
-        "title": "OpenAI agents attacked RubyGems back in May",
-        "desc": "<p><a href=\"https://www.rubyhack.ai/\">OpenAI agents carried out an undisclosed attack on RubyGems</a> is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the <a ",
-        "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
       }
     ],
     "kod": [
@@ -108,6 +108,13 @@
       {
         "date": "11 Eyl",
         "source": "Product Hunt",
+        "title": "Resurf",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/resurf-2"
+      },
+      {
+        "date": "11 Eyl",
+        "source": "Product Hunt",
         "title": "DockFix 5.0",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/dockfix"
@@ -146,13 +153,6 @@
         "title": "Moji",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/moji-2"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "Product Hunt",
-        "title": "Accordio",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/accordio"
       }
     ]
   }
