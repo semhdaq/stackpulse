@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-09-12T14:28:45.997Z",
-  "generated_at_tr": "12 Eyl 2026",
+  "generated_at": "2026-09-13T01:37:32.750Z",
+  "generated_at_tr": "13 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "12 Eyl",
+        "source": "Simon Willison",
+        "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+        "desc": "<p>Here's a neat thing I had <a href=\"https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\">ChatGPT Work</a> with GPT-6 Astra (Max) do this morning:</p>\r\n<blockquote>\r\n<p><code>I live at &lt;my address&gt;. ",
+        "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/"
+      },
+      {
+        "date": "12 Eyl",
+        "source": "TechCrunch",
+        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "desc": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+      },
+      {
+        "date": "12 Eyl",
+        "source": "TechCrunch",
+        "title": "Anthropic CEO outlines plan to slow AI development",
+        "desc": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+        "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+      },
+      {
+        "date": "12 Eyl",
+        "source": "The Verge",
+        "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+        "desc": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a w",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development"
+      },
+      {
+        "date": "12 Eyl",
+        "source": "The Verge",
+        "title": "Trump is giving data centers a pass to pollute",
+        "desc": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefi",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa"
+      },
       {
         "date": "12 Eyl",
         "source": "The Verge",
@@ -16,44 +51,23 @@
         "title": "OpenAI agents attacked RubyGems back in May",
         "desc": "<p><a href=\"https://www.rubyhack.ai/\">OpenAI agents carried out an undisclosed attack on RubyGems</a> is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the <a ",
         "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "TechCrunch",
-        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-        "desc": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-        "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "TechCrunch",
-        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-        "desc": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "TechCrunch",
-        "title": "OpenAI’s feud with mathematicians is only escalating",
-        "desc": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-        "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "The Verge",
-        "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-        "desc": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesd",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "TechCrunch",
-        "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-        "desc": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-        "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/"
       }
     ],
     "kod": [
+      {
+        "date": "12 Eyl",
+        "source": "Simon Willison",
+        "title": "California Brown Pelican",
+        "desc": "<p><img src=\"https://static.inaturalist.org/photos/733368932/large.jpg\" alt=\"California Brown Pelican\"></p><p><img src=\"https://static.inaturalist.org/photos/733368989/large.jpg\" alt=\"California Brown Pelican\"></p><p>Cal",
+        "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/"
+      },
+      {
+        "date": "12 Eyl",
+        "source": "Simon Willison",
+        "title": "Quoting Paul Ford",
+        "desc": "<blockquote cite=\"https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html\"><p>For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tirele",
+        "url": "https://simonwillison.net/2026/Sep/12/paul-ford/"
+      },
       {
         "date": "11 Eyl",
         "source": "Simon Willison",
@@ -88,20 +102,6 @@
         "title": "Don't sleep on wrapture",
         "desc": "<p>Graham Dumpleton's new monkey patching package <a href=\"https://wrapture.readthedocs.io/\">wrapture</a> is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about i",
         "url": "https://simonwillison.net/2026/Sep/11/wrapture/"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "MIT Tech Review",
-        "title": "The Download: biotech’s future and cheaper, cleaner steel",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "Simon Willison",
-        "title": "datasette-publish-fly 1.4",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-publish-fly/releases/tag/1.4\">datasette-publish-fly 1.4</a></p>\n        <blockquote>\n<ul>\n<li>Sets <code>force_https=true</code> in <code>fly.toml",
-        "url": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/"
       }
     ],
     "arac": [
