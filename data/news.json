@@ -1,65 +1,86 @@
 {
-  "generated_at": "2026-09-13T19:55:43.533Z",
-  "generated_at_tr": "13 Eyl 2026",
+  "generated_at": "2026-09-14T17:07:03.542Z",
+  "generated_at_tr": "14 Eyl 2026",
   "categories": {
     "ai": [
       {
-        "date": "13 Eyl",
-        "source": "The Verge",
-        "title": "Trump and Mike Johnson think the AI industry is overreacting",
-        "desc": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting"
-      },
-      {
-        "date": "13 Eyl",
+        "date": "14 Eyl",
         "source": "TechCrunch",
-        "title": "What’s behind the AI industry’s latest warnings of doom?",
-        "desc": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-        "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
+        "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+        "desc": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constra",
+        "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/"
       },
       {
-        "date": "13 Eyl",
+        "date": "14 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Donated livers can be made biologically younger",
+        "desc": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matt",
+        "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/"
+      },
+      {
+        "date": "14 Eyl",
+        "source": "MIT Tech Review",
+        "title": "AI agents blew the whistle on their cheating colleagues",
+        "desc": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Go",
+        "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
+      },
+      {
+        "date": "14 Eyl",
         "source": "TechCrunch",
-        "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-        "desc": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
+        "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+        "desc": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builde",
+        "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/"
       },
       {
-        "date": "12 Eyl",
-        "source": "Simon Willison",
-        "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-        "desc": "<p>Here's a neat thing I had <a href=\"https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\">ChatGPT Work</a> with GPT-6 Astra (Max) do this morning:</p>\r\n<blockquote>\r\n<p><code>I live at &lt;my address&gt;. ",
-        "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/"
-      },
-      {
-        "date": "12 Eyl",
-        "source": "The Verge",
-        "title": "OpenAI’s rogue AI tried to hack another company in May",
-        "desc": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. N",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack"
-      },
-      {
-        "date": "12 Eyl",
-        "source": "The Verge",
-        "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-        "desc": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking inciden",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised"
-      },
-      {
-        "date": "12 Eyl",
+        "date": "14 Eyl",
         "source": "TechCrunch",
-        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "desc": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+        "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+        "desc": "Fathom said that it has over 400,000 monthly active users.",
+        "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/"
+      },
+      {
+        "date": "14 Eyl",
+        "source": "TechCrunch",
+        "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+        "desc": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your ",
+        "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "date": "14 Eyl",
+        "source": "The Verge",
+        "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+        "desc": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend",
+        "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
       }
     ],
     "kod": [
+      {
+        "date": "14 Eyl",
+        "source": "Simon Willison",
+        "title": "Quoting Laurie Voss",
+        "desc": "<blockquote cite=\"https://seldo.com/posts/we-are-all-product-engineers-now/\"><p>The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's ",
+        "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/"
+      },
+      {
+        "date": "13 Eyl",
+        "source": "Simon Willison",
+        "title": "shot-scraper 1.12",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/shot-scraper/releases/tag/1.12\">shot-scraper 1.12</a></p>\n        <p>I've added WebP support to my <a href=\"https://shot-scraper.datasette.io/\">shot-scraper",
+        "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/"
+      },
       {
         "date": "12 Eyl",
         "source": "Simon Willison",
         "title": "California Brown Pelican",
         "desc": "<p><img src=\"https://static.inaturalist.org/photos/733368932/large.jpg\" alt=\"California Brown Pelican\"></p><p><img src=\"https://static.inaturalist.org/photos/733368989/large.jpg\" alt=\"California Brown Pelican\"></p><p>Cal",
         "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/"
+      },
+      {
+        "date": "12 Eyl",
+        "source": "Product Hunt",
+        "title": "Aside",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/aside-6"
       },
       {
         "date": "12 Eyl",
@@ -81,78 +102,57 @@
         "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
         "desc": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
         "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "GitHub Blog",
-        "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-        "desc": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team.\nThe post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared ",
-        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "Simon Willison",
-        "title": "Soft-deprecating re.match()",
-        "desc": "<p><strong><a href=\"https://hugovk.dev/blog/2026/soft-deprecating-re.match/\">Soft-deprecating re.match()</a></strong></p>\nPython has a concept of <a href=\"https://peps.python.org/pep-0387/#soft-deprecation\">soft deprecat",
-        "url": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "Simon Willison",
-        "title": "Don't sleep on wrapture",
-        "desc": "<p>Graham Dumpleton's new monkey patching package <a href=\"https://wrapture.readthedocs.io/\">wrapture</a> is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about i",
-        "url": "https://simonwillison.net/2026/Sep/11/wrapture/"
       }
     ],
     "arac": [
       {
-        "date": "11 Eyl",
+        "date": "14 Eyl",
+        "source": "TechCrunch",
+        "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+        "desc": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+        "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
+      },
+      {
+        "date": "14 Eyl",
+        "source": "TechCrunch",
+        "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+        "desc": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
+        "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/"
+      },
+      {
+        "date": "14 Eyl",
+        "source": "TechCrunch",
+        "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+        "desc": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+        "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/"
+      },
+      {
+        "date": "14 Eyl",
         "source": "Product Hunt",
-        "title": "Resurf",
+        "title": "Slashy Assistant",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/resurf-2"
+        "url": "https://www.producthunt.com/products/slashy-3"
       },
       {
-        "date": "11 Eyl",
-        "source": "Product Hunt",
-        "title": "DockFix 5.0",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/dockfix"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
-        "desc": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
-        "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "Product Hunt",
-        "title": "SUDARI",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/sudari"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "Product Hunt",
-        "title": "LiveGrid",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/livegrid-4"
-      },
-      {
-        "date": "11 Eyl",
+        "date": "14 Eyl",
         "source": "Simon Willison",
-        "title": "Datasette 1.0a39 and 0.65.4 security releases",
-        "desc": "<p><strong><a href=\"https://datasette.io/blog/2026/september-security-releases/\">Datasette 1.0a39 and 0.65.4 security releases</a></strong></p>\nToday we're releasing two new security patch versions of Datasette: <a href=",
-        "url": "https://simonwillison.net/2026/Sep/11/datasette-security/"
+        "title": "commit-rewriter 0.1",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/commit-rewriter/releases/tag/0.1\">commit-rewriter 0.1</a></p>\n        <p>I built this little web app the other day to help edit the commit messages for the ",
+        "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/"
       },
       {
-        "date": "11 Eyl",
+        "date": "14 Eyl",
         "source": "Product Hunt",
-        "title": "Moji",
+        "title": "appdesigns",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/moji-2"
+        "url": "https://www.producthunt.com/products/appdesigns"
+      },
+      {
+        "date": "14 Eyl",
+        "source": "Product Hunt",
+        "title": "AppZapper 3000",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/appzapper"
       }
     ]
   }
