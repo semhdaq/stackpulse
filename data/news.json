@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-09-14T17:07:03.542Z",
+  "generated_at": "2026-09-14T21:05:48.638Z",
   "generated_at_tr": "14 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "14 Eyl",
+        "source": "TechCrunch",
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "desc": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+        "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+      },
+      {
+        "date": "14 Eyl",
+        "source": "The Verge",
+        "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+        "desc": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images\t\n\nNvidia CEO Jensen Huang too",
+        "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit"
+      },
+      {
+        "date": "14 Eyl",
+        "source": "MIT Tech Review",
+        "title": "The AI industry has taken a doomer turn. What now?",
+        "desc": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace",
+        "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
+      },
+      {
+        "date": "14 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "macOS 27: new Siri takes on AI productivity apps",
+        "desc": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
+        "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/"
+      },
       {
         "date": "14 Eyl",
         "source": "TechCrunch",
@@ -23,37 +51,23 @@
         "title": "AI agents blew the whistle on their cheating colleagues",
         "desc": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Go",
         "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "TechCrunch",
-        "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-        "desc": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builde",
-        "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "TechCrunch",
-        "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-        "desc": "Fathom said that it has over 400,000 monthly active users.",
-        "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "TechCrunch",
-        "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-        "desc": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your ",
-        "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "The Verge",
-        "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-        "desc": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend",
-        "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
       }
     ],
     "kod": [
+      {
+        "date": "14 Eyl",
+        "source": "Simon Willison",
+        "title": "What blog posts influenced your thinking the most?",
+        "desc": "<p><a href=\"https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking#c_4fxnwn\">My comment</a> on <a href=\"https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking\">What blog posts influenced your th",
+        "url": "https://simonwillison.net/2026/Sep/14/influences/"
+      },
+      {
+        "date": "14 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+        "desc": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
+        "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/"
+      },
       {
         "date": "14 Eyl",
         "source": "Simon Willison",
@@ -88,23 +102,16 @@
         "title": "Quoting Paul Ford",
         "desc": "<blockquote cite=\"https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html\"><p>For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tirele",
         "url": "https://simonwillison.net/2026/Sep/12/paul-ford/"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "Simon Willison",
-        "title": "So you want to use OpenRouter?",
-        "desc": "<p><strong><a href=\"https://mmoustafa.com/blog/so-you-want-to-use-openrouter/\">So you want to use OpenRouter?</a></strong></p>\nOne of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the ",
-        "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/"
-      },
-      {
-        "date": "11 Eyl",
-        "source": "TechCrunch",
-        "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-        "desc": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-        "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/"
       }
     ],
     "arac": [
+      {
+        "date": "14 Eyl",
+        "source": "TechCrunch",
+        "title": "With iOS 27, I’m actually using Siri again",
+        "desc": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+        "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
+      },
       {
         "date": "14 Eyl",
         "source": "TechCrunch",
@@ -122,9 +129,9 @@
       {
         "date": "14 Eyl",
         "source": "TechCrunch",
-        "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+        "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
         "desc": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-        "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/"
+        "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/"
       },
       {
         "date": "14 Eyl",
@@ -146,13 +153,6 @@
         "title": "appdesigns",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/appdesigns"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "Product Hunt",
-        "title": "AppZapper 3000",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/appzapper"
       }
     ]
   }
