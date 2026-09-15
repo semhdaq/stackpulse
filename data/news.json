@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-09-15T15:46:43.440Z",
+  "generated_at": "2026-09-15T20:31:05.193Z",
   "generated_at_tr": "15 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "15 Eyl",
         "source": "TechCrunch",
+        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+        "desc": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+        "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "TechCrunch",
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "desc": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "TechCrunch",
+        "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+        "desc": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+        "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Roundtables: Could AI really kill us all?",
+        "desc": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch ",
+        "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "TechCrunch",
+        "title": "AI agents now have a place to snitch",
+        "desc": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+        "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "TechCrunch",
+        "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+        "desc": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+        "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "TechCrunch",
         "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
         "desc": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
         "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/"
-      },
-      {
-        "date": "15 Eyl",
-        "source": "The Verge",
-        "title": "This doorbell camera lets a human security guard watch your front door",
-        "desc": "The new SimpliSafe Video Doorbell Series 2 adds 2K resolution and dual band Wi-Fi. | Image: Simplisafe\t\n\nDIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The n",
-        "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs"
-      },
-      {
-        "date": "15 Eyl",
-        "source": "TechCrunch",
-        "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-        "desc": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-        "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/"
-      },
-      {
-        "date": "15 Eyl",
-        "source": "MIT Tech Review",
-        "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Alt",
-        "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/"
-      },
-      {
-        "date": "15 Eyl",
-        "source": "TechCrunch",
-        "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-        "desc": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
-        "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/"
-      },
-      {
-        "date": "15 Eyl",
-        "source": "MIT Tech Review",
-        "title": "AI models need more data about biology, and OpenAI is paying to create it",
-        "desc": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she prop",
-        "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
-      },
-      {
-        "date": "15 Eyl",
-        "source": "MIT Tech Review",
-        "title": "What’s at stake in AI’s trillion-dollar gamble",
-        "desc": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertain",
-        "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
       }
     ],
     "kod": [
@@ -108,6 +108,20 @@
       {
         "date": "15 Eyl",
         "source": "TechCrunch",
+        "title": "Meta expands subscription push with new AI-focused plans",
+        "desc": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+        "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
+        "desc": "The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
+        "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "TechCrunch",
         "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
         "desc": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
         "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/"
@@ -123,7 +137,7 @@
         "date": "15 Eyl",
         "source": "TechCrunch",
         "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-        "desc": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register ",
+        "desc": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register",
         "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/"
       },
       {
@@ -139,20 +153,6 @@
         "title": "Spotify finally lets parents exclude kids’ music from Wrapped and recommendations",
         "desc": "Parents can finally get the kids' music out of Spotify Wrapped and other personalized playlists.",
         "url": "https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/"
-      },
-      {
-        "date": "15 Eyl",
-        "source": "Product Hunt",
-        "title": "Portfolio Frame",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/portfolio-frame"
-      },
-      {
-        "date": "15 Eyl",
-        "source": "Product Hunt",
-        "title": "PeekPaste",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/lucidbit"
       }
     ]
   }
