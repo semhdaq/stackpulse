@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-09-15T10:33:37.497Z",
+  "generated_at": "2026-09-15T15:46:43.440Z",
   "generated_at_tr": "15 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "15 Eyl",
+        "source": "TechCrunch",
+        "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+        "desc": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+        "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "The Verge",
+        "title": "This doorbell camera lets a human security guard watch your front door",
+        "desc": "The new SimpliSafe Video Doorbell Series 2 adds 2K resolution and dual band Wi-Fi. | Image: Simplisafe\t\n\nDIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The n",
+        "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "TechCrunch",
+        "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+        "desc": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+        "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/"
+      },
+      {
+        "date": "15 Eyl",
         "source": "MIT Tech Review",
-        "title": "What must happen for AI’s trillion-dollar gamble to pay off",
+        "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Alt",
+        "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "TechCrunch",
+        "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+        "desc": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+        "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "MIT Tech Review",
+        "title": "AI models need more data about biology, and OpenAI is paying to create it",
+        "desc": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she prop",
+        "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "MIT Tech Review",
+        "title": "What’s at stake in AI’s trillion-dollar gamble",
         "desc": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertain",
         "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
-      },
-      {
-        "date": "15 Eyl",
-        "source": "Stack Overflow Blog",
-        "title": "AI, JD, and other letters of the law",
-        "desc": "Ryan chats with Kevin Frazier, director of the AI Innovation and Law program at the University of Texas School of Law, about the legal and social impacts of data centers, the realities of workforce disruption, and regula",
-        "url": "https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/"
-      },
-      {
-        "date": "15 Eyl",
-        "source": "TechCrunch",
-        "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-        "desc": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
-        "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "The Verge",
-        "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-        "desc": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "TechCrunch",
-        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-        "desc": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-        "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "The Verge",
-        "title": "What execs and politicians are saying about slowing down AI development",
-        "desc": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "TechCrunch",
-        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-        "desc": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-        "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
       }
     ],
     "kod": [
@@ -107,6 +107,41 @@
     "arac": [
       {
         "date": "15 Eyl",
+        "source": "TechCrunch",
+        "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+        "desc": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+        "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "The Verge",
+        "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+        "desc": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earl",
+        "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "TechCrunch",
+        "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+        "desc": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register ",
+        "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "TechCrunch",
+        "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+        "desc": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+        "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "date": "15 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Spotify finally lets parents exclude kids’ music from Wrapped and recommendations",
+        "desc": "Parents can finally get the kids' music out of Spotify Wrapped and other personalized playlists.",
+        "url": "https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/"
+      },
+      {
+        "date": "15 Eyl",
         "source": "Product Hunt",
         "title": "Portfolio Frame",
         "desc": "Discussion\n            |\n            Link",
@@ -118,41 +153,6 @@
         "title": "PeekPaste",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/lucidbit"
-      },
-      {
-        "date": "15 Eyl",
-        "source": "Product Hunt",
-        "title": "Mac Duo",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/mac-duo"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "Product Hunt",
-        "title": "Tangerine",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tangerine-zero-click-file-converter"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "Product Hunt",
-        "title": "FATHER",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/father-web-monitoring"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "Product Hunt",
-        "title": "Kodro",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/kodro"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "Product Hunt",
-        "title": "Thoughts for Mac",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/thoughts-for-mac"
       }
     ]
   }
