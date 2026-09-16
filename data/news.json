@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-09-16T10:22:15.224Z",
+  "generated_at": "2026-09-16T15:38:34.950Z",
   "generated_at_tr": "16 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "16 Eyl",
         "source": "TechCrunch",
-        "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-        "desc": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-        "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
+        "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+        "desc": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+        "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/"
       },
       {
-        "date": "15 Eyl",
+        "date": "16 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Meet a mouse whose brain cortex is made up of human cells",
+        "desc": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.  The reason to watch this rodent so carefully? Nearly half its brain",
+        "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/"
+      },
+      {
+        "date": "16 Eyl",
         "source": "The Verge",
-        "title": "AI and data centers are incredibly unpopular in every poll",
-        "desc": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"
+        "title": "The sexy AI-powered dating app scams are here",
+        "desc": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sa",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams"
       },
       {
-        "date": "15 Eyl",
+        "date": "16 Eyl",
         "source": "TechCrunch",
-        "title": "The AI data center boom is colliding with cities scarred by big industry",
-        "desc": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-        "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/"
+        "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+        "desc": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+        "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/"
       },
       {
-        "date": "15 Eyl",
+        "date": "16 Eyl",
         "source": "TechCrunch",
-        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-        "desc": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-        "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
+        "title": "Former Infosys chief’s AI startup nabs another $53M",
+        "desc": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+        "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/"
       },
       {
-        "date": "15 Eyl",
-        "source": "TechCrunch",
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "desc": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-        "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+        "date": "16 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Building the materials foundation for AI",
+        "desc": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data cen",
+        "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
       },
       {
-        "date": "15 Eyl",
-        "source": "TechCrunch",
-        "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-        "desc": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-        "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
-      },
-      {
-        "date": "15 Eyl",
-        "source": "Product Hunt",
-        "title": "Gemini 3.8 & 3.8 Live Extended Thinking",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/gemini-3-8-3-8-live-extended-thinking"
+        "date": "16 Eyl",
+        "source": "MIT Tech Review",
+        "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance pro",
+        "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/"
       }
     ],
     "kod": [
@@ -106,6 +106,34 @@
     ],
     "arac": [
       {
+        "date": "16 Eyl",
+        "source": "TechCrunch",
+        "title": "Threads’ new features let podcasters promote shows and reach listeners",
+        "desc": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promo",
+        "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/"
+      },
+      {
+        "date": "16 Eyl",
+        "source": "TechCrunch",
+        "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+        "desc": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch ",
+        "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/"
+      },
+      {
+        "date": "16 Eyl",
+        "source": "TechCrunch",
+        "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+        "desc": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+        "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "date": "16 Eyl",
+        "source": "TechCrunch",
+        "title": "Amazon launches Alexa+ in India with Hindi support",
+        "desc": "Amazon is letting all customers use Alexa+ assistant in early access period.",
+        "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/"
+      },
+      {
         "date": "15 Eyl",
         "source": "Simon Willison",
         "title": "Gemini Live audio",
@@ -125,34 +153,6 @@
         "title": "Meta expands subscription push with new AI-focused plans",
         "desc": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
         "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/"
-      },
-      {
-        "date": "15 Eyl",
-        "source": "Product Hunt",
-        "title": "Project Feed",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/project-feed"
-      },
-      {
-        "date": "15 Eyl",
-        "source": "Product Hunt",
-        "title": "Expand Board for macOS",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/expand-board-for-macos"
-      },
-      {
-        "date": "15 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
-        "desc": "The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
-        "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/"
-      },
-      {
-        "date": "15 Eyl",
-        "source": "TechCrunch",
-        "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-        "desc": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-        "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/"
       }
     ]
   }
