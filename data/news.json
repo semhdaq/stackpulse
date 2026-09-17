@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-09-17T01:59:30.318Z",
+  "generated_at": "2026-09-17T10:31:40.189Z",
   "generated_at_tr": "17 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "17 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Meet the innovators under 35 shaping climate tech",
+        "desc": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the",
+        "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/"
+      },
+      {
+        "date": "17 Eyl",
+        "source": "TechCrunch",
+        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+        "desc": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+        "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/"
+      },
+      {
+        "date": "17 Eyl",
+        "source": "TechCrunch",
+        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+        "desc": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more",
+        "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "date": "17 Eyl",
+        "source": "TechCrunch",
+        "title": "Snap tries to make the case again for its $2,200 smart glasses",
+        "desc": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+        "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/"
+      },
       {
         "date": "17 Eyl",
         "source": "GitHub Blog",
@@ -13,47 +41,26 @@
       {
         "date": "16 Eyl",
         "source": "TechCrunch",
-        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-        "desc": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regul",
-        "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
+        "title": "Al Gore says the real AI risk isn’t data centers",
+        "desc": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+        "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/"
       },
       {
         "date": "16 Eyl",
         "source": "The Verge",
-        "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-        "desc": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that ",
-        "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review"
-      },
-      {
-        "date": "16 Eyl",
-        "source": "The Verge",
-        "title": "The AI data center e-waste problem is huge — and getting bigger",
-        "desc": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
-      },
-      {
-        "date": "16 Eyl",
-        "source": "TechCrunch",
-        "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-        "desc": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-        "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/"
-      },
-      {
-        "date": "16 Eyl",
-        "source": "TechCrunch",
-        "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-        "desc": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-        "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/"
-      },
-      {
-        "date": "16 Eyl",
-        "source": "Simon Willison",
-        "title": "Claude Cowork and chat are now one Claude",
-        "desc": "<p><strong><a href=\"https://claude.com/blog/cowork-is-now-claude\">Claude Cowork and chat are now one Claude</a></strong></p>\nIn hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude",
-        "url": "https://simonwillison.net/2026/Sep/16/one-claude/"
+        "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+        "desc": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like",
+        "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac"
       }
     ],
     "kod": [
+      {
+        "date": "16 Eyl",
+        "source": "Product Hunt",
+        "title": "Higgsfield API",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/higgsfield"
+      },
       {
         "date": "16 Eyl",
         "source": "Simon Willison",
@@ -95,64 +102,57 @@
         "title": "What blog posts influenced your thinking the most?",
         "desc": "<p><a href=\"https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking#c_4fxnwn\">My comment</a> on <a href=\"https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking\">What blog posts influenced your th",
         "url": "https://simonwillison.net/2026/Sep/14/influences/"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "Amazon Prime Video takes on TikTok with short-form news clips",
-        "desc": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
-        "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/"
       }
     ],
     "arac": [
       {
-        "date": "16 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "X will now let US users trade via Cashtags",
-        "desc": "The move closes the gap between the market discussions taking place on the timeline, and the market itself.",
-        "url": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/"
-      },
-      {
-        "date": "16 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
-        "desc": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefit",
-        "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/"
-      },
-      {
-        "date": "16 Eyl",
-        "source": "TechCrunch",
-        "title": "Threads’ new features let podcasters promote shows and reach listeners",
-        "desc": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promo",
-        "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/"
-      },
-      {
-        "date": "16 Eyl",
-        "source": "TechCrunch",
-        "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-        "desc": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch ",
-        "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/"
-      },
-      {
-        "date": "16 Eyl",
-        "source": "TechCrunch",
-        "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-        "desc": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-        "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "date": "16 Eyl",
-        "source": "TechCrunch",
-        "title": "Amazon launches Alexa+ in India with Hindi support",
-        "desc": "Amazon is letting all customers use Alexa+ assistant in early access period.",
-        "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/"
-      },
-      {
-        "date": "16 Eyl",
+        "date": "17 Eyl",
         "source": "Product Hunt",
-        "title": "ZeroClick",
+        "title": "S-Roll",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/zeroclick"
+        "url": "https://www.producthunt.com/products/s-roll"
+      },
+      {
+        "date": "17 Eyl",
+        "source": "Product Hunt",
+        "title": "MCPJam",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/mcpjam-inspector"
+      },
+      {
+        "date": "17 Eyl",
+        "source": "Product Hunt",
+        "title": "Compute:Arena",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/compute-arena-local-ai-benchmarks"
+      },
+      {
+        "date": "17 Eyl",
+        "source": "Product Hunt",
+        "title": "Amy by Jellyfish",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/amy-by-jellyfish"
+      },
+      {
+        "date": "17 Eyl",
+        "source": "Product Hunt",
+        "title": "worldsplat",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/worldsplat"
+      },
+      {
+        "date": "17 Eyl",
+        "source": "Product Hunt",
+        "title": "Zella",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/zella"
+      },
+      {
+        "date": "17 Eyl",
+        "source": "Product Hunt",
+        "title": "NavKey",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/navkey"
       }
     ]
   }
