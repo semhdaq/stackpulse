@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-09-16T20:31:09.701Z",
-  "generated_at_tr": "16 Eyl 2026",
+  "generated_at": "2026-09-17T01:59:30.318Z",
+  "generated_at_tr": "17 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "17 Eyl",
+        "source": "GitHub Blog",
+        "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "desc": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.\nThe post Migrating the GitHub Copilot runtime to Rust, using Copilot a",
+        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/"
+      },
+      {
+        "date": "16 Eyl",
+        "source": "TechCrunch",
+        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+        "desc": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regul",
+        "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
+      },
+      {
+        "date": "16 Eyl",
+        "source": "The Verge",
+        "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+        "desc": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that ",
+        "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review"
+      },
+      {
+        "date": "16 Eyl",
+        "source": "The Verge",
+        "title": "The AI data center e-waste problem is huge — and getting bigger",
+        "desc": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
+      },
       {
         "date": "16 Eyl",
         "source": "TechCrunch",
@@ -23,37 +51,23 @@
         "title": "Claude Cowork and chat are now one Claude",
         "desc": "<p><strong><a href=\"https://claude.com/blog/cowork-is-now-claude\">Claude Cowork and chat are now one Claude</a></strong></p>\nIn hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude",
         "url": "https://simonwillison.net/2026/Sep/16/one-claude/"
-      },
-      {
-        "date": "16 Eyl",
-        "source": "The Verge",
-        "title": "Apple might make servers again to cash in on the AI rush",
-        "desc": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to oth",
-        "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia"
-      },
-      {
-        "date": "16 Eyl",
-        "source": "TechCrunch",
-        "title": "Your AI agents can now control your Google Home devices",
-        "desc": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natura",
-        "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
-      },
-      {
-        "date": "16 Eyl",
-        "source": "The Verge",
-        "title": "Google will now let any AI agent run your smart home",
-        "desc": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nGoogle is opening up its smart home to AI agents, letting tools like Claude and Op",
-        "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date"
-      },
-      {
-        "date": "16 Eyl",
-        "source": "TechCrunch",
-        "title": "Anthropic merges Claude chat and Cowork in one interface",
-        "desc": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-        "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
       }
     ],
     "kod": [
+      {
+        "date": "16 Eyl",
+        "source": "Simon Willison",
+        "title": "datasette 1.0a40",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a40\">datasette 1.0a40</a></p>\n        <p>Same security fix as <a href=\"https://simonwillison.net/2026/Sep/16/datasette-2/\">0.65.5<",
+        "url": "https://simonwillison.net/2026/Sep/16/datasette/"
+      },
+      {
+        "date": "16 Eyl",
+        "source": "Simon Willison",
+        "title": "datasette 0.65.5",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/0.65.5\">datasette 0.65.5</a></p>\n        <p>Security fix for an issue where a trailing newline in a requested table name could bypass",
+        "url": "https://simonwillison.net/2026/Sep/16/datasette-2/"
+      },
       {
         "date": "16 Eyl",
         "source": "Simon Willison",
@@ -88,20 +102,6 @@
         "title": "Amazon Prime Video takes on TikTok with short-form news clips",
         "desc": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
         "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "Simon Willison",
-        "title": "Quoting Laurie Voss",
-        "desc": "<blockquote cite=\"https://seldo.com/posts/we-are-all-product-engineers-now/\"><p>The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's ",
-        "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/"
-      },
-      {
-        "date": "13 Eyl",
-        "source": "Simon Willison",
-        "title": "shot-scraper 1.12",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/shot-scraper/releases/tag/1.12\">shot-scraper 1.12</a></p>\n        <p>I've added WebP support to my <a href=\"https://shot-scraper.datasette.io/\">shot-scraper",
-        "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/"
       }
     ],
     "arac": [
