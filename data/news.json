@@ -1,59 +1,73 @@
 {
-  "generated_at": "2026-09-17T10:31:40.189Z",
+  "generated_at": "2026-09-17T20:38:06.829Z",
   "generated_at_tr": "17 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "17 Eyl",
-        "source": "MIT Tech Review",
-        "title": "Meet the innovators under 35 shaping climate tech",
-        "desc": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the",
-        "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/"
+        "source": "TechCrunch",
+        "title": "The fix for rogue AI agents could be more AI",
+        "desc": "Y Combinator has funded 106 companies related to AI observability in recent years",
+        "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/"
       },
       {
         "date": "17 Eyl",
         "source": "TechCrunch",
-        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-        "desc": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
-        "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/"
+        "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+        "desc": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to h",
+        "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/"
       },
       {
         "date": "17 Eyl",
         "source": "TechCrunch",
-        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-        "desc": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more",
-        "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/"
+        "title": "Is the AI safety debate about safety or control?",
+        "desc": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+        "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/"
       },
       {
         "date": "17 Eyl",
         "source": "TechCrunch",
-        "title": "Snap tries to make the case again for its $2,200 smart glasses",
-        "desc": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-        "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/"
+        "title": "UN turns to Google to make its global data ready for AI agents",
+        "desc": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+        "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/"
       },
       {
         "date": "17 Eyl",
-        "source": "GitHub Blog",
-        "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "desc": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.\nThe post Migrating the GitHub Copilot runtime to Rust, using Copilot a",
-        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/"
-      },
-      {
-        "date": "16 Eyl",
         "source": "TechCrunch",
-        "title": "Al Gore says the real AI risk isn’t data centers",
-        "desc": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-        "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/"
+        "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+        "desc": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
       },
       {
-        "date": "16 Eyl",
+        "date": "17 Eyl",
         "source": "The Verge",
-        "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-        "desc": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like",
-        "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac"
+        "title": "The AI Superintelligence Slowdown",
+        "desc": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI co",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic"
+      },
+      {
+        "date": "17 Eyl",
+        "source": "The Verge",
+        "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+        "desc": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage group",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects"
       }
     ],
     "kod": [
+      {
+        "date": "17 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Apple will let EU apps use less-alarming tracking-consent screens",
+        "desc": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers more flexibility over how they ask users for ",
+        "url": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/"
+      },
+      {
+        "date": "17 Eyl",
+        "source": "MIT Tech Review",
+        "title": "The Download: mice with part-human brains and climate tech innovators",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked",
+        "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/"
+      },
       {
         "date": "16 Eyl",
         "source": "Product Hunt",
@@ -88,23 +102,16 @@
         "title": "Fide Island",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/fide-island"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "Simon Willison",
-        "title": "The contagion of fear",
-        "desc": "<p><strong><a href=\"https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/\">The contagion of fear</a></strong></p>\nBryan Cantrill responds to the <a href=\"https://x.com/hilbertspaess/status/2097476203863224394\">t",
-        "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/"
-      },
-      {
-        "date": "14 Eyl",
-        "source": "Simon Willison",
-        "title": "What blog posts influenced your thinking the most?",
-        "desc": "<p><a href=\"https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking#c_4fxnwn\">My comment</a> on <a href=\"https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking\">What blog posts influenced your th",
-        "url": "https://simonwillison.net/2026/Sep/14/influences/"
       }
     ],
     "arac": [
+      {
+        "date": "17 Eyl",
+        "source": "TechCrunch",
+        "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+        "desc": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+        "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/"
+      },
       {
         "date": "17 Eyl",
         "source": "Product Hunt",
@@ -146,13 +153,6 @@
         "title": "Zella",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/zella"
-      },
-      {
-        "date": "17 Eyl",
-        "source": "Product Hunt",
-        "title": "NavKey",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/navkey"
       }
     ]
   }
