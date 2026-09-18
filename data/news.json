@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-09-18T15:17:32.890Z",
+  "generated_at": "2026-09-18T20:03:16.743Z",
   "generated_at_tr": "18 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "18 Eyl",
-        "source": "TechCrunch",
-        "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-        "desc": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-        "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "date": "18 Eyl",
-        "source": "GitHub Blog",
-        "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-        "desc": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nThe post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog.",
-        "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/"
-      },
-      {
-        "date": "18 Eyl",
-        "source": "TechCrunch",
-        "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-        "desc": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-        "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
-      },
-      {
-        "date": "18 Eyl",
-        "source": "MIT Tech Review",
-        "title": "The Download: AI’s extinction risk and bioweapons threat",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology",
-        "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/"
-      },
-      {
-        "date": "18 Eyl",
-        "source": "MIT Tech Review",
-        "title": "Could AI really kill us all? Your questions, answered.",
-        "desc": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had t",
-        "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
-      },
-      {
-        "date": "18 Eyl",
-        "source": "MIT Tech Review",
-        "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-        "desc": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress",
-        "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/"
-      },
-      {
-        "date": "17 Eyl",
         "source": "Simon Willison",
-        "title": "How To Write With An LLM",
-        "desc": "<p><strong><a href=\"https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\">How To Write With An LLM</a></strong></p>\nThomas Ptacek on using LLMs as copyeditors, not as writing assistants:</p>\n<blockquote>\n<p><",
-        "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/"
+        "title": "Note on 18th September 2026",
+        "desc": "<p>Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park.</p>\n\n    <p>T",
+        "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/"
+      },
+      {
+        "date": "18 Eyl",
+        "source": "Simon Willison",
+        "title": "Quoting Thariq Shihipar",
+        "desc": "<blockquote cite=\"https://twitter.com/trq212/status/2101009392611278961\"><p>We're adding support for AGENTS.md to Claude Code. </p>\n<p>Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will ",
+        "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/"
+      },
+      {
+        "date": "18 Eyl",
+        "source": "TechCrunch",
+        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+        "desc": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+        "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
+      },
+      {
+        "date": "18 Eyl",
+        "source": "The Verge",
+        "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+        "desc": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to ",
+        "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force"
+      },
+      {
+        "date": "18 Eyl",
+        "source": "TechCrunch",
+        "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+        "desc": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+        "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/"
+      },
+      {
+        "date": "18 Eyl",
+        "source": "TechCrunch",
+        "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+        "desc": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+        "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/"
+      },
+      {
+        "date": "18 Eyl",
+        "source": "TechCrunch",
+        "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+        "desc": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evalua",
+        "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/"
       }
     ],
     "kod": [
@@ -115,16 +115,16 @@
       {
         "date": "18 Eyl",
         "source": "Product Hunt",
-        "title": "MiRemoteBridge",
+        "title": "citizen404",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/miremotebridge"
+        "url": "https://www.producthunt.com/products/citizen404"
       },
       {
         "date": "18 Eyl",
         "source": "Product Hunt",
-        "title": "AEXGrid",
+        "title": "MiRemoteBridge",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/aexgrid"
+        "url": "https://www.producthunt.com/products/miremotebridge"
       },
       {
         "date": "18 Eyl",
@@ -136,23 +136,23 @@
       {
         "date": "18 Eyl",
         "source": "Product Hunt",
-        "title": "WhaleRead",
+        "title": "Mantle",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/whaleread"
+        "url": "https://www.producthunt.com/products/mantle-f52466f6-7b01-4f3c-b7de-a2e445d1f2e3"
       },
       {
         "date": "18 Eyl",
         "source": "Product Hunt",
-        "title": "Stile.iD",
+        "title": "Verity Score",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/stile-id"
+        "url": "https://www.producthunt.com/products/verity-score-geo-ai-visibility"
       },
       {
-        "date": "18 Eyl",
+        "date": "17 Eyl",
         "source": "Product Hunt",
-        "title": "Polishory",
+        "title": "SmartCheck",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/polishory"
+        "url": "https://www.producthunt.com/products/smartcheck"
       }
     ]
   }
