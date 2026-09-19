@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-09-19T09:49:18.630Z",
+  "generated_at": "2026-09-19T14:54:21.852Z",
   "generated_at_tr": "19 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "19 Eyl",
+        "source": "The Verge",
+        "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+        "desc": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These d",
+        "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition"
+      },
+      {
+        "date": "19 Eyl",
+        "source": "TechCrunch",
+        "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+        "desc": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+        "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/"
+      },
+      {
+        "date": "19 Eyl",
+        "source": "The Verge",
+        "title": "The AI regulation smackdown isn’t over",
+        "desc": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, includi",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over"
+      },
       {
         "date": "19 Eyl",
         "source": "TechCrunch",
@@ -30,27 +51,6 @@
         "title": "Anthropic is operating a lab that conducts biology experiments",
         "desc": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
         "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/"
-      },
-      {
-        "date": "18 Eyl",
-        "source": "TechCrunch",
-        "title": "AI hallucination nearly triggers US military operation",
-        "desc": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-        "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
-      },
-      {
-        "date": "18 Eyl",
-        "source": "TechCrunch",
-        "title": "Anthropic’s first embedded evaluator is … Accenture?",
-        "desc": "Accenture is about to take on its most high-risk consulting engagement ever.",
-        "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
-      },
-      {
-        "date": "18 Eyl",
-        "source": "The Verge",
-        "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-        "desc": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, charact",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero"
       }
     ],
     "kod": [
@@ -90,18 +90,18 @@
         "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/"
       },
       {
+        "date": "17 Eyl",
+        "source": "Product Hunt",
+        "title": "Edgee Codex Compressor V2",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/edgee"
+      },
+      {
         "date": "16 Eyl",
         "source": "Simon Willison",
         "title": "datasette 1.0a40",
         "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a40\">datasette 1.0a40</a></p>\n        <p>Same security fix as <a href=\"https://simonwillison.net/2026/Sep/16/datasette-2/\">0.65.5<",
         "url": "https://simonwillison.net/2026/Sep/16/datasette/"
-      },
-      {
-        "date": "16 Eyl",
-        "source": "Simon Willison",
-        "title": "datasette 0.65.5",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/0.65.5\">datasette 0.65.5</a></p>\n        <p>Security fix for an issue where a trailing newline in a requested table name could bypass",
-        "url": "https://simonwillison.net/2026/Sep/16/datasette-2/"
       }
     ],
     "arac": [
@@ -150,9 +150,9 @@
       {
         "date": "18 Eyl",
         "source": "Product Hunt",
-        "title": "Notch Design",
+        "title": "citizen404",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/notch-design-2"
+        "url": "https://www.producthunt.com/products/citizen404"
       }
     ]
   }
