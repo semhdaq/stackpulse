@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-09-21T11:13:35.941Z",
+  "generated_at": "2026-09-21T17:16:03.962Z",
   "generated_at_tr": "21 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "21 Eyl",
-        "source": "The Verge",
-        "title": "UN says AI safeguards can’t wait for certainty",
-        "desc": "The United Nations logo at the UN headquarters in New York. | Getty Images\t\n\nGovernments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle"
+        "source": "TechCrunch",
+        "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+        "desc": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+        "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/"
+      },
+      {
+        "date": "21 Eyl",
+        "source": "TechCrunch",
+        "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+        "desc": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+        "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/"
+      },
+      {
+        "date": "21 Eyl",
+        "source": "TechCrunch",
+        "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+        "desc": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
+        "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/"
       },
       {
         "date": "21 Eyl",
         "source": "The Verge",
-        "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-        "desc": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent vi",
-        "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
+        "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+        "desc": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone ",
+        "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement"
       },
       {
-        "date": "20 Eyl",
-        "source": "TechCrunch",
-        "title": "World model companies are keeping a lot of secrets",
-        "desc": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-        "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"
+        "date": "21 Eyl",
+        "source": "MIT Tech Review",
+        "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+        "desc": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of peo",
+        "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
       },
       {
-        "date": "20 Eyl",
-        "source": "Product Hunt",
-        "title": "Milliseconds.ai",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/milliseconds-ai"
+        "date": "21 Eyl",
+        "source": "MIT Tech Review",
+        "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+        "desc": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.  As he walked through t",
+        "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
       },
       {
-        "date": "20 Eyl",
-        "source": "TechCrunch",
-        "title": "Is the AI industry really ready to slow down?",
-        "desc": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
-        "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
-      },
-      {
-        "date": "20 Eyl",
-        "source": "The Verge",
-        "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-        "desc": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning,",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown"
-      },
-      {
-        "date": "20 Eyl",
-        "source": "TechCrunch",
-        "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-        "desc": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
-        "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/"
+        "date": "21 Eyl",
+        "source": "MIT Tech Review",
+        "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+        "desc": "She had only walked for a couple of hours, and already she was lost.  It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern ",
+        "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
       }
     ],
     "kod": [
+      {
+        "date": "21 Eyl",
+        "source": "MIT Tech Review",
+        "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before the",
+        "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
+      },
       {
         "date": "20 Eyl",
         "source": "Simon Willison",
@@ -95,16 +102,37 @@
         "title": "Be alert: targeted attacks on prominent Rustaceans",
         "desc": "<p><strong><a href=\"https://blog.rust-lang.org/2026/09/17/targeted-attacks/\">Be alert: targeted attacks on prominent Rustaceans</a></strong></p>\nImportant warning from Adam Harvey and the crates security team:</p>\n<block",
         "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/"
-      },
-      {
-        "date": "17 Eyl",
-        "source": "Product Hunt",
-        "title": "PostSider",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/postsider"
       }
     ],
     "arac": [
+      {
+        "date": "21 Eyl",
+        "source": "TechCrunch",
+        "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+        "desc": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+        "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "date": "21 Eyl",
+        "source": "TechCrunch",
+        "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+        "desc": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most",
+        "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "date": "21 Eyl",
+        "source": "The Verge",
+        "title": "Can John Ternus find Apple’s next big thing?",
+        "desc": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On. \nEarlier this month, Apple hosted its ann",
+        "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone"
+      },
+      {
+        "date": "21 Eyl",
+        "source": "MIT Tech Review",
+        "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+        "desc": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This ",
+        "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
+      },
       {
         "date": "21 Eyl",
         "source": "Product Hunt",
@@ -125,34 +153,6 @@
         "title": "Jev",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/jev-2"
-      },
-      {
-        "date": "21 Eyl",
-        "source": "Product Hunt",
-        "title": "NiubiGEO",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/niubigeo"
-      },
-      {
-        "date": "20 Eyl",
-        "source": "Product Hunt",
-        "title": "Cronhq",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/cronhq"
-      },
-      {
-        "date": "20 Eyl",
-        "source": "TechCrunch",
-        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-        "desc": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-        "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "date": "20 Eyl",
-        "source": "Product Hunt",
-        "title": "Jevtown",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/jevtown"
       }
     ]
   }
