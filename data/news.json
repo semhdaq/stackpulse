@@ -1,14 +1,35 @@
 {
-  "generated_at": "2026-09-21T01:55:22.792Z",
+  "generated_at": "2026-09-21T11:13:35.941Z",
   "generated_at_tr": "21 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "21 Eyl",
+        "source": "The Verge",
+        "title": "UN says AI safeguards can’t wait for certainty",
+        "desc": "The United Nations logo at the UN headquarters in New York. | Getty Images\t\n\nGovernments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle"
+      },
+      {
+        "date": "21 Eyl",
+        "source": "The Verge",
+        "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+        "desc": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent vi",
+        "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
+      },
       {
         "date": "20 Eyl",
         "source": "TechCrunch",
         "title": "World model companies are keeping a lot of secrets",
         "desc": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
         "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"
+      },
+      {
+        "date": "20 Eyl",
+        "source": "Product Hunt",
+        "title": "Milliseconds.ai",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/milliseconds-ai"
       },
       {
         "date": "20 Eyl",
@@ -20,7 +41,7 @@
       {
         "date": "20 Eyl",
         "source": "The Verge",
-        "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
         "desc": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning,",
         "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown"
       },
@@ -30,27 +51,6 @@
         "title": "Vocci’s ring adds a new form factor to meeting note-taking",
         "desc": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
         "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/"
-      },
-      {
-        "date": "20 Eyl",
-        "source": "The Verge",
-        "title": "Trump now says he wants to form an ‘AI Force’",
-        "desc": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump th",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
-      },
-      {
-        "date": "20 Eyl",
-        "source": "The Verge",
-        "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-        "desc": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \n\"We were always prey. We were ju",
-        "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure"
-      },
-      {
-        "date": "19 Eyl",
-        "source": "The Verge",
-        "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-        "desc": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actual",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy"
       }
     ],
     "kod": [
@@ -98,13 +98,48 @@
       },
       {
         "date": "17 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "Apple will let EU apps use less-alarming tracking-consent screens",
-        "desc": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers more flexibility over how they ask users for ",
-        "url": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/"
+        "source": "Product Hunt",
+        "title": "PostSider",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/postsider"
       }
     ],
     "arac": [
+      {
+        "date": "21 Eyl",
+        "source": "Product Hunt",
+        "title": "Google Flow for iOS & Android",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/google"
+      },
+      {
+        "date": "21 Eyl",
+        "source": "Product Hunt",
+        "title": "OmniDICOM",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/omnidicom"
+      },
+      {
+        "date": "21 Eyl",
+        "source": "Product Hunt",
+        "title": "Jev",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/jev-2"
+      },
+      {
+        "date": "21 Eyl",
+        "source": "Product Hunt",
+        "title": "NiubiGEO",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/niubigeo"
+      },
+      {
+        "date": "20 Eyl",
+        "source": "Product Hunt",
+        "title": "Cronhq",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/cronhq"
+      },
       {
         "date": "20 Eyl",
         "source": "TechCrunch",
@@ -114,45 +149,10 @@
       },
       {
         "date": "20 Eyl",
-        "source": "Simon Willison",
-        "title": "llm-keys-ui 0.1",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-keys-ui/releases/tag/0.1\">llm-keys-ui 0.1</a></p>\n        <p>This plugin solves a very specific problem.</p>\n<p>I've started using <a href=\"https://lear",
-        "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/"
-      },
-      {
-        "date": "20 Eyl",
         "source": "Product Hunt",
-        "title": "The 101 Plays Itself",
+        "title": "Jevtown",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/the-101-plays-itself"
-      },
-      {
-        "date": "19 Eyl",
-        "source": "Product Hunt",
-        "title": "Epismo OS",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/epismo"
-      },
-      {
-        "date": "19 Eyl",
-        "source": "Simon Willison",
-        "title": "datasette-auth-github 1.0",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-auth-github/releases/tag/1.0\">datasette-auth-github 1.0</a></p>\n        <p>I run this GitHub login plugin on the <a href=\"https://agent.datasette.",
-        "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/"
-      },
-      {
-        "date": "19 Eyl",
-        "source": "TechCrunch",
-        "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-        "desc": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-        "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/"
-      },
-      {
-        "date": "19 Eyl",
-        "source": "Product Hunt",
-        "title": "Answers by Context.dev",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/context-dev"
+        "url": "https://www.producthunt.com/products/jevtown"
       }
     ]
   }
