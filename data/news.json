@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-09-22T02:02:50.530Z",
+  "generated_at": "2026-09-22T10:25:55.949Z",
   "generated_at_tr": "22 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "22 Eyl",
+        "source": "Stack Overflow Blog",
+        "title": "Haters think AI agents can't write GPU code? This'll ROCm",
+        "desc": "Ryan chats with Anush Elangovan, VP of Software at AMD, about ROCm's open-source unified toolchain for GPUs, how agentic AI is drastically lowering the barrier to entry for low-level hardware programming, and the rapid c",
+        "url": "https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/"
+      },
       {
         "date": "21 Eyl",
         "source": "TechCrunch",
@@ -16,6 +23,13 @@
         "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
         "desc": "<p>Last week <a href=\"https://typesafe.ai/\">TypeSafe AI</a> unveiled <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">Jev</a>, their first example of a new category of model that they are calling ",
         "url": "https://simonwillison.net/2026/Sep/21/jev/"
+      },
+      {
+        "date": "21 Eyl",
+        "source": "Product Hunt",
+        "title": "Hola AI",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/hola-ai"
       },
       {
         "date": "21 Eyl",
@@ -37,20 +51,6 @@
         "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
         "desc": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings befo",
         "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/"
-      },
-      {
-        "date": "21 Eyl",
-        "source": "TechCrunch",
-        "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-        "desc": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-        "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
-      },
-      {
-        "date": "21 Eyl",
-        "source": "TechCrunch",
-        "title": "Meta’s AI agent has been blocked from using Amazon.com",
-        "desc": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-        "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
       }
     ],
     "kod": [
@@ -106,53 +106,53 @@
     ],
     "arac": [
       {
-        "date": "21 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "X will now tell users when governments have forced it to limit their posts",
-        "desc": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
-        "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/"
+        "date": "22 Eyl",
+        "source": "Product Hunt",
+        "title": "Xem",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/xem"
       },
       {
-        "date": "21 Eyl",
-        "source": "TechCrunch",
-        "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-        "desc": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-        "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/"
+        "date": "22 Eyl",
+        "source": "Product Hunt",
+        "title": "vgpu",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/vgpu"
       },
       {
-        "date": "21 Eyl",
-        "source": "TechCrunch",
-        "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-        "desc": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of t",
-        "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/"
+        "date": "22 Eyl",
+        "source": "Product Hunt",
+        "title": "MiMo-V2.6",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/mimo-3"
       },
       {
-        "date": "21 Eyl",
-        "source": "The Verge",
-        "title": "Can John Ternus find Apple’s next big thing?",
-        "desc": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On. \nEarlier this month, Apple hosted its ann",
-        "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone"
+        "date": "22 Eyl",
+        "source": "Product Hunt",
+        "title": "Shootsolo 2.0",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/shootsolo"
       },
       {
-        "date": "21 Eyl",
-        "source": "MIT Tech Review",
-        "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-        "desc": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This ",
-        "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
+        "date": "22 Eyl",
+        "source": "Product Hunt",
+        "title": "QuietGlass",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/quietglass"
       },
       {
         "date": "21 Eyl",
         "source": "Product Hunt",
-        "title": "Google Flow for iOS & Android",
+        "title": "Freebuff Ads",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/google"
+        "url": "https://www.producthunt.com/products/freebuff-2"
       },
       {
         "date": "21 Eyl",
         "source": "Product Hunt",
-        "title": "OmniDICOM",
+        "title": "Walkie",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/omnidicom"
+        "url": "https://www.producthunt.com/products/walkie-3"
       }
     ]
   }
