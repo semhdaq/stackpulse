@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-09-22T10:25:55.949Z",
+  "generated_at": "2026-09-22T15:49:10.941Z",
   "generated_at_tr": "22 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "22 Eyl",
-        "source": "Stack Overflow Blog",
-        "title": "Haters think AI agents can't write GPU code? This'll ROCm",
-        "desc": "Ryan chats with Anush Elangovan, VP of Software at AMD, about ROCm's open-source unified toolchain for GPUs, how agentic AI is drastically lowering the barrier to entry for low-level hardware programming, and the rapid c",
-        "url": "https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/"
-      },
-      {
-        "date": "21 Eyl",
         "source": "TechCrunch",
-        "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-        "desc": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-        "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/"
+        "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+        "desc": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
+        "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/"
       },
       {
-        "date": "21 Eyl",
-        "source": "Simon Willison",
-        "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
-        "desc": "<p>Last week <a href=\"https://typesafe.ai/\">TypeSafe AI</a> unveiled <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">Jev</a>, their first example of a new category of model that they are calling ",
-        "url": "https://simonwillison.net/2026/Sep/21/jev/"
-      },
-      {
-        "date": "21 Eyl",
-        "source": "Product Hunt",
-        "title": "Hola AI",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/hola-ai"
-      },
-      {
-        "date": "21 Eyl",
-        "source": "The Verge",
-        "title": "California tightens rules on AI data center energy and water use",
-        "desc": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
-      },
-      {
-        "date": "21 Eyl",
+        "date": "22 Eyl",
         "source": "TechCrunch",
-        "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-        "desc": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-        "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
+        "title": "AstroForge is putting AI in command of its next spacecraft",
+        "desc": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+        "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/"
       },
       {
-        "date": "21 Eyl",
+        "date": "22 Eyl",
         "source": "TechCrunch",
-        "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-        "desc": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings befo",
-        "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/"
+        "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+        "desc": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off",
+        "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/"
+      },
+      {
+        "date": "22 Eyl",
+        "source": "TechCrunch",
+        "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+        "desc": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+        "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "date": "22 Eyl",
+        "source": "TechCrunch",
+        "title": "Everyone can find a reason to dislike data center construction",
+        "desc": "Inside two years of fraught AI data center debates in Pennsylvania.",
+        "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/"
+      },
+      {
+        "date": "22 Eyl",
+        "source": "TechCrunch",
+        "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+        "desc": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+        "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/"
+      },
+      {
+        "date": "22 Eyl",
+        "source": "MIT Tech Review",
+        "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Don’t be fooled by this summer of AI hype  —Timnit Gebru, executive director of th",
+        "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/"
       }
     ],
     "kod": [
@@ -84,13 +84,6 @@
       },
       {
         "date": "20 Eyl",
-        "source": "TechCrunch",
-        "title": "ScrollEd wants to turn textbooks into TikTok",
-        "desc": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disr",
-        "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/"
-      },
-      {
-        "date": "20 Eyl",
         "source": "Simon Willison",
         "title": "datasette-explain 0.2.2",
         "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-explain/releases/tag/0.2.2\">datasette-explain 0.2.2</a></p>\n        <blockquote>\n<ul>\n<li>Explain plans now work on read-only stored-query pages.<",
@@ -102,22 +95,36 @@
         "title": "California Sea Lion, Brandt's Cormorant",
         "desc": "<p><img src=\"https://static.inaturalist.org/photos/737061413/large.jpg\" alt=\"California Sea Lion\"></p><p><img src=\"https://static.inaturalist.org/photos/737061040/large.jpg\" alt=\"Brandt&#x27;s Cormorant\"></p><p>Californi",
         "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/"
+      },
+      {
+        "date": "19 Eyl",
+        "source": "Product Hunt",
+        "title": "VideoFlow Studio",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/videoflow-studio"
       }
     ],
     "arac": [
+      {
+        "date": "22 Eyl",
+        "source": "TechCrunch",
+        "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+        "desc": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West fr",
+        "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/"
+      },
+      {
+        "date": "22 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+        "desc": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreak",
+        "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
+      },
       {
         "date": "22 Eyl",
         "source": "Product Hunt",
         "title": "Xem",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/xem"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "Product Hunt",
-        "title": "vgpu",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/vgpu"
       },
       {
         "date": "22 Eyl",
@@ -146,13 +153,6 @@
         "title": "Freebuff Ads",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/freebuff-2"
-      },
-      {
-        "date": "21 Eyl",
-        "source": "Product Hunt",
-        "title": "Walkie",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/walkie-3"
       }
     ]
   }
