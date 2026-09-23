@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-09-23T02:00:53.785Z",
+  "generated_at": "2026-09-23T10:21:14.101Z",
   "generated_at_tr": "23 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "23 Eyl",
+        "source": "TechCrunch",
+        "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+        "desc": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+        "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/"
+      },
+      {
+        "date": "23 Eyl",
+        "source": "Stack Overflow Blog",
+        "title": "Multiplayer AI: Why your team (and its agents) need a group chat",
+        "desc": "Ryan chats with the GM of Slack, Rob Seaman, about how their new Code Channels feature is bringing multiplayer AI to your team chats.",
+        "url": "https://stackoverflow.blog/2026/09/23/multiplayer-ai-why-your-team-and-its-agents-need-a-group-chat/"
+      },
+      {
+        "date": "23 Eyl",
+        "source": "Simon Willison",
+        "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+        "desc": "<p><strong><a href=\"https://luma.com/vxuiuyvg\">SF October 14th: A Birds of a Feather Session on Agentic Engineering</a></strong></p>\nI'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th Octo",
+        "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/"
+      },
       {
         "date": "23 Eyl",
         "source": "The Verge",
@@ -30,36 +51,29 @@
         "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
         "desc": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
         "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "The Verge",
-        "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-        "desc": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "TechCrunch",
-        "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-        "desc": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-        "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "TechCrunch",
-        "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-        "desc": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
-        "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/"
       }
     ],
     "kod": [
+      {
+        "date": "23 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Smart glasses are already causing havoc in India",
+        "desc": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bi",
+        "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/"
+      },
       {
         "date": "21 Eyl",
         "source": "Simon Willison",
         "title": "Cloudflare Python Workers are now generally available",
         "desc": "<p><strong><a href=\"https://blog.cloudflare.com/python-workers-ga/\">Cloudflare Python Workers are now generally available</a></strong></p>\nAfter a two year preview, Cloudflare's support for running Python code in their s",
         "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/"
+      },
+      {
+        "date": "21 Eyl",
+        "source": "Product Hunt",
+        "title": "CodeSpotlight",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/codespotlight"
       },
       {
         "date": "21 Eyl",
@@ -88,23 +102,30 @@
         "title": "datasette-explain 0.2.2",
         "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-explain/releases/tag/0.2.2\">datasette-explain 0.2.2</a></p>\n        <blockquote>\n<ul>\n<li>Explain plans now work on read-only stored-query pages.<",
         "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/"
-      },
-      {
-        "date": "19 Eyl",
-        "source": "Simon Willison",
-        "title": "California Sea Lion, Brandt's Cormorant",
-        "desc": "<p><img src=\"https://static.inaturalist.org/photos/737061413/large.jpg\" alt=\"California Sea Lion\"></p><p><img src=\"https://static.inaturalist.org/photos/737061040/large.jpg\" alt=\"Brandt&#x27;s Cormorant\"></p><p>Californi",
-        "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/"
-      },
-      {
-        "date": "19 Eyl",
-        "source": "Product Hunt",
-        "title": "VideoFlow Studio",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/videoflow-studio"
       }
     ],
     "arac": [
+      {
+        "date": "22 Eyl",
+        "source": "Product Hunt",
+        "title": "Jev State",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/jev-state"
+      },
+      {
+        "date": "22 Eyl",
+        "source": "Product Hunt",
+        "title": "Speechka",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/speechka"
+      },
+      {
+        "date": "22 Eyl",
+        "source": "Product Hunt",
+        "title": "Alexandria by Firecrawl",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/extract-by-firecrawl"
+      },
       {
         "date": "22 Eyl",
         "source": "The Verge",
@@ -121,38 +142,17 @@
       },
       {
         "date": "22 Eyl",
+        "source": "Product Hunt",
+        "title": "Dub Program Marketplace",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/dub"
+      },
+      {
+        "date": "22 Eyl",
         "source": "TechCrunch",
         "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
         "desc": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West fr",
         "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "MIT Tech Review",
-        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-        "desc": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreak",
-        "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "Product Hunt",
-        "title": "Xem",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/xem"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "Product Hunt",
-        "title": "MiMo-V2.6",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/mimo-3"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "Product Hunt",
-        "title": "Shootsolo 2.0",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/shootsolo"
       }
     ]
   }
