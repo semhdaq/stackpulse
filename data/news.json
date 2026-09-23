@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-09-22T15:49:10.941Z",
-  "generated_at_tr": "22 Eyl 2026",
+  "generated_at": "2026-09-23T02:00:53.785Z",
+  "generated_at_tr": "23 Eyl 2026",
   "categories": {
     "ai": [
       {
+        "date": "23 Eyl",
+        "source": "The Verge",
+        "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+        "desc": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward.\nOn Monday, the company announced a ne",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel"
+      },
+      {
         "date": "22 Eyl",
-        "source": "TechCrunch",
-        "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-        "desc": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
-        "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/"
+        "source": "Simon Willison",
+        "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+        "desc": "<p>Yesterday was <a href=\"https://x.ai/news/grok-4-7\">Grok 4.7</a> (<a href=\"https://news.ycombinator.com/item?id=49788838#49790209\">pelicans</a>) and <a href=\"https://mimo.xiaomi.com/mimo-v2-6\">MiMo v2.6 Flash/Pro</a> (",
+        "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/"
       },
       {
         "date": "22 Eyl",
         "source": "TechCrunch",
-        "title": "AstroForge is putting AI in command of its next spacecraft",
-        "desc": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
-        "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/"
+        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+        "desc": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+        "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/"
       },
       {
         "date": "22 Eyl",
         "source": "TechCrunch",
-        "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-        "desc": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off",
-        "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/"
+        "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+        "desc": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+        "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
+      },
+      {
+        "date": "22 Eyl",
+        "source": "The Verge",
+        "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+        "desc": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3"
       },
       {
         "date": "22 Eyl",
         "source": "TechCrunch",
-        "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-        "desc": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
-        "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/"
+        "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+        "desc": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+        "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
       },
       {
         "date": "22 Eyl",
         "source": "TechCrunch",
-        "title": "Everyone can find a reason to dislike data center construction",
-        "desc": "Inside two years of fraught AI data center debates in Pennsylvania.",
-        "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "TechCrunch",
-        "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-        "desc": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
-        "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "MIT Tech Review",
-        "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Don’t be fooled by this summer of AI hype  —Timnit Gebru, executive director of th",
-        "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/"
+        "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+        "desc": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+        "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/"
       }
     ],
     "kod": [
@@ -107,6 +107,20 @@
     "arac": [
       {
         "date": "22 Eyl",
+        "source": "The Verge",
+        "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+        "desc": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy"
+      },
+      {
+        "date": "22 Eyl",
+        "source": "Simon Willison",
+        "title": "llm-typesafe 0.1a0",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-typesafe/releases/tag/0.1a0\">llm-typesafe 0.1a0</a></p>\n        <p>I built this new plugin for <a href=\"https://llm.datasette.io/\">LLM</a> to add suppor",
+        "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/"
+      },
+      {
+        "date": "22 Eyl",
         "source": "TechCrunch",
         "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
         "desc": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West fr",
@@ -139,20 +153,6 @@
         "title": "Shootsolo 2.0",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/shootsolo"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "Product Hunt",
-        "title": "QuietGlass",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/quietglass"
-      },
-      {
-        "date": "21 Eyl",
-        "source": "Product Hunt",
-        "title": "Freebuff Ads",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/freebuff-2"
       }
     ]
   }
