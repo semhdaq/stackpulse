@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-09-23T10:21:14.101Z",
+  "generated_at": "2026-09-23T15:38:55.914Z",
   "generated_at_tr": "23 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "23 Eyl",
         "source": "TechCrunch",
-        "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-        "desc": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
-        "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/"
+        "title": "YouTube Music gets more conversational with new AI features",
+        "desc": "YouTube is adding new AI-powered features to YouTube Music that aim to make it easier for listeners to discover music, explore artists, and find podcasts they may otherwise miss. Announced at this year’s Made On YouTube ",
+        "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/"
       },
       {
         "date": "23 Eyl",
-        "source": "Stack Overflow Blog",
-        "title": "Multiplayer AI: Why your team (and its agents) need a group chat",
-        "desc": "Ryan chats with the GM of Slack, Rob Seaman, about how their new Code Channels feature is bringing multiplayer AI to your team chats.",
-        "url": "https://stackoverflow.blog/2026/09/23/multiplayer-ai-why-your-team-and-its-agents-need-a-group-chat/"
+        "source": "TechCrunch",
+        "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+        "desc": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
+        "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/"
       },
       {
         "date": "23 Eyl",
-        "source": "Simon Willison",
-        "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
-        "desc": "<p><strong><a href=\"https://luma.com/vxuiuyvg\">SF October 14th: A Birds of a Feather Session on Agentic Engineering</a></strong></p>\nI'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th Octo",
-        "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/"
+        "source": "TechCrunch",
+        "title": "YouTube will let you build your own algorithm with AI",
+        "desc": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+        "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/"
       },
       {
         "date": "23 Eyl",
         "source": "The Verge",
-        "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-        "desc": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward.\nOn Monday, the company announced a ne",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel"
+        "title": "YouTube is building AI creator tools that do almost everything for them",
+        "desc": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingl",
+        "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests"
       },
       {
-        "date": "22 Eyl",
-        "source": "Simon Willison",
-        "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-        "desc": "<p>Yesterday was <a href=\"https://x.ai/news/grok-4-7\">Grok 4.7</a> (<a href=\"https://news.ycombinator.com/item?id=49788838#49790209\">pelicans</a>) and <a href=\"https://mimo.xiaomi.com/mimo-v2-6\">MiMo v2.6 Flash/Pro</a> (",
-        "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/"
-      },
-      {
-        "date": "22 Eyl",
+        "date": "23 Eyl",
         "source": "TechCrunch",
-        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-        "desc": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
-        "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/"
+        "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+        "desc": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25, 11:59 p.m. PT. Register here.",
+        "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/"
       },
       {
-        "date": "22 Eyl",
+        "date": "23 Eyl",
+        "source": "MIT Tech Review",
+        "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram vid",
+        "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/"
+      },
+      {
+        "date": "23 Eyl",
         "source": "TechCrunch",
-        "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-        "desc": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-        "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
+        "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+        "desc": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+        "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
       }
     ],
     "kod": [
+      {
+        "date": "23 Eyl",
+        "source": "GitHub Blog",
+        "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+        "desc": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute.\nThe post Developers want more e",
+        "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/"
+      },
       {
         "date": "23 Eyl",
         "source": "MIT Tech Review",
@@ -95,16 +102,37 @@
         "title": "MCP was always a bad idea?",
         "desc": "<p><a href=\"https://news.ycombinator.com/item?id=49779329#49779718\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49779329\">MCP was always a bad idea?</a> &mdash; Hacker News.</p><p>This article entirel",
         "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/"
-      },
-      {
-        "date": "20 Eyl",
-        "source": "Simon Willison",
-        "title": "datasette-explain 0.2.2",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-explain/releases/tag/0.2.2\">datasette-explain 0.2.2</a></p>\n        <blockquote>\n<ul>\n<li>Explain plans now work on read-only stored-query pages.<",
-        "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/"
       }
     ],
     "arac": [
+      {
+        "date": "23 Eyl",
+        "source": "TechCrunch",
+        "title": "YouTube releases new AI features for creators within its Studio app",
+        "desc": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+        "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
+      },
+      {
+        "date": "23 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "YouTube’s new ‘Short Series’ feature brings episodic viewing to Shorts",
+        "desc": "As microdrama apps gain traction, YouTube is clearly betting that episodic short-form storytelling will stick around. And that the format belongs on Shorts. At its Made On YouTube event on Wednesday, the company announce",
+        "url": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/"
+      },
+      {
+        "date": "23 Eyl",
+        "source": "TechCrunch",
+        "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+        "desc": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
+        "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/"
+      },
+      {
+        "date": "23 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "LinkedIn adds new tools to fight fake profiles and bogus work histories",
+        "desc": "LinkedIn is rolling out new verification tools that let members vouch for colleagues’ work experience and give companies more control over accounts that falsely claim to employ them.",
+        "url": "https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/"
+      },
       {
         "date": "22 Eyl",
         "source": "Product Hunt",
@@ -125,34 +153,6 @@
         "title": "Alexandria by Firecrawl",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/extract-by-firecrawl"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "The Verge",
-        "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-        "desc": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "Simon Willison",
-        "title": "llm-typesafe 0.1a0",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-typesafe/releases/tag/0.1a0\">llm-typesafe 0.1a0</a></p>\n        <p>I built this new plugin for <a href=\"https://llm.datasette.io/\">LLM</a> to add suppor",
-        "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "Product Hunt",
-        "title": "Dub Program Marketplace",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/dub"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "TechCrunch",
-        "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-        "desc": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West fr",
-        "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/"
       }
     ]
   }
