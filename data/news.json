@@ -1,59 +1,73 @@
 {
-  "generated_at": "2026-09-23T15:38:55.914Z",
-  "generated_at_tr": "23 Eyl 2026",
+  "generated_at": "2026-09-24T01:49:50.300Z",
+  "generated_at_tr": "24 Eyl 2026",
   "categories": {
     "ai": [
       {
-        "date": "23 Eyl",
+        "date": "24 Eyl",
         "source": "TechCrunch",
-        "title": "YouTube Music gets more conversational with new AI features",
-        "desc": "YouTube is adding new AI-powered features to YouTube Music that aim to make it easier for listeners to discover music, explore artists, and find podcasts they may otherwise miss. Announced at this year’s Made On YouTube ",
-        "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/"
+        "title": "Everything new coming to Meta’s AI agent Muse",
+        "desc": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
       },
       {
-        "date": "23 Eyl",
+        "date": "24 Eyl",
         "source": "TechCrunch",
-        "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-        "desc": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
-        "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/"
+        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+        "desc": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+        "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
       },
       {
-        "date": "23 Eyl",
-        "source": "TechCrunch",
-        "title": "YouTube will let you build your own algorithm with AI",
-        "desc": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-        "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/"
+        "date": "24 Eyl",
+        "source": "The Verge",
+        "title": "Meta is making a standalone Muse AI gadget",
+        "desc": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost",
+        "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
       },
       {
         "date": "23 Eyl",
         "source": "The Verge",
-        "title": "YouTube is building AI creator tools that do almost everything for them",
-        "desc": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingl",
-        "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests"
+        "title": "Muse is coming to Meta smart glasses",
+        "desc": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from ",
+        "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
       },
       {
         "date": "23 Eyl",
         "source": "TechCrunch",
-        "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
-        "desc": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25, 11:59 p.m. PT. Register here.",
-        "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/"
+        "title": "Meta introduces camera-free AI glasses",
+        "desc": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+        "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
       },
       {
         "date": "23 Eyl",
-        "source": "MIT Tech Review",
-        "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram vid",
-        "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/"
+        "source": "The Verge",
+        "title": "Meta ditches the camera on its newest smart glasses",
+        "desc": "The Ray-Ban Meta Audio Glasses have no cameras. | Photo by Brett Putman / The Verge\t\n\nWalking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked differenc",
+        "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026"
       },
       {
         "date": "23 Eyl",
-        "source": "TechCrunch",
-        "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-        "desc": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
-        "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
+        "source": "The Verge",
+        "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+        "desc": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways.\nMuse agents are getting their own email addresses that they c",
+        "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026"
       }
     ],
     "kod": [
+      {
+        "date": "23 Eyl",
+        "source": "GitHub Blog",
+        "title": "Rendering huge pull requests in the GitHub Copilot app",
+        "desc": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.\nThe post Rendering huge pull requests in the GitHub Copilot app appeared first on The",
+        "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/"
+      },
+      {
+        "date": "23 Eyl",
+        "source": "Simon Willison",
+        "title": "Shadow roots, explained with live examples",
+        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/shadow-roots\">Shadow roots, explained with live examples</a></p>\n        <p>Prompt to Fable 5.1 Medium:</p>\n<blockquote>\n<p><code>Build an artifact to ex",
+        "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/"
+      },
       {
         "date": "23 Eyl",
         "source": "GitHub Blog",
@@ -88,23 +102,23 @@
         "title": "The Download: investigating deaths at the US border’s “virtual wall”",
         "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before the",
         "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
-      },
-      {
-        "date": "20 Eyl",
-        "source": "Simon Willison",
-        "title": "Quoting voxium",
-        "desc": "<blockquote cite=\"https://twitter.com/v0xium/status/2101526107128529120\"><p>It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolut",
-        "url": "https://simonwillison.net/2026/Sep/20/voxium/"
-      },
-      {
-        "date": "20 Eyl",
-        "source": "Simon Willison",
-        "title": "MCP was always a bad idea?",
-        "desc": "<p><a href=\"https://news.ycombinator.com/item?id=49779329#49779718\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49779329\">MCP was always a bad idea?</a> &mdash; Hacker News.</p><p>This article entirel",
-        "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/"
       }
     ],
     "arac": [
+      {
+        "date": "23 Eyl",
+        "source": "The Verge",
+        "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+        "desc": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is bui",
+        "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote"
+      },
+      {
+        "date": "23 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
+        "desc": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators.",
+        "url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/"
+      },
       {
         "date": "23 Eyl",
         "source": "TechCrunch",
@@ -115,8 +129,8 @@
       {
         "date": "23 Eyl",
         "source": "TechCrunch Apps",
-        "title": "YouTube’s new ‘Short Series’ feature brings episodic viewing to Shorts",
-        "desc": "As microdrama apps gain traction, YouTube is clearly betting that episodic short-form storytelling will stick around. And that the format belongs on Shorts. At its Made On YouTube event on Wednesday, the company announce",
+        "title": "YouTube’s new ‘Shorts series’ feature brings episodic viewing to Shorts",
+        "desc": "Other Made On YouTube announcements are also designed to help creators grow and engage audiences.",
         "url": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/"
       },
       {
@@ -139,20 +153,6 @@
         "title": "Jev State",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/jev-state"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "Product Hunt",
-        "title": "Speechka",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/speechka"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "Product Hunt",
-        "title": "Alexandria by Firecrawl",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/extract-by-firecrawl"
       }
     ]
   }
