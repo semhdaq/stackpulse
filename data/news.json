@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-09-24T10:36:15.849Z",
+  "generated_at": "2026-09-24T15:59:21.518Z",
   "generated_at_tr": "24 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "24 Eyl",
-        "source": "MIT Tech Review",
-        "title": "AI is dominating the conversation at Climate Week",
-        "desc": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so ",
-        "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/"
-      },
-      {
-        "date": "24 Eyl",
-        "source": "The Verge",
-        "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-        "desc": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of",
-        "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu"
+        "source": "TechCrunch",
+        "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+        "desc": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by Sept. 25, 11:59 p.m. PT. Get a second pass at 50% off.",
+        "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/"
       },
       {
         "date": "24 Eyl",
         "source": "TechCrunch",
-        "title": "Everything new coming to Meta’s AI agent Muse",
-        "desc": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
-        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
+        "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+        "desc": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+        "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/"
       },
       {
         "date": "24 Eyl",
         "source": "TechCrunch",
-        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-        "desc": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
-        "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
+        "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+        "desc": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
+        "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/"
       },
       {
         "date": "24 Eyl",
         "source": "The Verge",
-        "title": "Meta is making a standalone Muse AI gadget",
-        "desc": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost",
-        "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
+        "title": "Why can’t we just keep rogue AIs off the internet?",
+        "desc": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely be",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents"
       },
       {
-        "date": "23 Eyl",
+        "date": "24 Eyl",
         "source": "The Verge",
-        "title": "Muse is coming to Meta smart glasses",
-        "desc": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from ",
-        "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
+        "title": "Google is sending an AI satellite into space next week",
+        "desc": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's exper",
+        "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher"
       },
       {
-        "date": "23 Eyl",
-        "source": "TechCrunch",
-        "title": "Meta introduces camera-free AI glasses",
-        "desc": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
-        "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
+        "date": "24 Eyl",
+        "source": "The Verge",
+        "title": "The vibes are bad for Flock in Washington",
+        "desc": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday.\n\"There's many players in this industry, but there's one name that ",
+        "url": "https://www.theverge.com/policy/1000005/flock-senate-hearing"
+      },
+      {
+        "date": "24 Eyl",
+        "source": "The Verge",
+        "title": "I have some questions for Mark Zuckerberg",
+        "desc": "It’s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I’ve been using it — it is surprisingly good. \nCEO Mark Zuckerberg has ",
+        "url": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers"
       }
     ],
     "kod": [
+      {
+        "date": "24 Eyl",
+        "source": "TechCrunch",
+        "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+        "desc": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+        "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/"
+      },
       {
         "date": "23 Eyl",
         "source": "GitHub Blog",
@@ -95,29 +102,22 @@
         "title": "CodeSpotlight",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/codespotlight"
-      },
-      {
-        "date": "21 Eyl",
-        "source": "MIT Tech Review",
-        "title": "The Download: investigating deaths at the US border’s “virtual wall”",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before the",
-        "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
       }
     ],
     "arac": [
+      {
+        "date": "24 Eyl",
+        "source": "TechCrunch",
+        "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
+        "desc": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.",
+        "url": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/"
+      },
       {
         "date": "24 Eyl",
         "source": "Product Hunt",
         "title": "NotchPop",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/notchpop"
-      },
-      {
-        "date": "23 Eyl",
-        "source": "The Verge",
-        "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-        "desc": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is bui",
-        "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote"
       },
       {
         "date": "23 Eyl",
@@ -143,16 +143,16 @@
       {
         "date": "23 Eyl",
         "source": "Product Hunt",
-        "title": "Harness Manager",
+        "title": "Bitrise Build Hub",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/harness-manager"
+        "url": "https://www.producthunt.com/products/bitrise"
       },
       {
         "date": "23 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
-        "desc": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators.",
-        "url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/"
+        "source": "Product Hunt",
+        "title": "Harness Manager",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/harness-manager"
       }
     ]
   }
