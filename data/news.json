@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-09-24T01:49:50.300Z",
+  "generated_at": "2026-09-24T10:36:15.849Z",
   "generated_at_tr": "24 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "24 Eyl",
+        "source": "MIT Tech Review",
+        "title": "AI is dominating the conversation at Climate Week",
+        "desc": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so ",
+        "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/"
+      },
+      {
+        "date": "24 Eyl",
+        "source": "The Verge",
+        "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+        "desc": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of",
+        "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu"
+      },
       {
         "date": "24 Eyl",
         "source": "TechCrunch",
@@ -37,20 +51,6 @@
         "title": "Meta introduces camera-free AI glasses",
         "desc": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
         "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
-      },
-      {
-        "date": "23 Eyl",
-        "source": "The Verge",
-        "title": "Meta ditches the camera on its newest smart glasses",
-        "desc": "The Ray-Ban Meta Audio Glasses have no cameras. | Photo by Brett Putman / The Verge\t\n\nWalking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked differenc",
-        "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026"
-      },
-      {
-        "date": "23 Eyl",
-        "source": "The Verge",
-        "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-        "desc": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways.\nMuse agents are getting their own email addresses that they c",
-        "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026"
       }
     ],
     "kod": [
@@ -106,6 +106,13 @@
     ],
     "arac": [
       {
+        "date": "24 Eyl",
+        "source": "Product Hunt",
+        "title": "NotchPop",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/notchpop"
+      },
+      {
         "date": "23 Eyl",
         "source": "The Verge",
         "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
@@ -114,45 +121,38 @@
       },
       {
         "date": "23 Eyl",
+        "source": "Product Hunt",
+        "title": "Floot MCP",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/floot"
+      },
+      {
+        "date": "23 Eyl",
+        "source": "Product Hunt",
+        "title": "Parall",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/parall"
+      },
+      {
+        "date": "23 Eyl",
+        "source": "Product Hunt",
+        "title": "LockLines",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/locklines"
+      },
+      {
+        "date": "23 Eyl",
+        "source": "Product Hunt",
+        "title": "Harness Manager",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/harness-manager"
+      },
+      {
+        "date": "23 Eyl",
         "source": "TechCrunch Apps",
         "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
         "desc": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators.",
         "url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/"
-      },
-      {
-        "date": "23 Eyl",
-        "source": "TechCrunch",
-        "title": "YouTube releases new AI features for creators within its Studio app",
-        "desc": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-        "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
-      },
-      {
-        "date": "23 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "YouTube’s new ‘Shorts series’ feature brings episodic viewing to Shorts",
-        "desc": "Other Made On YouTube announcements are also designed to help creators grow and engage audiences.",
-        "url": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/"
-      },
-      {
-        "date": "23 Eyl",
-        "source": "TechCrunch",
-        "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-        "desc": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
-        "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/"
-      },
-      {
-        "date": "23 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "LinkedIn adds new tools to fight fake profiles and bogus work histories",
-        "desc": "LinkedIn is rolling out new verification tools that let members vouch for colleagues’ work experience and give companies more control over accounts that falsely claim to employ them.",
-        "url": "https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/"
-      },
-      {
-        "date": "22 Eyl",
-        "source": "Product Hunt",
-        "title": "Jev State",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/jev-state"
       }
     ]
   }
