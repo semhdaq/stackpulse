@@ -1,59 +1,73 @@
 {
-  "generated_at": "2026-09-25T10:39:42.145Z",
+  "generated_at": "2026-09-25T16:00:15.404Z",
   "generated_at_tr": "25 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "25 Eyl",
-        "source": "MIT Tech Review",
-        "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-        "desc": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will",
-        "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
-      },
-      {
-        "date": "25 Eyl",
-        "source": "MIT Tech Review",
-        "title": "Young organs may not be a fountain of youth for recipients",
-        "desc": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s",
-        "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/"
-      },
-      {
-        "date": "25 Eyl",
-        "source": "Stack Overflow Blog",
-        "title": "Professional skepticism is a dev’s best skill",
-        "desc": "Ryan chats with David Burns, Head of Developer Advocacy and Open Source at BrowserStack, about the value of professional skepticism in an AI-driven world, applying test-driven development to agentic engineering, and why ",
-        "url": "https://stackoverflow.blog/2026/09/25/professional-skepticism-is-a-dev-s-best-skill/"
-      },
-      {
-        "date": "25 Eyl",
-        "source": "TechCrunch",
-        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-        "desc": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-        "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
-      },
-      {
-        "date": "25 Eyl",
-        "source": "Product Hunt",
-        "title": "SocialGPT",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/socialgpt"
-      },
-      {
-        "date": "24 Eyl",
         "source": "The Verge",
-        "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-        "desc": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during co",
-        "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
+        "title": "Sony and UMG are suing Suno again",
+        "desc": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images\t\n\nSony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 m",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music"
       },
       {
-        "date": "24 Eyl",
+        "date": "25 Eyl",
         "source": "TechCrunch",
-        "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-        "desc": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-        "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/"
+        "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+        "desc": "The latest unauthorized agent swarms were discovered by researchers.",
+        "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/"
+      },
+      {
+        "date": "25 Eyl",
+        "source": "TechCrunch",
+        "title": "Anthropic’s founders seek voting control ahead of IPO",
+        "desc": "Anthropic is asking its shareholders to approve a  structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+        "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
+      },
+      {
+        "date": "25 Eyl",
+        "source": "The Verge",
+        "title": "One company is at the center of a wave of rogue AI attacks",
+        "desc": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Goo",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google"
+      },
+      {
+        "date": "25 Eyl",
+        "source": "TechCrunch",
+        "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+        "desc": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before",
+        "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/"
+      },
+      {
+        "date": "25 Eyl",
+        "source": "TechCrunch",
+        "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+        "desc": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+        "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
+      },
+      {
+        "date": "25 Eyl",
+        "source": "The Verge",
+        "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+        "desc": "I used Google’s Nest Doorbell (left), Aqara’s HomeKit-compatible G400 (center), and the Ring Pro 4K (right) to test the new AI features of Gemini for Home, Apple Intelligence for Home, and Amazon’s Ring. | Photo by Jenni",
+        "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review"
       }
     ],
     "kod": [
+      {
+        "date": "25 Eyl",
+        "source": "GitHub Blog",
+        "title": "Improving site performance by shipping more CSS",
+        "desc": "A look at how a design system shipped major changes without breaking the world.\nThe post Improving site performance by shipping more CSS appeared first on The GitHub Blog.",
+        "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/"
+      },
+      {
+        "date": "25 Eyl",
+        "source": "Simon Willison",
+        "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+        "desc": "<p><img src=\"https://static.inaturalist.org/photos/740453177/large.jpg\" alt=\"Northern Gannet\"></p><p><img src=\"https://static.inaturalist.org/photos/740453341/large.jpg\" alt=\"Great Blue Heron\"></p><p><img src=\"https://st",
+        "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/"
+      },
       {
         "date": "24 Eyl",
         "source": "Simon Willison",
@@ -88,36 +102,15 @@
         "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
         "desc": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
         "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/"
-      },
-      {
-        "date": "24 Eyl",
-        "source": "Product Hunt",
-        "title": "GitHub statistics · Velocity Radar",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/github-statistics-velocity-radar"
-      },
-      {
-        "date": "23 Eyl",
-        "source": "GitHub Blog",
-        "title": "Rendering huge pull requests in the GitHub Copilot app",
-        "desc": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.\nThe post Rendering huge pull requests in the GitHub Copilot app appeared first on The",
-        "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/"
       }
     ],
     "arac": [
       {
         "date": "25 Eyl",
-        "source": "Product Hunt",
-        "title": "10xJoy",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/10xjoy"
-      },
-      {
-        "date": "25 Eyl",
-        "source": "Product Hunt",
-        "title": "Tellwe",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tellwe"
+        "source": "TechCrunch",
+        "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+        "desc": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
+        "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/"
       },
       {
         "date": "25 Eyl",
@@ -153,6 +146,13 @@
         "title": "Basedash MCP write",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/basedash"
+      },
+      {
+        "date": "24 Eyl",
+        "source": "Product Hunt",
+        "title": "Decktly",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/decktly"
       }
     ]
   }
