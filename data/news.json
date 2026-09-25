@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T20:50:53.283Z",
-  "generated_at_tr": "24 Eyl 2026",
+  "generated_at": "2026-09-25T02:06:22.782Z",
+  "generated_at_tr": "25 Eyl 2026",
   "categories": {
     "ai": [
       {
@@ -70,6 +70,13 @@
       },
       {
         "date": "24 Eyl",
+        "source": "Simon Willison",
+        "title": "datasette 1.0a41",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a41\">datasette 1.0a41</a></p>\n        <p>Alec Garcia added <a href=\"https://docs.datasette.io/en/latest/internals.html#internals-t",
+        "url": "https://simonwillison.net/2026/Sep/24/datasette/"
+      },
+      {
+        "date": "24 Eyl",
         "source": "The Verge",
         "title": "Muse will apparently let you download its entire filesystem",
         "desc": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing",
@@ -95,13 +102,6 @@
         "title": "Shadow roots, explained with live examples",
         "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/shadow-roots\">Shadow roots, explained with live examples</a></p>\n        <p>Prompt to Fable 5.1 Medium:</p>\n<blockquote>\n<p><code>Build an artifact to ex",
         "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/"
-      },
-      {
-        "date": "23 Eyl",
-        "source": "GitHub Blog",
-        "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
-        "desc": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute.\nThe post Developers want more e",
-        "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/"
       }
     ],
     "arac": [
