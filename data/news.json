@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-09-26T02:12:08.222Z",
+  "generated_at": "2026-09-26T10:23:20.272Z",
   "generated_at_tr": "26 Eyl 2026",
   "categories": {
     "ai": [
       {
+        "date": "26 Eyl",
+        "source": "TechCrunch",
+        "title": "At Meta Connect, the company’s smart glasses were everywhere",
+        "desc": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+        "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
+      },
+      {
         "date": "25 Eyl",
         "source": "TechCrunch",
         "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-        "desc": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+        "desc": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
         "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
       },
       {
@@ -44,13 +51,6 @@
         "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
         "desc": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, f",
         "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
-      },
-      {
-        "date": "25 Eyl",
-        "source": "TechCrunch",
-        "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-        "desc": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-        "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
       }
     ],
     "kod": [
@@ -107,6 +107,13 @@
     "arac": [
       {
         "date": "25 Eyl",
+        "source": "Product Hunt",
+        "title": "MakerMap",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/makermap"
+      },
+      {
+        "date": "25 Eyl",
         "source": "TechCrunch",
         "title": "Meta opens early access program for new Muse features",
         "desc": "Anyone interested in joining has to ask Muse to put them on the list.",
@@ -129,23 +136,9 @@
       {
         "date": "25 Eyl",
         "source": "Product Hunt",
-        "title": "Tellwe",
+        "title": "GoodSocials",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tellwe"
-      },
-      {
-        "date": "25 Eyl",
-        "source": "Product Hunt",
-        "title": "Token Forecaster",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/token-forecaster"
-      },
-      {
-        "date": "25 Eyl",
-        "source": "Product Hunt",
-        "title": "Wand",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/wand-6"
+        "url": "https://www.producthunt.com/products/goodsocials"
       },
       {
         "date": "25 Eyl",
@@ -153,6 +146,13 @@
         "title": "Jango",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/jango"
+      },
+      {
+        "date": "24 Eyl",
+        "source": "Product Hunt",
+        "title": "Once UI 2.0",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/once-ui-for-figma"
       }
     ]
   }
