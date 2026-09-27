@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T10:55:06.812Z",
+  "generated_at": "2026-09-27T15:52:56.457Z",
   "generated_at_tr": "27 Eyl 2026",
   "categories": {
     "ai": [
@@ -143,16 +143,16 @@
       {
         "date": "25 Eyl",
         "source": "Product Hunt",
-        "title": "10xJoy",
+        "title": "Tellwe",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/10xjoy"
+        "url": "https://www.producthunt.com/products/tellwe"
       },
       {
         "date": "25 Eyl",
         "source": "Product Hunt",
-        "title": "Tellwe",
+        "title": "Token Forecaster",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tellwe"
+        "url": "https://www.producthunt.com/products/token-forecaster"
       }
     ]
   }
