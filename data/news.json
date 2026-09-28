@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-09-27T15:52:56.457Z",
-  "generated_at_tr": "27 Eyl 2026",
+  "generated_at": "2026-09-28T02:09:56.832Z",
+  "generated_at_tr": "28 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "27 Eyl",
+        "source": "Simon Willison",
+        "title": "2026 in LLMs (so far)",
+        "desc": "<p>On Friday I gave the closing keynote at the <a href=\"https://www.wearedevelopers.com/world-congress-north-america\">WeAreDevelopers World Congress North America</a> in San Jose. I tied together the key trends from the ",
+        "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
+      },
+      {
+        "date": "27 Eyl",
+        "source": "The Verge",
+        "title": "Engram is a sampler that turns broken AI hallucinations into music",
+        "desc": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music"
+      },
+      {
+        "date": "27 Eyl",
+        "source": "TechCrunch",
+        "title": "Anthropic’s CEO is about to have dinner with President Trump",
+        "desc": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
+      },
+      {
+        "date": "27 Eyl",
+        "source": "TechCrunch",
+        "title": "Can Muse overcome Meta’s trust issues?",
+        "desc": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+        "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
+      },
+      {
+        "date": "27 Eyl",
+        "source": "The Verge",
+        "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+        "desc": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images\t\n\nSecurity researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNC",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
+      },
+      {
+        "date": "27 Eyl",
+        "source": "TechCrunch",
+        "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+        "desc": "\"AI is the devil and I its maker.\"",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
+      },
       {
         "date": "27 Eyl",
         "source": "TechCrunch",
         "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
         "desc": "The limited test covers select products and users, with a broader rollout planned for later in October.",
         "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
-      },
-      {
-        "date": "26 Eyl",
-        "source": "TechCrunch",
-        "title": "Insurers claim AI is already increasing healthcare costs",
-        "desc": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-        "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
-      },
-      {
-        "date": "26 Eyl",
-        "source": "The Verge",
-        "title": "OpenAI pauses training of its ‘most capable models’",
-        "desc": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made afte",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
-      },
-      {
-        "date": "26 Eyl",
-        "source": "TechCrunch",
-        "title": "I created an interactive digital avatar of myself — and you can talk to it",
-        "desc": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-        "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
-      },
-      {
-        "date": "26 Eyl",
-        "source": "The Verge",
-        "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-        "desc": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business.\nMatthew last joined us on the show about two and a half years ago, at what we thought",
-        "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
-      },
-      {
-        "date": "26 Eyl",
-        "source": "TechCrunch",
-        "title": "At Meta Connect, the company’s smart glasses were everywhere",
-        "desc": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-        "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
-      },
-      {
-        "date": "25 Eyl",
-        "source": "TechCrunch",
-        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-        "desc": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-        "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
       }
     ],
     "kod": [
+      {
+        "date": "27 Eyl",
+        "source": "Simon Willison",
+        "title": "S3 Is the Future, S3 Is the Past",
+        "desc": "<p><a href=\"https://news.ycombinator.com/item?id=49851693#49871741\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49851693\">S3 Is the Future, S3 Is the Past</a> &mdash; Hacker News.</p><p>One thing I fi",
+        "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/"
+      },
       {
         "date": "26 Eyl",
         "source": "Simon Willison",
@@ -95,16 +102,16 @@
         "title": "commit-rewriter 0.2",
         "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/commit-rewriter/releases/tag/0.2\">commit-rewriter 0.2</a></p>\n        <blockquote>\n<p>Support for branches other than the default branch. Use <code>uvx comm",
         "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/"
-      },
-      {
-        "date": "24 Eyl",
-        "source": "GitHub Blog",
-        "title": "When chat is the wrong UI",
-        "desc": "What is a developer to do when they need something more tangible than a chat box? Enter canvases.\nThe post When chat is the wrong UI appeared first on The GitHub Blog.",
-        "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/"
       }
     ],
     "arac": [
+      {
+        "date": "27 Eyl",
+        "source": "Simon Willison",
+        "title": "Bluesky reply bot checker",
+        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/bluesky-bot-check\">Bluesky reply bot checker</a></p>\n        <p>Automated reply bots on Twitter are a <em>scourge</em> - as someone with a decent number ",
+        "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/"
+      },
       {
         "date": "25 Eyl",
         "source": "Product Hunt",
@@ -128,13 +135,6 @@
       },
       {
         "date": "25 Eyl",
-        "source": "TechCrunch",
-        "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-        "desc": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
-        "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/"
-      },
-      {
-        "date": "25 Eyl",
         "source": "Product Hunt",
         "title": "GoodSocials",
         "desc": "Discussion\n            |\n            Link",
@@ -143,16 +143,16 @@
       {
         "date": "25 Eyl",
         "source": "Product Hunt",
-        "title": "Tellwe",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tellwe"
-      },
-      {
-        "date": "25 Eyl",
-        "source": "Product Hunt",
         "title": "Token Forecaster",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/token-forecaster"
+      },
+      {
+        "date": "24 Eyl",
+        "source": "Product Hunt",
+        "title": "Stimly",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/stimly"
       }
     ]
   }
