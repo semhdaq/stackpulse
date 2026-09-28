@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-09-28T02:09:56.832Z",
+  "generated_at": "2026-09-28T12:08:05.872Z",
   "generated_at_tr": "28 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "28 Eyl",
+        "source": "MIT Tech Review",
+        "title": "Who’s liable when AI agents go rogue?",
+        "desc": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cy",
+        "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
+      },
+      {
+        "date": "28 Eyl",
+        "source": "Simon Willison",
+        "title": "Quoting Muse AI Agent",
+        "desc": "<blockquote cite=\"https://www.threads.com/share/_oWfPufYJ/\"><p>Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry ",
+        "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/"
+      },
       {
         "date": "27 Eyl",
         "source": "Simon Willison",
@@ -37,20 +51,6 @@
         "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
         "desc": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images\t\n\nSecurity researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNC",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
-      },
-      {
-        "date": "27 Eyl",
-        "source": "TechCrunch",
-        "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-        "desc": "\"AI is the devil and I its maker.\"",
-        "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
-      },
-      {
-        "date": "27 Eyl",
-        "source": "TechCrunch",
-        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-        "desc": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-        "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
       }
     ],
     "kod": [
@@ -97,62 +97,62 @@
         "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/"
       },
       {
-        "date": "24 Eyl",
-        "source": "Simon Willison",
-        "title": "commit-rewriter 0.2",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/commit-rewriter/releases/tag/0.2\">commit-rewriter 0.2</a></p>\n        <blockquote>\n<p>Support for branches other than the default branch. Use <code>uvx comm",
-        "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/"
+        "date": "25 Eyl",
+        "source": "Product Hunt",
+        "title": "GenCode",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/genspark"
       }
     ],
     "arac": [
+      {
+        "date": "28 Eyl",
+        "source": "Product Hunt",
+        "title": "Shotcandy",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/shotcandy"
+      },
+      {
+        "date": "28 Eyl",
+        "source": "Product Hunt",
+        "title": "MuM",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/mum-multi-project-markdown"
+      },
+      {
+        "date": "28 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+        "desc": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
+        "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/"
+      },
+      {
+        "date": "28 Eyl",
+        "source": "Product Hunt",
+        "title": "Dina 4.5",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/dina"
+      },
+      {
+        "date": "27 Eyl",
+        "source": "Product Hunt",
+        "title": "FaveNest",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/favenest"
+      },
+      {
+        "date": "27 Eyl",
+        "source": "Product Hunt",
+        "title": "Sayble",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/sayble"
+      },
       {
         "date": "27 Eyl",
         "source": "Simon Willison",
         "title": "Bluesky reply bot checker",
         "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/bluesky-bot-check\">Bluesky reply bot checker</a></p>\n        <p>Automated reply bots on Twitter are a <em>scourge</em> - as someone with a decent number ",
         "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/"
-      },
-      {
-        "date": "25 Eyl",
-        "source": "Product Hunt",
-        "title": "MakerMap",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/makermap"
-      },
-      {
-        "date": "25 Eyl",
-        "source": "TechCrunch",
-        "title": "Meta opens early access program for new Muse features",
-        "desc": "Anyone interested in joining has to ask Muse to put them on the list.",
-        "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
-      },
-      {
-        "date": "25 Eyl",
-        "source": "GitHub Blog",
-        "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-        "desc": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.\nThe post GitHub Copilot app ",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/"
-      },
-      {
-        "date": "25 Eyl",
-        "source": "Product Hunt",
-        "title": "GoodSocials",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/goodsocials"
-      },
-      {
-        "date": "25 Eyl",
-        "source": "Product Hunt",
-        "title": "Token Forecaster",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/token-forecaster"
-      },
-      {
-        "date": "24 Eyl",
-        "source": "Product Hunt",
-        "title": "Stimly",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/stimly"
       }
     ]
   }
