@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-09-29T02:56:27.919Z",
+  "generated_at": "2026-09-29T17:06:37.330Z",
   "generated_at_tr": "29 Eyl 2026",
   "categories": {
     "ai": [
       {
-        "date": "28 Eyl",
+        "date": "29 Eyl",
         "source": "TechCrunch",
-        "title": "OpenAI reportedly ditches model over safety concerns",
-        "desc": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-        "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
+        "title": "Can a chatbot fix the government maze? The White House is about to find out",
+        "desc": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+        "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/"
       },
       {
-        "date": "28 Eyl",
-        "source": "Simon Willison",
-        "title": "Claude Sonnet 5.5",
-        "desc": "<p><strong><a href=\"https://www.anthropic.com/claude-sonnet-5-5\">Claude Sonnet 5.5</a></strong></p>\nNew Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's pri",
-        "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"
-      },
-      {
-        "date": "28 Eyl",
+        "date": "29 Eyl",
         "source": "The Verge",
-        "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-        "desc": "World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images\t\n\nAMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal ",
-        "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"
+        "title": "OpenAI DevDay 2026: The biggest news and announcements",
+        "desc": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, starting with a live keynote featuring CEO Sam Altman. The company is teasing “20+ launche",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements"
       },
       {
-        "date": "28 Eyl",
+        "date": "29 Eyl",
+        "source": "Simon Willison",
+        "title": "OpenAI DevDay 2026 live blog",
+        "desc": "<p>I'm at <a href=\"https://devday.openai.com/\">OpenAI DevDay</a> today, in Fort Mason, San Francisco. Same as <a href=\"https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/\">last year</a> I'll be live blogging th",
+        "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/"
+      },
+      {
+        "date": "29 Eyl",
         "source": "TechCrunch",
-        "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-        "desc": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-        "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+        "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+        "desc": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+        "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/"
       },
       {
-        "date": "28 Eyl",
+        "date": "29 Eyl",
+        "source": "The Verge",
+        "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
+        "desc": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the s",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns"
+      },
+      {
+        "date": "29 Eyl",
         "source": "TechCrunch",
-        "title": "Shopify opens checkout to browser-based AI agents",
-        "desc": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-        "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
+        "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+        "desc": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferenc",
+        "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/"
       },
       {
-        "date": "28 Eyl",
+        "date": "29 Eyl",
         "source": "TechCrunch",
-        "title": "The AI boom took over Climate Week and not everyone is happy about it",
-        "desc": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
-        "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/"
-      },
-      {
-        "date": "28 Eyl",
-        "source": "GitHub Blog",
-        "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
-        "desc": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app.\nThe post How we found 24 Android vulnerabilities using our o",
-        "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/"
+        "title": "Meta is expanding its AI agent Muse to small businesses",
+        "desc": "The tech giant says the agent can help owners run their business and find new customers.",
+        "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/"
       }
     ],
     "kod": [
+      {
+        "date": "29 Eyl",
+        "source": "GitHub Blog",
+        "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+        "desc": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source.\nThe post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The Git",
+        "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/"
+      },
       {
         "date": "28 Eyl",
         "source": "TechCrunch",
@@ -76,41 +83,55 @@
         "url": "https://stackoverflow.blog/2026/09/28/is-your-human-in-the-loop-actually-slowing-you-down-here-s-what-we-learned/"
       },
       {
+        "date": "28 Eyl",
+        "source": "Product Hunt",
+        "title": "Timeless Code",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/timeos"
+      },
+      {
+        "date": "28 Eyl",
+        "source": "Product Hunt",
+        "title": "Codex Remote",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/codex-remote"
+      },
+      {
         "date": "27 Eyl",
         "source": "Simon Willison",
         "title": "S3 Is the Future, S3 Is the Past",
         "desc": "<p><a href=\"https://news.ycombinator.com/item?id=49851693#49871741\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49851693\">S3 Is the Future, S3 Is the Past</a> &mdash; Hacker News.</p><p>One thing I fi",
         "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/"
-      },
-      {
-        "date": "26 Eyl",
-        "source": "Simon Willison",
-        "title": "Kākāpō Party",
-        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/kakapo-party\">Kākāpō Party</a></p>\n        <p>I presented a closing keynote for the <a href=\"https://www.wearedevelopers.com/world-congress-north-america",
-        "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/"
-      },
-      {
-        "date": "26 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-        "desc": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
-        "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
-      },
-      {
-        "date": "25 Eyl",
-        "source": "Simon Willison",
-        "title": "Quoting John Gruber",
-        "desc": "<blockquote cite=\"https://daringfireball.net/linked/2026/09/25/aten-muse\"><p>Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent ",
-        "url": "https://simonwillison.net/2026/Sep/25/john-gruber/"
       }
     ],
     "arac": [
+      {
+        "date": "29 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Fireflies adds dictation to its desktop notetaking apps",
+        "desc": "Fireflies said that it won't charge extra for the new dictation feature, which can be used with any desktop app.",
+        "url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/"
+      },
+      {
+        "date": "29 Eyl",
+        "source": "Product Hunt",
+        "title": "Supertake",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/supertake"
+      },
       {
         "date": "29 Eyl",
         "source": "TechCrunch",
         "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
         "desc": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
         "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
+      },
+      {
+        "date": "28 Eyl",
+        "source": "Product Hunt",
+        "title": "ShipHappens:",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/ship-happens-automate-asc-localization"
       },
       {
         "date": "28 Eyl",
@@ -132,27 +153,6 @@
         "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
         "desc": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
         "url": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/"
-      },
-      {
-        "date": "28 Eyl",
-        "source": "TechCrunch",
-        "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-        "desc": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
-        "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "date": "28 Eyl",
-        "source": "TechCrunch",
-        "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-        "desc": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's",
-        "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/"
-      },
-      {
-        "date": "28 Eyl",
-        "source": "The Verge",
-        "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
-        "desc": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian. \nAtlassian is one of those companies that every other company runs on — it makes important platform tools like Jira and Trello that allo",
-        "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira"
       }
     ]
   }
