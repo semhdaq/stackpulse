@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-09-29T17:06:37.330Z",
-  "generated_at_tr": "29 Eyl 2026",
+  "generated_at": "2026-09-30T02:37:27.068Z",
+  "generated_at_tr": "30 Eyl 2026",
   "categories": {
     "ai": [
       {
+        "date": "30 Eyl",
+        "source": "The Verge",
+        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+        "desc": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+      },
+      {
         "date": "29 Eyl",
         "source": "TechCrunch",
-        "title": "Can a chatbot fix the government maze? The White House is about to find out",
-        "desc": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
-        "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/"
+        "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+        "desc": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+        "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/"
       },
       {
         "date": "29 Eyl",
         "source": "The Verge",
-        "title": "OpenAI DevDay 2026: The biggest news and announcements",
-        "desc": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, starting with a live keynote featuring CEO Sam Altman. The company is teasing “20+ launche",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements"
+        "title": "Trump orders US government to call AI ‘Super Intelligence’",
+        "desc": "Image: Carolyn Van Houten / The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents,",
+        "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
+      },
+      {
+        "date": "29 Eyl",
+        "source": "TechCrunch",
+        "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+        "desc": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+        "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
       },
       {
         "date": "29 Eyl",
         "source": "Simon Willison",
-        "title": "OpenAI DevDay 2026 live blog",
-        "desc": "<p>I'm at <a href=\"https://devday.openai.com/\">OpenAI DevDay</a> today, in Fort Mason, San Francisco. Same as <a href=\"https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/\">last year</a> I'll be live blogging th",
-        "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/"
-      },
-      {
-        "date": "29 Eyl",
-        "source": "TechCrunch",
-        "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-        "desc": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
-        "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/"
+        "title": "Quoting Anthropic Frontier Red Team",
+        "desc": "<blockquote cite=\"https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities\"><p>We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random",
+        "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/"
       },
       {
         "date": "29 Eyl",
         "source": "The Verge",
-        "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
-        "desc": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the s",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns"
+        "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+        "desc": "Elon Musk | Image: Laura Normand / The Verge\t\n\nGrokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles",
+        "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
       },
       {
         "date": "29 Eyl",
         "source": "TechCrunch",
-        "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-        "desc": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferenc",
-        "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/"
-      },
-      {
-        "date": "29 Eyl",
-        "source": "TechCrunch",
-        "title": "Meta is expanding its AI agent Muse to small businesses",
-        "desc": "The tech giant says the agent can help owners run their business and find new customers.",
-        "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/"
+        "title": "OpenAI’s latest features take direct aim at the app store model",
+        "desc": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+        "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
       }
     ],
     "kod": [
@@ -60,13 +60,6 @@
         "title": "Developer policy update: Transparency, state policy, and what’s ahead",
         "desc": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source.\nThe post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The Git",
         "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/"
-      },
-      {
-        "date": "28 Eyl",
-        "source": "TechCrunch",
-        "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-        "desc": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-        "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
       },
       {
         "date": "28 Eyl",
@@ -102,6 +95,13 @@
         "title": "S3 Is the Future, S3 Is the Past",
         "desc": "<p><a href=\"https://news.ycombinator.com/item?id=49851693#49871741\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49851693\">S3 Is the Future, S3 Is the Past</a> &mdash; Hacker News.</p><p>One thing I fi",
         "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/"
+      },
+      {
+        "date": "26 Eyl",
+        "source": "Simon Willison",
+        "title": "Kākāpō Party",
+        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/kakapo-party\">Kākāpō Party</a></p>\n        <p>I presented a closing keynote for the <a href=\"https://www.wearedevelopers.com/world-congress-north-america",
+        "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/"
       }
     ],
     "arac": [
