@@ -1,59 +1,73 @@
 {
-  "generated_at": "2026-09-30T11:27:13.877Z",
+  "generated_at": "2026-09-30T17:04:34.600Z",
   "generated_at_tr": "30 Eyl 2026",
   "categories": {
     "ai": [
       {
         "date": "30 Eyl",
-        "source": "MIT Tech Review",
-        "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-        "desc": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures ab",
-        "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
+        "source": "Stack Overflow Blog",
+        "title": "Organizations need decision-grade knowledge. AI makes it urgent.",
+        "desc": "AI can make the first part remarkably fast. It can find the page, the discussion and the person who might know. The harder work begins when those sources disagree, or when they become stale.",
+        "url": "https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent/"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "TechCrunch",
+        "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+        "desc": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+        "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "TechCrunch",
+        "title": "DoorDash launches an AI agent you can text to order food",
+        "desc": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+        "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "TechCrunch",
+        "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+        "desc": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+        "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"
       },
       {
         "date": "30 Eyl",
         "source": "The Verge",
-        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-        "desc": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+        "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+        "desc": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai"
       },
       {
-        "date": "29 Eyl",
-        "source": "TechCrunch",
-        "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-        "desc": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-        "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/"
-      },
-      {
-        "date": "29 Eyl",
+        "date": "30 Eyl",
         "source": "The Verge",
-        "title": "Trump orders US government to call AI ‘Super Intelligence’",
-        "desc": "Image: Carolyn Van Houten / The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents,",
-        "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
+        "title": "Google reportedly tests paying publishers for AI search results",
+        "desc": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers ",
+        "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features"
       },
       {
-        "date": "29 Eyl",
+        "date": "30 Eyl",
         "source": "TechCrunch",
-        "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-        "desc": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-        "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
-      },
-      {
-        "date": "29 Eyl",
-        "source": "Simon Willison",
-        "title": "Quoting Anthropic Frontier Red Team",
-        "desc": "<blockquote cite=\"https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities\"><p>We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random",
-        "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/"
-      },
-      {
-        "date": "29 Eyl",
-        "source": "The Verge",
-        "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
-        "desc": "Elon Musk | Image: Laura Normand / The Verge\t\n\nGrokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles",
-        "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
+        "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+        "desc": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what ",
+        "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/"
       }
     ],
     "kod": [
+      {
+        "date": "30 Eyl",
+        "source": "Stack Overflow Blog",
+        "title": "Anyone can start building verified knowledge with Stack Internal",
+        "desc": "Stack Internal transforms your daily work into a living memory that’s shared with the rest of your team. Now anyone can create and share their knowledge in a Stack Internal workspace for free by visiting stackinternal.co",
+        "url": "https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "Stack Overflow Blog",
+        "title": "Getting ready for 2026 results: A look back on Developer Survey findings",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/"
+      },
       {
         "date": "29 Eyl",
         "source": "GitHub Blog",
@@ -76,20 +90,6 @@
         "url": "https://stackoverflow.blog/2026/09/28/is-your-human-in-the-loop-actually-slowing-you-down-here-s-what-we-learned/"
       },
       {
-        "date": "28 Eyl",
-        "source": "Product Hunt",
-        "title": "Timeless Code",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/timeos"
-      },
-      {
-        "date": "28 Eyl",
-        "source": "Product Hunt",
-        "title": "Codex Remote",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/codex-remote"
-      },
-      {
         "date": "27 Eyl",
         "source": "Simon Willison",
         "title": "S3 Is the Future, S3 Is the Past",
@@ -105,6 +105,34 @@
       }
     ],
     "arac": [
+      {
+        "date": "30 Eyl",
+        "source": "TechCrunch",
+        "title": "Instinct’s new product recommendations are giving some users the ick",
+        "desc": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+        "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "TechCrunch",
+        "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+        "desc": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
+        "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "WhatsApp adds new parental controls for teen accounts",
+        "desc": "Parents can limit how teens use channels, whose Status they can see, who can see their Status updates, and control who can add teens to groups.",
+        "url": "https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "TechCrunch Apps",
+        "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
+        "desc": "Tinder has been pushing users toward more real-world experiences for some time.",
+        "url": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/"
+      },
       {
         "date": "30 Eyl",
         "source": "Product Hunt",
@@ -125,34 +153,6 @@
         "title": "Cyluma",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/cyluma"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "Product Hunt",
-        "title": "Bevell",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/bevell"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "Product Hunt",
-        "title": "Campfire",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/campfire-12"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "Product Hunt",
-        "title": "CoIsland",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/coisland"
-      },
-      {
-        "date": "29 Eyl",
-        "source": "Product Hunt",
-        "title": "Upsolve Data Models",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/upsolve-ai"
       }
     ]
   }
