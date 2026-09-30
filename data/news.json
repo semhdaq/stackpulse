@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-09-30T02:37:27.068Z",
+  "generated_at": "2026-09-30T11:27:13.877Z",
   "generated_at_tr": "30 Eyl 2026",
   "categories": {
     "ai": [
+      {
+        "date": "30 Eyl",
+        "source": "MIT Tech Review",
+        "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+        "desc": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures ab",
+        "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
+      },
       {
         "date": "30 Eyl",
         "source": "The Verge",
@@ -44,13 +51,6 @@
         "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
         "desc": "Elon Musk | Image: Laura Normand / The Verge\t\n\nGrokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles",
         "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
-      },
-      {
-        "date": "29 Eyl",
-        "source": "TechCrunch",
-        "title": "OpenAI’s latest features take direct aim at the app store model",
-        "desc": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-        "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
       }
     ],
     "kod": [
@@ -106,53 +106,53 @@
     ],
     "arac": [
       {
-        "date": "29 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "Fireflies adds dictation to its desktop notetaking apps",
-        "desc": "Fireflies said that it won't charge extra for the new dictation feature, which can be used with any desktop app.",
-        "url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/"
+        "date": "30 Eyl",
+        "source": "Product Hunt",
+        "title": "CrawlRaven MCP",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/crawlraven-mcp"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "Product Hunt",
+        "title": "jambuild",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/jambuild"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "Product Hunt",
+        "title": "Cyluma",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/cyluma"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "Product Hunt",
+        "title": "Bevell",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/bevell"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "Product Hunt",
+        "title": "Campfire",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/campfire-12"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "Product Hunt",
+        "title": "CoIsland",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/coisland"
       },
       {
         "date": "29 Eyl",
         "source": "Product Hunt",
-        "title": "Supertake",
+        "title": "Upsolve Data Models",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/supertake"
-      },
-      {
-        "date": "29 Eyl",
-        "source": "TechCrunch",
-        "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-        "desc": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-        "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
-      },
-      {
-        "date": "28 Eyl",
-        "source": "Product Hunt",
-        "title": "ShipHappens:",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/ship-happens-automate-asc-localization"
-      },
-      {
-        "date": "28 Eyl",
-        "source": "MIT Tech Review",
-        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-        "desc": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border cross",
-        "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
-      },
-      {
-        "date": "28 Eyl",
-        "source": "GitHub Blog",
-        "title": "Highlights from Git 2.56",
-        "desc": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time.\nThe post Highlights from Git 2.56 appeared first on The GitHub Bl",
-        "url": "https://github.blog/open-source/git/highlights-from-git-2-56/"
-      },
-      {
-        "date": "28 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
-        "desc": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
-        "url": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/"
+        "url": "https://www.producthunt.com/products/upsolve-ai"
       }
     ]
   }
