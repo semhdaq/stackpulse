@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-01T02:41:08.714Z",
+  "generated_at": "2026-10-01T11:54:53.875Z",
   "generated_at_tr": "1 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "1 Eki",
+        "source": "MIT Tech Review",
+        "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
+        "desc": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’r",
+        "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
+      },
+      {
+        "date": "1 Eki",
+        "source": "MIT Tech Review",
+        "title": "How smaller, distributed batteries could help the grid",
+        "desc": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstac",
+        "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/"
+      },
+      {
+        "date": "1 Eki",
+        "source": "Simon Willison",
+        "title": "Quoting Matthew Green",
+        "desc": "<blockquote cite=\"https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/\"><p>[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks th",
+        "url": "https://simonwillison.net/2026/Oct/1/matthew-green/"
+      },
       {
         "date": "1 Eki",
         "source": "The Verge",
@@ -30,27 +51,6 @@
         "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
         "desc": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work lik",
         "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "TechCrunch",
-        "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-        "desc": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
-        "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "TechCrunch",
-        "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-        "desc": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-        "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "The Verge",
-        "title": "The AI Tamagotchis are coming",
-        "desc": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge\t\n\nWhile AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices"
       }
     ],
     "kod": [
@@ -107,6 +107,41 @@
     "arac": [
       {
         "date": "30 Eyl",
+        "source": "Product Hunt",
+        "title": "rhun",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/rhun"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "Product Hunt",
+        "title": "statusbar",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/statusbar"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "Product Hunt",
+        "title": "UTTER IN",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/utter-in"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "Product Hunt",
+        "title": "Stardrift for iOS",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/stardrift-for-ios"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "Product Hunt",
+        "title": "Helo",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/helo-2"
+      },
+      {
+        "date": "30 Eyl",
         "source": "TechCrunch",
         "title": "Instinct’s new product recommendations are giving some users the ick",
         "desc": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
@@ -118,41 +153,6 @@
         "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
         "desc": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
         "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "WhatsApp adds new parental controls for teen accounts",
-        "desc": "Parents can limit how teens use channels, whose Status they can see, who can see their Status updates, and control who can add teens to groups.",
-        "url": "https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "TechCrunch Apps",
-        "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
-        "desc": "Tinder has been pushing users toward more real-world experiences for some time.",
-        "url": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "Product Hunt",
-        "title": "CrawlRaven MCP",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/crawlraven-mcp"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "Product Hunt",
-        "title": "jambuild",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/jambuild"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "Product Hunt",
-        "title": "Cyluma",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/cyluma"
       }
     ]
   }
