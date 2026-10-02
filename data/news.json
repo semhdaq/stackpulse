@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-10-02T16:53:55.423Z",
+  "generated_at": "2026-10-02T21:29:28.153Z",
   "generated_at_tr": "2 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "2 Eki",
-        "source": "MIT Tech Review",
-        "title": "Redefining enterprise intelligence with autonomous AI",
-        "desc": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI in",
-        "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
+        "source": "TechCrunch",
+        "title": "Sean Parker is rebuilding Stability AI around music",
+        "desc": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+        "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
+      },
+      {
+        "date": "2 Eki",
+        "source": "The Verge",
+        "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+        "desc": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users w",
+        "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
       },
       {
         "date": "2 Eki",
         "source": "TechCrunch",
-        "title": "Pope Leo XIV is not a fan of AI-generated art",
-        "desc": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms l",
-        "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
+        "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+        "desc": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+        "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
       },
       {
         "date": "2 Eki",
         "source": "TechCrunch",
-        "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-        "desc": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-        "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/"
+        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "desc": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
       },
       {
         "date": "2 Eki",
-        "source": "GitHub Blog",
-        "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-        "desc": "Learn three ways to get noticed and grow your career as AI reshapes how developers build software.\nThe post AI is rewriting the developer career ladder. Here’s how to stand out. appeared first on The GitHub Blog.",
-        "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/"
-      },
-      {
-        "date": "2 Eki",
-        "source": "TechCrunch",
-        "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-        "desc": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-        "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/"
+        "source": "The Verge",
+        "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+        "desc": "New helpful little guy just dropped. | Photo: Allison Johnson / The Verge\t\n\nIt's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. \nBut unlike the ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
       },
       {
         "date": "2 Eki",
         "source": "TechCrunch",
-        "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-        "desc": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies,",
-        "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/"
+        "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+        "desc": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.",
+        "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/"
       },
       {
         "date": "2 Eki",
-        "source": "MIT Tech Review",
-        "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —J",
-        "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
+        "source": "TechCrunch",
+        "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+        "desc": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.",
+        "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/"
       }
     ],
     "kod": [
@@ -83,13 +83,6 @@
         "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/"
       },
       {
-        "date": "1 Eki",
-        "source": "The Verge",
-        "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-        "desc": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. \nThe idea was to build the world’s biggest data center — a 40,000-acre",
-        "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash"
-      },
-      {
         "date": "30 Eyl",
         "source": "Simon Willison",
         "title": "He Built This City",
@@ -102,6 +95,13 @@
         "title": "Anyone can start building verified knowledge with Stack Internal",
         "desc": "Stack Internal transforms your daily work into a living memory that’s shared with the rest of your team. Now anyone can create and share their knowledge in a Stack Internal workspace for free by visiting stackinternal.co",
         "url": "https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "Stack Overflow Blog",
+        "title": "Getting ready for 2026 results: A look back on Developer Survey findings",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/"
       }
     ],
     "arac": [
