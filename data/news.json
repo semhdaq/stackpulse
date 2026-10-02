@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-10-02T02:45:31.834Z",
+  "generated_at": "2026-10-02T11:26:53.685Z",
   "generated_at_tr": "2 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "2 Eki",
+        "source": "The Verge",
+        "title": "AI music maker Suno now generates spoken words",
+        "desc": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platfo",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
+      },
+      {
+        "date": "2 Eki",
+        "source": "MIT Tech Review",
+        "title": "A new contest pits competitors against each other in a race to biological youth",
+        "desc": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. ",
+        "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/"
+      },
+      {
+        "date": "2 Eki",
+        "source": "MIT Tech Review",
+        "title": "Don’t be fooled—LLMs don’t reason",
+        "desc": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked s",
+        "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
+      },
+      {
+        "date": "2 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "Constraints that make developers faster",
+        "desc": "Ryan chats with Julien Verlaguet, CEO at Skip Labs, about finding the balance between human tolerance and tooling constraints, the spectrum of typed programming languages, and building cost-effective tooling for AI agent",
+        "url": "https://stackoverflow.blog/2026/10/02/constraints-that-make-developers-faster/"
+      },
       {
         "date": "1 Eki",
         "source": "TechCrunch",
@@ -23,37 +51,16 @@
         "title": "ChatGPT can now virtually try on clothes for you",
         "desc": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
         "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
-      },
-      {
-        "date": "1 Eki",
-        "source": "TechCrunch",
-        "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-        "desc": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-        "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
-      },
-      {
-        "date": "1 Eki",
-        "source": "TechCrunch",
-        "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-        "desc": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
-        "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"
-      },
-      {
-        "date": "1 Eki",
-        "source": "The Verge",
-        "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-        "desc": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, a",
-        "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"
-      },
-      {
-        "date": "1 Eki",
-        "source": "TechCrunch",
-        "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-        "desc": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-        "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/"
       }
     ],
     "kod": [
+      {
+        "date": "1 Eki",
+        "source": "Product Hunt",
+        "title": "CodeAF",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/codeaf"
+      },
       {
         "date": "1 Eki",
         "source": "TechCrunch",
@@ -95,16 +102,37 @@
         "title": "Getting ready for 2026 results: A look back on Developer Survey findings",
         "desc": "",
         "url": "https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/"
-      },
-      {
-        "date": "29 Eyl",
-        "source": "GitHub Blog",
-        "title": "Developer policy update: Transparency, state policy, and what’s ahead",
-        "desc": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source.\nThe post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The Git",
-        "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/"
       }
     ],
     "arac": [
+      {
+        "date": "2 Eki",
+        "source": "Product Hunt",
+        "title": "Codync",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/codync"
+      },
+      {
+        "date": "2 Eki",
+        "source": "Product Hunt",
+        "title": "Earlyn",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/earlyn"
+      },
+      {
+        "date": "1 Eki",
+        "source": "Product Hunt",
+        "title": "GitSync",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/gitsync"
+      },
+      {
+        "date": "1 Eki",
+        "source": "Product Hunt",
+        "title": "Clef",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/cloudflare-clef"
+      },
       {
         "date": "1 Eki",
         "source": "TechCrunch",
@@ -113,46 +141,18 @@
         "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
       },
       {
-        "date": "30 Eyl",
+        "date": "1 Eki",
         "source": "Product Hunt",
-        "title": "rhun",
+        "title": "ShipHQ",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/rhun"
+        "url": "https://www.producthunt.com/products/shiphq"
       },
       {
-        "date": "30 Eyl",
+        "date": "1 Eki",
         "source": "Product Hunt",
-        "title": "statusbar",
+        "title": "Finbar",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/statusbar"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "Product Hunt",
-        "title": "UTTER IN",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/utter-in"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "Product Hunt",
-        "title": "Stardrift for iOS",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/stardrift-for-ios"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "Product Hunt",
-        "title": "Helo",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/helo-2"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "Product Hunt",
-        "title": "Vorker",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/vorker-ai"
+        "url": "https://www.producthunt.com/products/finbar-2"
       }
     ]
   }
