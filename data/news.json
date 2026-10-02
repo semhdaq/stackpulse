@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-10-02T11:26:53.685Z",
+  "generated_at": "2026-10-02T16:53:55.423Z",
   "generated_at_tr": "2 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "2 Eki",
-        "source": "The Verge",
-        "title": "AI music maker Suno now generates spoken words",
-        "desc": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platfo",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
+        "source": "MIT Tech Review",
+        "title": "Redefining enterprise intelligence with autonomous AI",
+        "desc": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI in",
+        "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
+      },
+      {
+        "date": "2 Eki",
+        "source": "TechCrunch",
+        "title": "Pope Leo XIV is not a fan of AI-generated art",
+        "desc": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms l",
+        "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
+      },
+      {
+        "date": "2 Eki",
+        "source": "TechCrunch",
+        "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+        "desc": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+        "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/"
+      },
+      {
+        "date": "2 Eki",
+        "source": "GitHub Blog",
+        "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+        "desc": "Learn three ways to get noticed and grow your career as AI reshapes how developers build software.\nThe post AI is rewriting the developer career ladder. Here’s how to stand out. appeared first on The GitHub Blog.",
+        "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/"
+      },
+      {
+        "date": "2 Eki",
+        "source": "TechCrunch",
+        "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+        "desc": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+        "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/"
+      },
+      {
+        "date": "2 Eki",
+        "source": "TechCrunch",
+        "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+        "desc": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies,",
+        "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/"
       },
       {
         "date": "2 Eki",
         "source": "MIT Tech Review",
-        "title": "A new contest pits competitors against each other in a race to biological youth",
-        "desc": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. ",
-        "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/"
-      },
-      {
-        "date": "2 Eki",
-        "source": "MIT Tech Review",
-        "title": "Don’t be fooled—LLMs don’t reason",
-        "desc": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked s",
-        "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
-      },
-      {
-        "date": "2 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Constraints that make developers faster",
-        "desc": "Ryan chats with Julien Verlaguet, CEO at Skip Labs, about finding the balance between human tolerance and tooling constraints, the spectrum of typed programming languages, and building cost-effective tooling for AI agent",
-        "url": "https://stackoverflow.blog/2026/10/02/constraints-that-make-developers-faster/"
-      },
-      {
-        "date": "1 Eki",
-        "source": "TechCrunch",
-        "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-        "desc": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-        "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/"
-      },
-      {
-        "date": "1 Eki",
-        "source": "The Verge",
-        "title": "Google’s new Guided Vision feature can help you read the fine print",
-        "desc": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can ha",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
-      },
-      {
-        "date": "1 Eki",
-        "source": "TechCrunch",
-        "title": "ChatGPT can now virtually try on clothes for you",
-        "desc": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-        "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
+        "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —J",
+        "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
       }
     ],
     "kod": [
+      {
+        "date": "2 Eki",
+        "source": "TechCrunch Apps",
+        "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
+        "desc": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
+        "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/"
+      },
       {
         "date": "1 Eki",
         "source": "Product Hunt",
@@ -95,13 +102,6 @@
         "title": "Anyone can start building verified knowledge with Stack Internal",
         "desc": "Stack Internal transforms your daily work into a living memory that’s shared with the rest of your team. Now anyone can create and share their knowledge in a Stack Internal workspace for free by visiting stackinternal.co",
         "url": "https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "Stack Overflow Blog",
-        "title": "Getting ready for 2026 results: A look back on Developer Survey findings",
-        "desc": "",
-        "url": "https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/"
       }
     ],
     "arac": [
