@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T02:31:42.135Z",
+  "generated_at": "2026-10-03T10:43:01.519Z",
   "generated_at_tr": "3 Eki 2026",
   "categories": {
     "ai": [
@@ -106,6 +106,41 @@
     ],
     "arac": [
       {
+        "date": "3 Eki",
+        "source": "Product Hunt",
+        "title": "Sapien",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/sapien-4"
+      },
+      {
+        "date": "3 Eki",
+        "source": "Product Hunt",
+        "title": "Muse Gadgets",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/muse-22"
+      },
+      {
+        "date": "2 Eki",
+        "source": "Product Hunt",
+        "title": "Yubi",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/yubi-2"
+      },
+      {
+        "date": "2 Eki",
+        "source": "Product Hunt",
+        "title": "Kindle 2026",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/kindle-2026"
+      },
+      {
+        "date": "2 Eki",
+        "source": "Product Hunt",
+        "title": "eu/jev",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/bevel-software"
+      },
+      {
         "date": "2 Eki",
         "source": "Product Hunt",
         "title": "Codync",
@@ -118,41 +153,6 @@
         "title": "Earlyn",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/earlyn"
-      },
-      {
-        "date": "1 Eki",
-        "source": "Product Hunt",
-        "title": "GitSync",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/gitsync"
-      },
-      {
-        "date": "1 Eki",
-        "source": "Product Hunt",
-        "title": "Clef",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/cloudflare-clef"
-      },
-      {
-        "date": "1 Eki",
-        "source": "TechCrunch",
-        "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-        "desc": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-        "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
-      },
-      {
-        "date": "1 Eki",
-        "source": "Product Hunt",
-        "title": "ShipHQ",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/shiphq"
-      },
-      {
-        "date": "1 Eki",
-        "source": "Product Hunt",
-        "title": "Finbar",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/finbar-2"
       }
     ]
   }
