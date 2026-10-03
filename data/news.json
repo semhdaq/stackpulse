@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-10-03T10:43:01.519Z",
+  "generated_at": "2026-10-03T15:19:10.852Z",
   "generated_at_tr": "3 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "3 Eki",
+        "source": "TechCrunch",
+        "title": "All the AI agents that can live in your text messages",
+        "desc": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
+      },
       {
         "date": "2 Eki",
         "source": "TechCrunch",
@@ -44,13 +51,6 @@
         "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
         "desc": "New helpful little guy just dropped. | Photo: Allison Johnson / The Verge\t\n\nIt's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. \nBut unlike the ",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
-      },
-      {
-        "date": "2 Eki",
-        "source": "TechCrunch",
-        "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-        "desc": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.",
-        "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/"
       }
     ],
     "kod": [
@@ -107,6 +107,13 @@
     "arac": [
       {
         "date": "3 Eki",
+        "source": "TechCrunch Apps",
+        "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+        "desc": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+        "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/"
+      },
+      {
+        "date": "3 Eki",
         "source": "Product Hunt",
         "title": "Sapien",
         "desc": "Discussion\n            |\n            Link",
@@ -146,13 +153,6 @@
         "title": "Codync",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/codync"
-      },
-      {
-        "date": "2 Eki",
-        "source": "Product Hunt",
-        "title": "Earlyn",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/earlyn"
       }
     ]
   }
