@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T21:29:28.153Z",
-  "generated_at_tr": "2 Eki 2026",
+  "generated_at": "2026-10-03T02:31:42.135Z",
+  "generated_at_tr": "3 Eki 2026",
   "categories": {
     "ai": [
       {
@@ -9,6 +9,13 @@
         "title": "Sean Parker is rebuilding Stability AI around music",
         "desc": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
         "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
+      },
+      {
+        "date": "2 Eki",
+        "source": "The Verge",
+        "title": "Meta open sources code to let you make Muse AI gadgets",
+        "desc": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, ad",
+        "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
       },
       {
         "date": "2 Eki",
@@ -44,16 +51,16 @@
         "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
         "desc": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.",
         "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/"
-      },
-      {
-        "date": "2 Eki",
-        "source": "TechCrunch",
-        "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-        "desc": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.",
-        "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/"
       }
     ],
     "kod": [
+      {
+        "date": "3 Eki",
+        "source": "TechCrunch",
+        "title": "Meta wants your next gadget to be Muse-infused",
+        "desc": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+        "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
+      },
       {
         "date": "2 Eki",
         "source": "TechCrunch Apps",
@@ -95,13 +102,6 @@
         "title": "Anyone can start building verified knowledge with Stack Internal",
         "desc": "Stack Internal transforms your daily work into a living memory that’s shared with the rest of your team. Now anyone can create and share their knowledge in a Stack Internal workspace for free by visiting stackinternal.co",
         "url": "https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "Stack Overflow Blog",
-        "title": "Getting ready for 2026 results: A look back on Developer Survey findings",
-        "desc": "",
-        "url": "https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/"
       }
     ],
     "arac": [
