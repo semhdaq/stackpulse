@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-10-03T15:19:10.852Z",
+  "generated_at": "2026-10-03T20:17:42.077Z",
   "generated_at_tr": "3 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "3 Eki",
+        "source": "The Verge",
+        "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+        "desc": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouth",
+        "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
+      },
+      {
+        "date": "3 Eki",
+        "source": "TechCrunch",
+        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+        "desc": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+        "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+      },
+      {
+        "date": "3 Eki",
+        "source": "The Verge",
+        "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+        "desc": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espr",
+        "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"
+      },
+      {
+        "date": "3 Eki",
+        "source": "The Verge",
+        "title": "An OpenAI safety employee has quit and is sounding the alarm",
+        "desc": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic.\nIt's understandable ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
+      },
       {
         "date": "3 Eki",
         "source": "TechCrunch",
@@ -23,37 +51,16 @@
         "title": "Meta open sources code to let you make Muse AI gadgets",
         "desc": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, ad",
         "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
-      },
-      {
-        "date": "2 Eki",
-        "source": "The Verge",
-        "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-        "desc": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users w",
-        "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
-      },
-      {
-        "date": "2 Eki",
-        "source": "TechCrunch",
-        "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-        "desc": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-        "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
-      },
-      {
-        "date": "2 Eki",
-        "source": "TechCrunch",
-        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-        "desc": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
-      },
-      {
-        "date": "2 Eki",
-        "source": "The Verge",
-        "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-        "desc": "New helpful little guy just dropped. | Photo: Allison Johnson / The Verge\t\n\nIt's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. \nBut unlike the ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
       }
     ],
     "kod": [
+      {
+        "date": "3 Eki",
+        "source": "TechCrunch",
+        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "desc": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+        "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+      },
       {
         "date": "3 Eki",
         "source": "TechCrunch",
@@ -63,17 +70,17 @@
       },
       {
         "date": "2 Eki",
+        "source": "Simon Willison",
+        "title": "Rex's Dino Store",
+        "desc": "<p><strong>Museum:</strong> <a href=\"https://www.niche-museums.com/119\">Rex&#x27;s Dino Store</a></p>\n        <p>Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Pr",
+        "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/"
+      },
+      {
+        "date": "2 Eki",
         "source": "TechCrunch Apps",
         "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
         "desc": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
         "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/"
-      },
-      {
-        "date": "1 Eki",
-        "source": "Product Hunt",
-        "title": "CodeAF",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/codeaf"
       },
       {
         "date": "1 Eki",
@@ -95,13 +102,6 @@
         "title": "He Built This City",
         "desc": "<p>I visited the Museum of the City of New York today and got to see <a href=\"https://www.mcny.org/exhibition/he-built-city\">He Built This City: Joe Macken’s Model</a>, the 50 x27 feet model of the city built over a 21 y",
         "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "Stack Overflow Blog",
-        "title": "Anyone can start building verified knowledge with Stack Internal",
-        "desc": "Stack Internal transforms your daily work into a living memory that’s shared with the rest of your team. Now anyone can create and share their knowledge in a Stack Internal workspace for free by visiting stackinternal.co",
-        "url": "https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/"
       }
     ],
     "arac": [
