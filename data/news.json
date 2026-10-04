@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-10-04T11:24:05.040Z",
+  "generated_at": "2026-10-04T16:02:24.587Z",
   "generated_at_tr": "4 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "4 Eki",
+        "source": "The Verge",
+        "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+        "desc": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they could",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"
+      },
+      {
+        "date": "4 Eki",
+        "source": "TechCrunch",
+        "title": "Trump unveils his new Super Intelligence Force",
+        "desc": "This new task force is Trump's latest response to the debate over AI safety.",
+        "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
+      },
       {
         "date": "3 Eki",
         "source": "The Verge",
@@ -37,20 +51,6 @@
         "title": "All the AI agents that can live in your text messages",
         "desc": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
         "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
-      },
-      {
-        "date": "2 Eki",
-        "source": "TechCrunch",
-        "title": "Sean Parker is rebuilding Stability AI around music",
-        "desc": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-        "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
-      },
-      {
-        "date": "2 Eki",
-        "source": "The Verge",
-        "title": "Meta open sources code to let you make Muse AI gadgets",
-        "desc": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, ad",
-        "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
       }
     ],
     "kod": [
@@ -91,17 +91,17 @@
       },
       {
         "date": "1 Eki",
-        "source": "TechCrunch",
-        "title": "Amazon releases its own Jev clone as decision models flood the web",
-        "desc": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-        "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/"
-      },
-      {
-        "date": "1 Eki",
         "source": "GitHub Blog",
         "title": "10 technical talks I’m excited about at GitHub Universe 2026",
         "desc": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around.\nThe post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitH",
         "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/"
+      },
+      {
+        "date": "30 Eyl",
+        "source": "Simon Willison",
+        "title": "He Built This City",
+        "desc": "<p>I visited the Museum of the City of New York today and got to see <a href=\"https://www.mcny.org/exhibition/he-built-city\">He Built This City: Joe Macken’s Model</a>, the 50 x27 feet model of the city built over a 21 y",
+        "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/"
       }
     ],
     "arac": [
