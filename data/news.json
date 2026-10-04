@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-04T16:02:24.587Z",
+  "generated_at": "2026-10-04T20:32:44.364Z",
   "generated_at_tr": "4 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "4 Eki",
+        "source": "TechCrunch",
+        "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+        "desc": "AI slop seems to be overwhelming bug bounty programs.",
+        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+      },
+      {
+        "date": "4 Eki",
+        "source": "TechCrunch",
+        "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+        "desc": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+        "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
+      },
+      {
+        "date": "4 Eki",
+        "source": "The Verge",
+        "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+        "desc": "Well, if AI said it, it must be true. | Bloomberg via Getty Images\t\n\nNew Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer a",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true"
+      },
       {
         "date": "4 Eki",
         "source": "The Verge",
@@ -30,27 +51,6 @@
         "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
         "desc": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
         "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
-      },
-      {
-        "date": "3 Eki",
-        "source": "The Verge",
-        "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-        "desc": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espr",
-        "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"
-      },
-      {
-        "date": "3 Eki",
-        "source": "The Verge",
-        "title": "An OpenAI safety employee has quit and is sounding the alarm",
-        "desc": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic.\nIt's understandable ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
-      },
-      {
-        "date": "3 Eki",
-        "source": "TechCrunch",
-        "title": "All the AI agents that can live in your text messages",
-        "desc": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-        "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
       }
     ],
     "kod": [
