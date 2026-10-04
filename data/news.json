@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T03:02:40.736Z",
+  "generated_at": "2026-10-04T11:24:05.040Z",
   "generated_at_tr": "4 Eki 2026",
   "categories": {
     "ai": [
@@ -91,20 +91,34 @@
       },
       {
         "date": "1 Eki",
-        "source": "Product Hunt",
-        "title": "CodeAF",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/codeaf"
-      },
-      {
-        "date": "1 Eki",
         "source": "TechCrunch",
         "title": "Amazon releases its own Jev clone as decision models flood the web",
         "desc": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
         "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/"
+      },
+      {
+        "date": "1 Eki",
+        "source": "GitHub Blog",
+        "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+        "desc": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around.\nThe post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitH",
+        "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/"
       }
     ],
     "arac": [
+      {
+        "date": "4 Eki",
+        "source": "Product Hunt",
+        "title": "Poddle",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/poddle-3"
+      },
+      {
+        "date": "3 Eki",
+        "source": "Product Hunt",
+        "title": "Sellio",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/sellio-2"
+      },
       {
         "date": "3 Eki",
         "source": "Simon Willison",
@@ -114,45 +128,31 @@
       },
       {
         "date": "3 Eki",
-        "source": "TechCrunch Apps",
-        "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-        "desc": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-        "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/"
+        "source": "Product Hunt",
+        "title": "LaunchReel",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/launchreel-2"
       },
       {
         "date": "3 Eki",
         "source": "Product Hunt",
-        "title": "Sapien",
+        "title": "Capybara Court",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/sapien-4"
+        "url": "https://www.producthunt.com/products/capybara-court"
       },
       {
         "date": "3 Eki",
         "source": "Product Hunt",
-        "title": "Muse Gadgets",
+        "title": "Aperture",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/muse-22"
+        "url": "https://www.producthunt.com/products/aperture-7"
       },
       {
-        "date": "2 Eki",
+        "date": "3 Eki",
         "source": "Product Hunt",
-        "title": "Reassign",
+        "title": "NotchMate",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/reassign"
-      },
-      {
-        "date": "2 Eki",
-        "source": "Product Hunt",
-        "title": "Yubi",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/yubi-2"
-      },
-      {
-        "date": "2 Eki",
-        "source": "Product Hunt",
-        "title": "Kindle 2026",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/kindle-2026"
+        "url": "https://www.producthunt.com/products/notchmate"
       }
     ]
   }
