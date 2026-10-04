@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T20:17:42.077Z",
-  "generated_at_tr": "3 Eki 2026",
+  "generated_at": "2026-10-04T03:02:40.736Z",
+  "generated_at_tr": "4 Eki 2026",
   "categories": {
     "ai": [
       {
@@ -56,6 +56,13 @@
     "kod": [
       {
         "date": "3 Eki",
+        "source": "Simon Willison",
+        "title": "September sponsors-only newsletter",
+        "desc": "<p>I just sent the September edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a>. If you are a sponsor (or start a sponsorship now) you can <a href=\"https://github.com/simonw-",
+        "url": "https://simonwillison.net/2026/Oct/3/newsletter/"
+      },
+      {
+        "date": "3 Eki",
         "source": "TechCrunch",
         "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
         "desc": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
@@ -84,27 +91,27 @@
       },
       {
         "date": "1 Eki",
+        "source": "Product Hunt",
+        "title": "CodeAF",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/codeaf"
+      },
+      {
+        "date": "1 Eki",
         "source": "TechCrunch",
         "title": "Amazon releases its own Jev clone as decision models flood the web",
         "desc": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
         "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/"
-      },
-      {
-        "date": "1 Eki",
-        "source": "GitHub Blog",
-        "title": "10 technical talks I’m excited about at GitHub Universe 2026",
-        "desc": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around.\nThe post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitH",
-        "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "Simon Willison",
-        "title": "He Built This City",
-        "desc": "<p>I visited the Museum of the City of New York today and got to see <a href=\"https://www.mcny.org/exhibition/he-built-city\">He Built This City: Joe Macken’s Model</a>, the 50 x27 feet model of the city built over a 21 y",
-        "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/"
       }
     ],
     "arac": [
+      {
+        "date": "3 Eki",
+        "source": "Simon Willison",
+        "title": "We're going to need default hard budget caps on pretty much everything",
+        "desc": "<p>Here's a product feature which the world is going to need a whole lot more of over the coming months and years: <strong>default hard budget caps</strong>. I'm talking about the feature of pay-by-usage services and API",
+        "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+      },
       {
         "date": "3 Eki",
         "source": "TechCrunch Apps",
@@ -129,6 +136,13 @@
       {
         "date": "2 Eki",
         "source": "Product Hunt",
+        "title": "Reassign",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/reassign"
+      },
+      {
+        "date": "2 Eki",
+        "source": "Product Hunt",
         "title": "Yubi",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/yubi-2"
@@ -139,20 +153,6 @@
         "title": "Kindle 2026",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/kindle-2026"
-      },
-      {
-        "date": "2 Eki",
-        "source": "Product Hunt",
-        "title": "eu/jev",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/bevel-software"
-      },
-      {
-        "date": "2 Eki",
-        "source": "Product Hunt",
-        "title": "Codync",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/codync"
       }
     ]
   }
