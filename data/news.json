@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-10-05T02:36:18.906Z",
+  "generated_at": "2026-10-05T12:49:02.368Z",
   "generated_at_tr": "5 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "5 Eki",
+        "source": "MIT Tech Review",
+        "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the",
+        "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/"
+      },
+      {
+        "date": "5 Eki",
+        "source": "TechCrunch",
+        "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
+        "desc": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+        "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/"
+      },
+      {
+        "date": "5 Eki",
+        "source": "The Verge",
+        "title": "Our minds aren’t equipped to handle AI",
+        "desc": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought"
+      },
+      {
+        "date": "5 Eki",
+        "source": "MIT Tech Review",
+        "title": "People really hate AI, so why can’t they get enough?",
+        "desc": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’",
+        "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
+      },
+      {
+        "date": "5 Eki",
+        "source": "MIT Tech Review",
+        "title": "EmTech Future 2026: When AI Meets Everything",
+        "desc": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fiel",
+        "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/"
+      },
       {
         "date": "4 Eki",
         "source": "TechCrunch",
@@ -16,44 +51,16 @@
         "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
         "desc": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
         "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
-      },
-      {
-        "date": "4 Eki",
-        "source": "The Verge",
-        "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-        "desc": "Well, if AI said it, it must be true. | Bloomberg via Getty Images\t\n\nNew Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer a",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true"
-      },
-      {
-        "date": "4 Eki",
-        "source": "The Verge",
-        "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-        "desc": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they could",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"
-      },
-      {
-        "date": "4 Eki",
-        "source": "TechCrunch",
-        "title": "Trump unveils his new Super Intelligence Force",
-        "desc": "This new task force is Trump's latest response to the debate over AI safety.",
-        "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
-      },
-      {
-        "date": "3 Eki",
-        "source": "The Verge",
-        "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-        "desc": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouth",
-        "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
-      },
-      {
-        "date": "3 Eki",
-        "source": "TechCrunch",
-        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-        "desc": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-        "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
       }
     ],
     "kod": [
+      {
+        "date": "4 Eki",
+        "source": "Product Hunt",
+        "title": "Web Search API",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/cloudflare"
+      },
       {
         "date": "3 Eki",
         "source": "Simon Willison",
@@ -95,64 +102,57 @@
         "title": "10 technical talks I’m excited about at GitHub Universe 2026",
         "desc": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around.\nThe post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitH",
         "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/"
-      },
-      {
-        "date": "30 Eyl",
-        "source": "Simon Willison",
-        "title": "He Built This City",
-        "desc": "<p>I visited the Museum of the City of New York today and got to see <a href=\"https://www.mcny.org/exhibition/he-built-city\">He Built This City: Joe Macken’s Model</a>, the 50 x27 feet model of the city built over a 21 y",
-        "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/"
       }
     ],
     "arac": [
       {
+        "date": "5 Eki",
+        "source": "Product Hunt",
+        "title": "HyperFrames Studio (Desktop)",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/heygen"
+      },
+      {
+        "date": "5 Eki",
+        "source": "Product Hunt",
+        "title": "crosswalk",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/crosswalk"
+      },
+      {
+        "date": "5 Eki",
+        "source": "Product Hunt",
+        "title": "Jarq",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/jarq"
+      },
+      {
+        "date": "5 Eki",
+        "source": "Product Hunt",
+        "title": "Spira Maxima",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/spira-ai"
+      },
+      {
+        "date": "5 Eki",
+        "source": "Product Hunt",
+        "title": "Marv",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/marv-3"
+      },
+      {
         "date": "4 Eki",
         "source": "Product Hunt",
-        "title": "Poddle",
+        "title": "Pilot5 Legal",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/poddle-3"
+        "url": "https://www.producthunt.com/products/pilot5-ai"
       },
       {
-        "date": "3 Eki",
+        "date": "4 Eki",
         "source": "Product Hunt",
-        "title": "Sellio",
+        "title": "Reason",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/sellio-2"
-      },
-      {
-        "date": "3 Eki",
-        "source": "Simon Willison",
-        "title": "We're going to need default hard budget caps on pretty much everything",
-        "desc": "<p>Here's a product feature which the world is going to need a whole lot more of over the coming months and years: <strong>default hard budget caps</strong>. I'm talking about the feature of pay-by-usage services and API",
-        "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
-      },
-      {
-        "date": "3 Eki",
-        "source": "Product Hunt",
-        "title": "LaunchReel",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/launchreel-2"
-      },
-      {
-        "date": "3 Eki",
-        "source": "Product Hunt",
-        "title": "Capybara Court",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/capybara-court"
-      },
-      {
-        "date": "3 Eki",
-        "source": "Product Hunt",
-        "title": "Aperture",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/aperture-7"
-      },
-      {
-        "date": "3 Eki",
-        "source": "Product Hunt",
-        "title": "NotchMate",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/notchmate"
+        "url": "https://www.producthunt.com/products/dereference-the-100x-ide"
       }
     ]
   }
