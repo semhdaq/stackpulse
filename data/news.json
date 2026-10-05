@@ -1,59 +1,80 @@
 {
-  "generated_at": "2026-10-05T12:49:02.368Z",
+  "generated_at": "2026-10-05T23:24:05.431Z",
   "generated_at_tr": "5 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "5 Eki",
-        "source": "MIT Tech Review",
-        "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the",
-        "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/"
+        "source": "The Verge",
+        "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+        "desc": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK tear",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"
       },
       {
         "date": "5 Eki",
         "source": "TechCrunch",
-        "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
-        "desc": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-        "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/"
+        "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+        "desc": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+        "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
       },
       {
         "date": "5 Eki",
         "source": "The Verge",
-        "title": "Our minds aren’t equipped to handle AI",
-        "desc": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry.",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought"
+        "title": "This startup is issuing AI-generated acne prescriptions",
+        "desc": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze a",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
       },
       {
         "date": "5 Eki",
-        "source": "MIT Tech Review",
-        "title": "People really hate AI, so why can’t they get enough?",
-        "desc": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’",
-        "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
+        "source": "TechCrunch",
+        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+        "desc": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflec",
+        "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
       },
       {
         "date": "5 Eki",
-        "source": "MIT Tech Review",
-        "title": "EmTech Future 2026: When AI Meets Everything",
-        "desc": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fiel",
-        "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/"
+        "source": "The Verge",
+        "title": "All the drama around AI&#8217;s takeover of mathematics",
+        "desc": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution"
       },
       {
-        "date": "4 Eki",
-        "source": "TechCrunch",
-        "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-        "desc": "AI slop seems to be overwhelming bug bounty programs.",
-        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+        "date": "5 Eki",
+        "source": "The Verge",
+        "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+        "desc": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" ",
+        "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
       },
       {
-        "date": "4 Eki",
+        "date": "5 Eki",
         "source": "TechCrunch",
-        "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-        "desc": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-        "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
+        "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+        "desc": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permissio",
+        "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
       }
     ],
     "kod": [
+      {
+        "date": "5 Eki",
+        "source": "TechCrunch",
+        "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+        "desc": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+        "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "date": "5 Eki",
+        "source": "TechCrunch",
+        "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+        "desc": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+        "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
+      },
+      {
+        "date": "4 Eki",
+        "source": "Simon Willison",
+        "title": "Qwen3.8 27B addition in words",
+        "desc": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/qwen38-addition-in-words#readme\">Qwen3.8 27B addition in words</a></p>\n        <p>Colin Frasier <a href=\"https://bsky.app/profile/colin-",
+        "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/"
+      },
       {
         "date": "4 Eki",
         "source": "Product Hunt",
@@ -81,30 +102,23 @@
         "title": "Meta wants your next gadget to be Muse-infused",
         "desc": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
         "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
-      },
-      {
-        "date": "2 Eki",
-        "source": "Simon Willison",
-        "title": "Rex's Dino Store",
-        "desc": "<p><strong>Museum:</strong> <a href=\"https://www.niche-museums.com/119\">Rex&#x27;s Dino Store</a></p>\n        <p>Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Pr",
-        "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/"
-      },
-      {
-        "date": "2 Eki",
-        "source": "TechCrunch Apps",
-        "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
-        "desc": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
-        "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/"
-      },
-      {
-        "date": "1 Eki",
-        "source": "GitHub Blog",
-        "title": "10 technical talks I’m excited about at GitHub Universe 2026",
-        "desc": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around.\nThe post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitH",
-        "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/"
       }
     ],
     "arac": [
+      {
+        "date": "5 Eki",
+        "source": "TechCrunch",
+        "title": "OpenAI launches visual ads that appear alongside image generation results",
+        "desc": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+        "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
+      },
+      {
+        "date": "5 Eki",
+        "source": "The Verge",
+        "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+        "desc": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Int",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool"
+      },
       {
         "date": "5 Eki",
         "source": "Product Hunt",
@@ -139,20 +153,6 @@
         "title": "Marv",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/marv-3"
-      },
-      {
-        "date": "4 Eki",
-        "source": "Product Hunt",
-        "title": "Pilot5 Legal",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/pilot5-ai"
-      },
-      {
-        "date": "4 Eki",
-        "source": "Product Hunt",
-        "title": "Reason",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/dereference-the-100x-ide"
       }
     ]
   }
