@@ -1,110 +1,138 @@
 {
-  "generated_at": "2026-10-06T12:17:58.002Z",
+  "generated_at": "2026-10-06T21:56:11.411Z",
   "generated_at_tr": "6 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "6 Eki",
-        "source": "The Verge",
-        "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
-        "desc": "The Amazon Echo Studio is one of the speakers that runs Alexa Plus. | Photo by John Higgins / The Verge\t\n\nAn unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singi",
-        "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end"
+        "source": "Simon Willison",
+        "title": "llm-mistral 0.16",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-mistral/releases/tag/0.16\">llm-mistral 0.16</a></p>\n        <p>Adds support for reasoning models, such as the newly released <a href=\"https://simonwilli",
+        "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/"
       },
       {
         "date": "6 Eki",
-        "source": "MIT Tech Review",
-        "title": "2026 Climate Tech Companies to Watch",
-        "desc": "",
-        "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/"
+        "source": "GitHub Blog",
+        "title": "Building Git infrastructure for agent-scale development",
+        "desc": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development.\nThe post Building Git infrastructure for agent-scale development appeared first on The ",
+        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/"
       },
       {
         "date": "6 Eki",
-        "source": "MIT Tech Review",
-        "title": "Here’s how our climate team picked 10 promising companies to watch",
-        "desc": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling th",
-        "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/"
+        "source": "TechCrunch Apps",
+        "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+        "desc": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+        "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/"
       },
       {
         "date": "6 Eki",
-        "source": "MIT Tech Review",
-        "title": "WeLion New Energy and its semi-solid-state batteries",
-        "desc": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and dr",
-        "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/"
+        "source": "TechCrunch",
+        "title": "How AI decision models could change content moderation",
+        "desc": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+        "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
       },
       {
         "date": "6 Eki",
-        "source": "MIT Tech Review",
-        "title": "Form Energy and its iron batteries",
-        "desc": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce el",
-        "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/"
+        "source": "TechCrunch",
+        "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+        "desc": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+        "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
       },
       {
         "date": "6 Eki",
-        "source": "MIT Tech Review",
-        "title": "X-energy and its helium-cooled nuclear reactors",
-        "desc": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and c",
-        "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/"
+        "source": "TechCrunch",
+        "title": "The next hurdle for AI agents: getting websites to let them in",
+        "desc": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+        "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
       },
       {
         "date": "6 Eki",
-        "source": "MIT Tech Review",
-        "title": "BasiGo and its fleet of electric buses",
-        "desc": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions. The company’s pay-as-you-drive business model has helped make EVs mo",
-        "url": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/"
+        "source": "TechCrunch",
+        "title": "Hark releases an AI personal assistant with a focus on privacy",
+        "desc": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+        "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/"
       }
     ],
     "kod": [
       {
         "date": "6 Eki",
-        "source": "MIT Tech Review",
-        "title": "Energy Dome and its carbon dioxide batteries",
-        "desc": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up ",
-        "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/"
+        "source": "Simon Willison",
+        "title": "Introducing Mistral Large 4: Le chonk",
+        "desc": "<p><strong><a href=\"https://mistral.ai/news/mistral-large-4/\">Introducing Mistral Large 4: Le chonk</a></strong></p>\nMistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parame",
+        "url": "https://simonwillison.net/2026/Oct/6/le-chonk/"
+      },
+      {
+        "date": "6 Eki",
+        "source": "Simon Willison",
+        "title": "Using Parseable with Datasette for OpenTelemetry traces",
+        "desc": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/datasette/datasette-parseable-opentelemetry\">Using Parseable with Datasette for OpenTelemetry traces</a></p>\n        <p>I <a href=\"https://news.ycombinator.",
+        "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/"
+      },
+      {
+        "date": "6 Eki",
+        "source": "Simon Willison",
+        "title": "Mistral Large 4",
+        "desc": "<p><a href=\"https://news.ycombinator.com/item?id=49977979#49982139\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49977979\">Mistral Large 4</a> &mdash; Hacker News.</p><blockquote>\n<p><a href=\"https://n",
+        "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/"
+      },
+      {
+        "date": "6 Eki",
+        "source": "Simon Willison",
+        "title": "datasette-atom 0.11a0",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-atom/releases/tag/0.11a0\">datasette-atom 0.11a0</a></p>\n        <p>A minor fix for compatibility with the latest Datasette alphas. This meant we c",
+        "url": "https://simonwillison.net/2026/Oct/6/datasette-atom/"
+      },
+      {
+        "date": "6 Eki",
+        "source": "TechCrunch Apps",
+        "title": "India’s JioHotstar takes partnership route for Middle East expansion",
+        "desc": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
+        "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/"
+      },
+      {
+        "date": "6 Eki",
+        "source": "TechCrunch Apps",
+        "title": "Facebook tests going Reels-first in India",
+        "desc": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
+        "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/"
       },
       {
         "date": "6 Eki",
         "source": "MIT Tech Review",
-        "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
-        "desc": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same ",
-        "url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/"
-      },
-      {
-        "date": "5 Eki",
-        "source": "Product Hunt",
-        "title": "CodeCrab",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/codecrab"
-      },
-      {
-        "date": "5 Eki",
-        "source": "TechCrunch",
-        "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-        "desc": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
-        "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "date": "5 Eki",
-        "source": "TechCrunch",
-        "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-        "desc": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-        "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
-      },
-      {
-        "date": "4 Eki",
-        "source": "Simon Willison",
-        "title": "Qwen3.8 27B addition in words",
-        "desc": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/qwen38-addition-in-words#readme\">Qwen3.8 27B addition in words</a></p>\n        <p>Colin Frasier <a href=\"https://bsky.app/profile/colin-",
-        "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/"
-      },
-      {
-        "date": "3 Eki",
-        "source": "Simon Willison",
-        "title": "September sponsors-only newsletter",
-        "desc": "<p>I just sent the September edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a>. If you are a sponsor (or start a sponsorship now) you can <a href=\"https://github.com/simonw-",
-        "url": "https://simonwillison.net/2026/Oct/3/newsletter/"
+        "title": "The Download: 10 climate tech companies to watch",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together ",
+        "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/"
       }
     ],
     "arac": [
+      {
+        "date": "6 Eki",
+        "source": "Simon Willison",
+        "title": "EmbeddingGemma 2",
+        "desc": "<p><a href=\"https://news.ycombinator.com/item?id=49980487#49983751\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49980487\">EmbeddingGemma 2</a> &mdash; Hacker News.</p><p>I really appreciate that <a hr",
+        "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/"
+      },
+      {
+        "date": "6 Eki",
+        "source": "TechCrunch",
+        "title": "Mirror Particle is building a ‘world model’ of human behavior",
+        "desc": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+        "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/"
+      },
+      {
+        "date": "6 Eki",
+        "source": "TechCrunch Apps",
+        "title": "Bluesky wants to give you your own domain on the open web",
+        "desc": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
+        "url": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/"
+      },
+      {
+        "date": "6 Eki",
+        "source": "TechCrunch",
+        "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+        "desc": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a secon",
+        "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/"
+      },
       {
         "date": "6 Eki",
         "source": "MIT Tech Review",
@@ -125,34 +153,6 @@
         "title": "Chunk",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/chunk-2"
-      },
-      {
-        "date": "5 Eki",
-        "source": "Product Hunt",
-        "title": "Scumble",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/scumble"
-      },
-      {
-        "date": "5 Eki",
-        "source": "Product Hunt",
-        "title": "Review",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/review-2"
-      },
-      {
-        "date": "5 Eki",
-        "source": "Product Hunt",
-        "title": "Appto",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/appto"
-      },
-      {
-        "date": "5 Eki",
-        "source": "Product Hunt",
-        "title": "StayCharted",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/staycharted"
       }
     ]
   }
