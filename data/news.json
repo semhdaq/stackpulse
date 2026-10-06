@@ -1,59 +1,80 @@
 {
-  "generated_at": "2026-10-06T03:29:44.688Z",
+  "generated_at": "2026-10-06T12:17:58.002Z",
   "generated_at_tr": "6 Eki 2026",
   "categories": {
     "ai": [
       {
-        "date": "5 Eki",
-        "source": "Simon Willison",
-        "title": "Quoting Felix Rieseberg",
-        "desc": "<blockquote cite=\"https://twitter.com/felixrieseberg/status/2107206431376334975\"><p>The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your compu",
-        "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/"
-      },
-      {
-        "date": "5 Eki",
+        "date": "6 Eki",
         "source": "The Verge",
-        "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-        "desc": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK tear",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"
+        "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+        "desc": "The Amazon Echo Studio is one of the speakers that runs Alexa Plus. | Photo by John Higgins / The Verge\t\n\nAn unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singi",
+        "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end"
       },
       {
-        "date": "5 Eki",
-        "source": "TechCrunch",
-        "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-        "desc": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-        "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+        "date": "6 Eki",
+        "source": "MIT Tech Review",
+        "title": "2026 Climate Tech Companies to Watch",
+        "desc": "",
+        "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/"
       },
       {
-        "date": "5 Eki",
-        "source": "The Verge",
-        "title": "This startup is issuing AI-generated acne prescriptions",
-        "desc": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze a",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
+        "date": "6 Eki",
+        "source": "MIT Tech Review",
+        "title": "Here’s how our climate team picked 10 promising companies to watch",
+        "desc": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling th",
+        "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/"
       },
       {
-        "date": "5 Eki",
-        "source": "TechCrunch",
-        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-        "desc": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflec",
-        "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+        "date": "6 Eki",
+        "source": "MIT Tech Review",
+        "title": "WeLion New Energy and its semi-solid-state batteries",
+        "desc": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and dr",
+        "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/"
       },
       {
-        "date": "5 Eki",
-        "source": "The Verge",
-        "title": "All the drama around AI&#8217;s takeover of mathematics",
-        "desc": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution"
+        "date": "6 Eki",
+        "source": "MIT Tech Review",
+        "title": "Form Energy and its iron batteries",
+        "desc": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce el",
+        "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/"
       },
       {
-        "date": "5 Eki",
-        "source": "The Verge",
-        "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
-        "desc": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" ",
-        "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
+        "date": "6 Eki",
+        "source": "MIT Tech Review",
+        "title": "X-energy and its helium-cooled nuclear reactors",
+        "desc": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and c",
+        "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/"
+      },
+      {
+        "date": "6 Eki",
+        "source": "MIT Tech Review",
+        "title": "BasiGo and its fleet of electric buses",
+        "desc": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions. The company’s pay-as-you-drive business model has helped make EVs mo",
+        "url": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/"
       }
     ],
     "kod": [
+      {
+        "date": "6 Eki",
+        "source": "MIT Tech Review",
+        "title": "Energy Dome and its carbon dioxide batteries",
+        "desc": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up ",
+        "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/"
+      },
+      {
+        "date": "6 Eki",
+        "source": "MIT Tech Review",
+        "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
+        "desc": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same ",
+        "url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/"
+      },
+      {
+        "date": "5 Eki",
+        "source": "Product Hunt",
+        "title": "CodeCrab",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/codecrab"
+      },
       {
         "date": "5 Eki",
         "source": "TechCrunch",
@@ -76,83 +97,62 @@
         "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/"
       },
       {
-        "date": "4 Eki",
-        "source": "Product Hunt",
-        "title": "Web Search API",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/cloudflare"
-      },
-      {
         "date": "3 Eki",
         "source": "Simon Willison",
         "title": "September sponsors-only newsletter",
         "desc": "<p>I just sent the September edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a>. If you are a sponsor (or start a sponsorship now) you can <a href=\"https://github.com/simonw-",
         "url": "https://simonwillison.net/2026/Oct/3/newsletter/"
-      },
-      {
-        "date": "3 Eki",
-        "source": "TechCrunch",
-        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-        "desc": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-        "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
-      },
-      {
-        "date": "3 Eki",
-        "source": "TechCrunch",
-        "title": "Meta wants your next gadget to be Muse-infused",
-        "desc": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-        "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
       }
     ],
     "arac": [
       {
-        "date": "5 Eki",
-        "source": "TechCrunch",
-        "title": "OpenAI launches visual ads that appear alongside image generation results",
-        "desc": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-        "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
-      },
-      {
-        "date": "5 Eki",
-        "source": "The Verge",
-        "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-        "desc": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Int",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool"
+        "date": "6 Eki",
+        "source": "MIT Tech Review",
+        "title": "WaveSave and its portable rubber dam",
+        "desc": "As sea levels rise and flood risks worsen due to global warming, WaveSave’s easy-to-erect portable dam offers a quick-response tool. People can use the dam to protect themselves and their property, and it can also store ",
+        "url": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/"
       },
       {
         "date": "5 Eki",
         "source": "Product Hunt",
-        "title": "HyperFrames Studio (Desktop)",
+        "title": "Extrovert",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/heygen"
+        "url": "https://www.producthunt.com/products/extrovert"
       },
       {
         "date": "5 Eki",
         "source": "Product Hunt",
-        "title": "crosswalk",
+        "title": "Chunk",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/crosswalk"
+        "url": "https://www.producthunt.com/products/chunk-2"
       },
       {
         "date": "5 Eki",
         "source": "Product Hunt",
-        "title": "Jarq",
+        "title": "Scumble",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/jarq"
+        "url": "https://www.producthunt.com/products/scumble"
       },
       {
         "date": "5 Eki",
         "source": "Product Hunt",
-        "title": "Spira Maxima",
+        "title": "Review",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/spira-ai"
+        "url": "https://www.producthunt.com/products/review-2"
       },
       {
         "date": "5 Eki",
         "source": "Product Hunt",
-        "title": "Marv",
+        "title": "Appto",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/marv-3"
+        "url": "https://www.producthunt.com/products/appto"
+      },
+      {
+        "date": "5 Eki",
+        "source": "Product Hunt",
+        "title": "StayCharted",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/staycharted"
       }
     ]
   }
