@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-10-06T21:56:11.411Z",
-  "generated_at_tr": "6 Eki 2026",
+  "generated_at": "2026-10-07T02:54:17.416Z",
+  "generated_at_tr": "7 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "7 Eki",
+        "source": "Simon Willison",
+        "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+        "desc": "<p><strong><a href=\"https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/\">OpenAI “rogue” agent activities found on Wikimedia projects</a></strong></p>\nGiven how tempt",
+        "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/"
+      },
+      {
+        "date": "6 Eki",
+        "source": "Simon Willison",
+        "title": "Quoting Victoria Kim",
+        "desc": "<blockquote cite=\"https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/94c8067e-4098-5c00-9673-c78cb58a9d8a\"><p>Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immedia",
+        "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/"
+      },
+      {
+        "date": "6 Eki",
+        "source": "The Verge",
+        "title": "OpenAI drops another batch of mathematical breakthroughs",
+        "desc": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
+      },
+      {
+        "date": "6 Eki",
+        "source": "Simon Willison",
+        "title": "llm-openai-decisions 0.1a0",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-openai-decisions/releases/tag/0.1a0\">llm-openai-decisions 0.1a0</a></p>\n        <p>OpenAI released their new Jev-style <a href=\"https://developers.opena",
+        "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
+      },
       {
         "date": "6 Eki",
         "source": "Simon Willison",
@@ -23,34 +51,6 @@
         "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
         "desc": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
         "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "TechCrunch",
-        "title": "How AI decision models could change content moderation",
-        "desc": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-        "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "TechCrunch",
-        "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-        "desc": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-        "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "TechCrunch",
-        "title": "The next hurdle for AI agents: getting websites to let them in",
-        "desc": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
-        "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "TechCrunch",
-        "title": "Hark releases an AI personal assistant with a focus on privacy",
-        "desc": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-        "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/"
       }
     ],
     "kod": [
@@ -107,6 +107,13 @@
     "arac": [
       {
         "date": "6 Eki",
+        "source": "TechCrunch",
+        "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+        "desc": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+        "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
+      },
+      {
+        "date": "6 Eki",
         "source": "Simon Willison",
         "title": "EmbeddingGemma 2",
         "desc": "<p><a href=\"https://news.ycombinator.com/item?id=49980487#49983751\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49980487\">EmbeddingGemma 2</a> &mdash; Hacker News.</p><p>I really appreciate that <a hr",
@@ -146,13 +153,6 @@
         "title": "Extrovert",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/extrovert"
-      },
-      {
-        "date": "5 Eki",
-        "source": "Product Hunt",
-        "title": "Chunk",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/chunk-2"
       }
     ]
   }
