@@ -1,59 +1,87 @@
 {
-  "generated_at": "2026-10-07T12:09:08.922Z",
+  "generated_at": "2026-10-07T22:20:19.508Z",
   "generated_at_tr": "7 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "7 Eki",
-        "source": "The Verge",
-        "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-        "desc": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\"\nChatGPT for Teens, introduced i",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
+        "source": "Simon Willison",
+        "title": "Claude Haiku 5.5",
+        "desc": "<p>As previously <a href=\"https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/\">promised</a>, here's Anthropic's new fast, low cost model: <a href=\"https://www.anthropic.com/claude-haiku-5-5\">Introducing Claude Haiku",
+        "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
       },
       {
         "date": "7 Eki",
-        "source": "Product Hunt",
-        "title": "Aura by Neural",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/aura-by-neural"
+        "source": "TechCrunch",
+        "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+        "desc": "The developer of Hermes Agent raised a $90 million Series B.",
+        "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
       },
       {
         "date": "7 Eki",
-        "source": "Simon Willison",
-        "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
-        "desc": "<p><strong><a href=\"https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/\">OpenAI “rogue” agent activities found on Wikimedia projects</a></strong></p>\nGiven how tempt",
-        "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/"
+        "source": "Stack Overflow Blog",
+        "title": "Part 3: Knowing when your agent doesn’t know: the confidence layer",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/10/07/part-3-knowing-when-your-agent-doesn-t-know-the-confidence-layer/"
       },
       {
-        "date": "6 Eki",
-        "source": "Simon Willison",
-        "title": "Quoting Victoria Kim",
-        "desc": "<blockquote cite=\"https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/94c8067e-4098-5c00-9673-c78cb58a9d8a\"><p>Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immedia",
-        "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/"
+        "date": "7 Eki",
+        "source": "TechCrunch",
+        "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+        "desc": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+        "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
       },
       {
-        "date": "6 Eki",
+        "date": "7 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "Part 1: Make your AI agents boring: the determinism layer",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/10/07/part-1-make-your-ai-agents-boring-the-determinism-layer/"
+      },
+      {
+        "date": "7 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "Implementing a Modular Master-Agent Telemetry & Diagnostic Framework in Python: Prime-Sentinel Command (PSC)",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/10/07/implementing-a-modular-master-agent-telemetry-and-diagnostic-framework-in-python-prime-sentinel-command-psc/"
+      },
+      {
+        "date": "7 Eki",
         "source": "The Verge",
-        "title": "OpenAI drops another batch of mathematical breakthroughs",
-        "desc": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
-      },
-      {
-        "date": "6 Eki",
-        "source": "Simon Willison",
-        "title": "llm-openai-decisions 0.1a0",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-openai-decisions/releases/tag/0.1a0\">llm-openai-decisions 0.1a0</a></p>\n        <p>OpenAI released their new Jev-style <a href=\"https://developers.opena",
-        "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "Simon Willison",
-        "title": "llm-mistral 0.16",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-mistral/releases/tag/0.16\">llm-mistral 0.16</a></p>\n        <p>Adds support for reasoning models, such as the newly released <a href=\"https://simonwilli",
-        "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/"
+        "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+        "desc": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the abil",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
       }
     ],
     "kod": [
+      {
+        "date": "7 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "Part 2: Evals as a deployment gate — and how to know when they drift",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/10/07/evals-as-a-deployment-gate-and-how-to-know-when-they-drift/"
+      },
+      {
+        "date": "7 Eki",
+        "source": "GitHub Blog",
+        "title": "Secret protection must scale with software",
+        "desc": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it.\nThe post Secret protection must scale with softw",
+        "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/"
+      },
+      {
+        "date": "7 Eki",
+        "source": "Simon Willison",
+        "title": "Anti-Patterns in Software Blogging",
+        "desc": "<p><strong><a href=\"https://refactoringenglish.com/blog/anti-patterns-software-blogging/#summary\">Anti-Patterns in Software Blogging</a></strong></p>\nSome excellent writing advice from Michael Lynch. Michael warns agains",
+        "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/"
+      },
+      {
+        "date": "7 Eki",
+        "source": "MIT Tech Review",
+        "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular w",
+        "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/"
+      },
       {
         "date": "7 Eki",
         "source": "Simon Willison",
@@ -74,37 +102,37 @@
         "title": "Using Parseable with Datasette for OpenTelemetry traces",
         "desc": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/datasette/datasette-parseable-opentelemetry\">Using Parseable with Datasette for OpenTelemetry traces</a></p>\n        <p>I <a href=\"https://news.ycombinator.",
         "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "Simon Willison",
-        "title": "Mistral Large 4",
-        "desc": "<p><a href=\"https://news.ycombinator.com/item?id=49977979#49982139\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49977979\">Mistral Large 4</a> &mdash; Hacker News.</p><blockquote>\n<p><a href=\"https://n",
-        "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "Simon Willison",
-        "title": "datasette-atom 0.11a0",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-atom/releases/tag/0.11a0\">datasette-atom 0.11a0</a></p>\n        <p>A minor fix for compatibility with the latest Datasette alphas. This meant we c",
-        "url": "https://simonwillison.net/2026/Oct/6/datasette-atom/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "TechCrunch Apps",
-        "title": "India’s JioHotstar takes partnership route for Middle East expansion",
-        "desc": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
-        "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "TechCrunch Apps",
-        "title": "Facebook tests going Reels-first in India",
-        "desc": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
-        "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/"
       }
     ],
     "arac": [
+      {
+        "date": "7 Eki",
+        "source": "The Verge",
+        "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+        "desc": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco.\nThe biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RT",
+        "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced"
+      },
+      {
+        "date": "7 Eki",
+        "source": "TechCrunch Apps",
+        "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
+        "desc": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.",
+        "url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/"
+      },
+      {
+        "date": "7 Eki",
+        "source": "The Verge",
+        "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+        "desc": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices",
+        "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder"
+      },
+      {
+        "date": "7 Eki",
+        "source": "TechCrunch",
+        "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+        "desc": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket b",
+        "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
+      },
       {
         "date": "7 Eki",
         "source": "The Verge",
@@ -116,7 +144,7 @@
         "date": "7 Eki",
         "source": "TechCrunch Apps",
         "title": "Spotify expands audiobooks to over 180 markets",
-        "desc": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+        "desc": "Spotify will make 350,000 titles available in over 120 languages for this expansion.",
         "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/"
       },
       {
@@ -125,34 +153,6 @@
         "title": "Reika",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/reika"
-      },
-      {
-        "date": "6 Eki",
-        "source": "Product Hunt",
-        "title": "Kitbar",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/kitbar"
-      },
-      {
-        "date": "6 Eki",
-        "source": "TechCrunch",
-        "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-        "desc": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-        "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "Product Hunt",
-        "title": "Lofi Desk 2.0",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/lofi-desk-focus-relax-beats"
-      },
-      {
-        "date": "6 Eki",
-        "source": "Product Hunt",
-        "title": "Ownfeed",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/ownfeed"
       }
     ]
   }
