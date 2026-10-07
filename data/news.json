@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-10-07T02:54:17.416Z",
+  "generated_at": "2026-10-07T12:09:08.922Z",
   "generated_at_tr": "7 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "7 Eki",
+        "source": "The Verge",
+        "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+        "desc": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\"\nChatGPT for Teens, introduced i",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
+      },
+      {
+        "date": "7 Eki",
+        "source": "Product Hunt",
+        "title": "Aura by Neural",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/aura-by-neural"
+      },
       {
         "date": "7 Eki",
         "source": "Simon Willison",
@@ -37,23 +51,16 @@
         "title": "llm-mistral 0.16",
         "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-mistral/releases/tag/0.16\">llm-mistral 0.16</a></p>\n        <p>Adds support for reasoning models, such as the newly released <a href=\"https://simonwilli",
         "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "GitHub Blog",
-        "title": "Building Git infrastructure for agent-scale development",
-        "desc": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development.\nThe post Building Git infrastructure for agent-scale development appeared first on The ",
-        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "TechCrunch Apps",
-        "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-        "desc": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
-        "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/"
       }
     ],
     "kod": [
+      {
+        "date": "7 Eki",
+        "source": "Simon Willison",
+        "title": "Quoting Jake Boggan",
+        "desc": "<blockquote cite=\"https://news.ycombinator.com/item?id=49984923#49987367\"><p>I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Ba",
+        "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/"
+      },
       {
         "date": "6 Eki",
         "source": "Simon Willison",
@@ -95,16 +102,37 @@
         "title": "Facebook tests going Reels-first in India",
         "desc": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
         "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "MIT Tech Review",
-        "title": "The Download: 10 climate tech companies to watch",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together ",
-        "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/"
       }
     ],
     "arac": [
+      {
+        "date": "7 Eki",
+        "source": "The Verge",
+        "title": "AI could upend food delivery",
+        "desc": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 30",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites"
+      },
+      {
+        "date": "7 Eki",
+        "source": "TechCrunch Apps",
+        "title": "Spotify expands audiobooks to over 180 markets",
+        "desc": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+        "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/"
+      },
+      {
+        "date": "7 Eki",
+        "source": "Product Hunt",
+        "title": "Reika",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/reika"
+      },
+      {
+        "date": "6 Eki",
+        "source": "Product Hunt",
+        "title": "Kitbar",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/kitbar"
+      },
       {
         "date": "6 Eki",
         "source": "TechCrunch",
@@ -114,45 +142,17 @@
       },
       {
         "date": "6 Eki",
-        "source": "Simon Willison",
-        "title": "EmbeddingGemma 2",
-        "desc": "<p><a href=\"https://news.ycombinator.com/item?id=49980487#49983751\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49980487\">EmbeddingGemma 2</a> &mdash; Hacker News.</p><p>I really appreciate that <a hr",
-        "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "TechCrunch",
-        "title": "Mirror Particle is building a ‘world model’ of human behavior",
-        "desc": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-        "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "TechCrunch Apps",
-        "title": "Bluesky wants to give you your own domain on the open web",
-        "desc": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
-        "url": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "TechCrunch",
-        "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
-        "desc": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a secon",
-        "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "MIT Tech Review",
-        "title": "WaveSave and its portable rubber dam",
-        "desc": "As sea levels rise and flood risks worsen due to global warming, WaveSave’s easy-to-erect portable dam offers a quick-response tool. People can use the dam to protect themselves and their property, and it can also store ",
-        "url": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/"
-      },
-      {
-        "date": "5 Eki",
         "source": "Product Hunt",
-        "title": "Extrovert",
+        "title": "Lofi Desk 2.0",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/extrovert"
+        "url": "https://www.producthunt.com/products/lofi-desk-focus-relax-beats"
+      },
+      {
+        "date": "6 Eki",
+        "source": "Product Hunt",
+        "title": "Ownfeed",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/ownfeed"
       }
     ]
   }
