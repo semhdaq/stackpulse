@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T22:20:19.508Z",
-  "generated_at_tr": "7 Eki 2026",
+  "generated_at": "2026-10-08T03:11:39.990Z",
+  "generated_at_tr": "8 Eki 2026",
   "categories": {
     "ai": [
       {
@@ -56,6 +56,13 @@
     "kod": [
       {
         "date": "7 Eki",
+        "source": "Simon Willison",
+        "title": "Quoting Ben Affleck",
+        "desc": "<blockquote cite=\"https://www.youtube.com/watch?v=HzraLR2VkNM&amp;t=2259s\"><p>I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more inter",
+        "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/"
+      },
+      {
+        "date": "7 Eki",
         "source": "Stack Overflow Blog",
         "title": "Part 2: Evals as a deployment gate — and how to know when they drift",
         "desc": "",
@@ -95,13 +102,6 @@
         "title": "Introducing Mistral Large 4: Le chonk",
         "desc": "<p><strong><a href=\"https://mistral.ai/news/mistral-large-4/\">Introducing Mistral Large 4: Le chonk</a></strong></p>\nMistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parame",
         "url": "https://simonwillison.net/2026/Oct/6/le-chonk/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "Simon Willison",
-        "title": "Using Parseable with Datasette for OpenTelemetry traces",
-        "desc": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/datasette/datasette-parseable-opentelemetry\">Using Parseable with Datasette for OpenTelemetry traces</a></p>\n        <p>I <a href=\"https://news.ycombinator.",
-        "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/"
       }
     ],
     "arac": [
