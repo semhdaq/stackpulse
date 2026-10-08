@@ -1,59 +1,94 @@
 {
-  "generated_at": "2026-10-08T12:19:50.964Z",
+  "generated_at": "2026-10-08T22:32:43.781Z",
   "generated_at_tr": "8 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "8 Eki",
-        "source": "MIT Tech Review",
-        "title": "AI breakthroughs in robotics won’t change your life any time soon",
-        "desc": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped li",
-        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
+        "source": "The Verge",
+        "title": "Anthropic launches free AI security scans for open-source projects",
+        "desc": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our str",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
       },
       {
         "date": "8 Eki",
-        "source": "MIT Tech Review",
-        "title": "Building a safer path to autonomous industrial AI",
-        "desc": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex ",
-        "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
-      },
-      {
-        "date": "8 Eki",
-        "source": "Product Hunt",
-        "title": "Claude for Google Workspace",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/claude-for-google-workspace"
-      },
-      {
-        "date": "7 Eki",
-        "source": "Simon Willison",
-        "title": "Claude Haiku 5.5",
-        "desc": "<p>As previously <a href=\"https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/\">promised</a>, here's Anthropic's new fast, low cost model: <a href=\"https://www.anthropic.com/claude-haiku-5-5\">Introducing Claude Haiku",
-        "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
-      },
-      {
-        "date": "7 Eki",
-        "source": "TechCrunch",
-        "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-        "desc": "The developer of Hermes Agent raised a $90 million Series B.",
-        "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
-      },
-      {
-        "date": "7 Eki",
         "source": "Stack Overflow Blog",
-        "title": "Part 3: Knowing when your agent doesn’t know: the confidence layer",
-        "desc": "",
-        "url": "https://stackoverflow.blog/2026/10/07/part-3-knowing-when-your-agent-doesn-t-know-the-confidence-layer/"
+        "title": "Part 5: Operating an LLM system: observability, cost, routing, and the platform underneath",
+        "desc": "Your service can be 100% up and still quietly approving the wrong things, burning its budget, or failing over into untested quality. Level 5 is the infrastructure that lets you see your decisions, bound your spend, route",
+        "url": "https://stackoverflow.blog/2026/10/08/part-5-operating-an-llm-system-observability-cost-routing-and-the-platform-underneath/"
       },
       {
-        "date": "7 Eki",
+        "date": "8 Eki",
         "source": "TechCrunch",
-        "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-        "desc": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-        "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "desc": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+      },
+      {
+        "date": "8 Eki",
+        "source": "TechCrunch",
+        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+        "desc": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a",
+        "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
+      },
+      {
+        "date": "8 Eki",
+        "source": "TechCrunch",
+        "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+        "desc": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+        "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+      },
+      {
+        "date": "8 Eki",
+        "source": "TechCrunch",
+        "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+        "desc": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+        "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+      },
+      {
+        "date": "8 Eki",
+        "source": "TechCrunch",
+        "title": "Google brings agentic AI to Gemini, starting with businesses",
+        "desc": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identit",
+        "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
       }
     ],
     "kod": [
+      {
+        "date": "8 Eki",
+        "source": "Simon Willison",
+        "title": "Quoting Carson Gross",
+        "desc": "<blockquote cite=\"https://htmx.org/essays/yes-and/\"><p>Computer programming is, fundamentally, about two things:</p>\n<ul>\n<li>Problem-solving using computers</li>\n<li>Learning to control complexity while solving these pr",
+        "url": "https://simonwillison.net/2026/Oct/8/carson-gross/"
+      },
+      {
+        "date": "8 Eki",
+        "source": "TechCrunch",
+        "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+        "desc": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theran",
+        "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
+      },
+      {
+        "date": "8 Eki",
+        "source": "GitHub Blog",
+        "title": "How one bug bounty researcher chooses the features they investigate",
+        "desc": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub.\nThe post How one bug bounty researcher chooses",
+        "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/"
+      },
+      {
+        "date": "8 Eki",
+        "source": "The Verge",
+        "title": "Artificial is a wicked satire that also sticks to the facts",
+        "desc": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing G",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts"
+      },
+      {
+        "date": "8 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "A green exit code is not evidence that the work happened",
+        "desc": "Agents don't build trust for another reason, structurally worse than the first. It isn't only that the tool keeps changing shape. It's that the feedback loop you would need in order to learn the tool is broken at the poi",
+        "url": "https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened/"
+      },
       {
         "date": "7 Eki",
         "source": "Simon Willison",
@@ -67,44 +102,23 @@
         "title": "Part 2: Evals as a deployment gate — and how to know when they drift",
         "desc": "",
         "url": "https://stackoverflow.blog/2026/10/07/evals-as-a-deployment-gate-and-how-to-know-when-they-drift/"
-      },
-      {
-        "date": "7 Eki",
-        "source": "GitHub Blog",
-        "title": "Secret protection must scale with software",
-        "desc": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it.\nThe post Secret protection must scale with softw",
-        "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/"
-      },
-      {
-        "date": "7 Eki",
-        "source": "Simon Willison",
-        "title": "Anti-Patterns in Software Blogging",
-        "desc": "<p><strong><a href=\"https://refactoringenglish.com/blog/anti-patterns-software-blogging/#summary\">Anti-Patterns in Software Blogging</a></strong></p>\nSome excellent writing advice from Michael Lynch. Michael warns agains",
-        "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/"
-      },
-      {
-        "date": "7 Eki",
-        "source": "MIT Tech Review",
-        "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular w",
-        "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/"
-      },
-      {
-        "date": "7 Eki",
-        "source": "Product Hunt",
-        "title": "tide",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tide-simple-self-hostable-video-calls"
-      },
-      {
-        "date": "7 Eki",
-        "source": "Simon Willison",
-        "title": "Quoting Jake Boggan",
-        "desc": "<blockquote cite=\"https://news.ycombinator.com/item?id=49984923#49987367\"><p>I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Ba",
-        "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/"
       }
     ],
     "arac": [
+      {
+        "date": "8 Eki",
+        "source": "The Verge",
+        "title": "California is trying to shut down robot vs. human cage matches",
+        "desc": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times.\nThe fight, which took place on September",
+        "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human"
+      },
+      {
+        "date": "8 Eki",
+        "source": "TechCrunch Apps",
+        "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
+        "desc": "New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children.",
+        "url": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/"
+      },
       {
         "date": "8 Eki",
         "source": "MIT Tech Review",
@@ -139,20 +153,6 @@
         "title": "Strac Comply",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/strac-comply"
-      },
-      {
-        "date": "8 Eki",
-        "source": "Product Hunt",
-        "title": "Semwright",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/semwright"
-      },
-      {
-        "date": "7 Eki",
-        "source": "Product Hunt",
-        "title": "Tractionwave",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tractionwave"
       }
     ]
   }
