@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-08T03:11:39.990Z",
+  "generated_at": "2026-10-08T12:19:50.964Z",
   "generated_at_tr": "8 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "8 Eki",
+        "source": "MIT Tech Review",
+        "title": "AI breakthroughs in robotics won’t change your life any time soon",
+        "desc": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped li",
+        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
+      },
+      {
+        "date": "8 Eki",
+        "source": "MIT Tech Review",
+        "title": "Building a safer path to autonomous industrial AI",
+        "desc": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex ",
+        "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
+      },
+      {
+        "date": "8 Eki",
+        "source": "Product Hunt",
+        "title": "Claude for Google Workspace",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/claude-for-google-workspace"
+      },
       {
         "date": "7 Eki",
         "source": "Simon Willison",
@@ -30,27 +51,6 @@
         "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
         "desc": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
         "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
-      },
-      {
-        "date": "7 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Part 1: Make your AI agents boring: the determinism layer",
-        "desc": "",
-        "url": "https://stackoverflow.blog/2026/10/07/part-1-make-your-ai-agents-boring-the-determinism-layer/"
-      },
-      {
-        "date": "7 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Implementing a Modular Master-Agent Telemetry & Diagnostic Framework in Python: Prime-Sentinel Command (PSC)",
-        "desc": "",
-        "url": "https://stackoverflow.blog/2026/10/07/implementing-a-modular-master-agent-telemetry-and-diagnostic-framework-in-python-prime-sentinel-command-psc/"
-      },
-      {
-        "date": "7 Eki",
-        "source": "The Verge",
-        "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
-        "desc": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the abil",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
       }
     ],
     "kod": [
@@ -91,68 +91,68 @@
       },
       {
         "date": "7 Eki",
+        "source": "Product Hunt",
+        "title": "tide",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/tide-simple-self-hostable-video-calls"
+      },
+      {
+        "date": "7 Eki",
         "source": "Simon Willison",
         "title": "Quoting Jake Boggan",
         "desc": "<blockquote cite=\"https://news.ycombinator.com/item?id=49984923#49987367\"><p>I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Ba",
         "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/"
-      },
-      {
-        "date": "6 Eki",
-        "source": "Simon Willison",
-        "title": "Introducing Mistral Large 4: Le chonk",
-        "desc": "<p><strong><a href=\"https://mistral.ai/news/mistral-large-4/\">Introducing Mistral Large 4: Le chonk</a></strong></p>\nMistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parame",
-        "url": "https://simonwillison.net/2026/Oct/6/le-chonk/"
       }
     ],
     "arac": [
       {
-        "date": "7 Eki",
-        "source": "The Verge",
-        "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
-        "desc": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco.\nThe biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RT",
-        "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced"
+        "date": "8 Eki",
+        "source": "MIT Tech Review",
+        "title": "Why we’re watching these climate tech companies",
+        "desc": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting a",
+        "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/"
       },
       {
-        "date": "7 Eki",
-        "source": "TechCrunch Apps",
-        "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
-        "desc": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.",
-        "url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/"
+        "date": "8 Eki",
+        "source": "Product Hunt",
+        "title": "ClawCall",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/clawcall"
       },
       {
-        "date": "7 Eki",
-        "source": "The Verge",
-        "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-        "desc": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices",
-        "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder"
+        "date": "8 Eki",
+        "source": "Product Hunt",
+        "title": "Tonefold",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/tonefold"
       },
       {
-        "date": "7 Eki",
-        "source": "TechCrunch",
-        "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-        "desc": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket b",
-        "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
+        "date": "8 Eki",
+        "source": "Product Hunt",
+        "title": "pmtui",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/pmtui"
       },
       {
-        "date": "7 Eki",
-        "source": "The Verge",
-        "title": "AI could upend food delivery",
-        "desc": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 30",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites"
+        "date": "8 Eki",
+        "source": "Product Hunt",
+        "title": "Strac Comply",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/strac-comply"
       },
       {
-        "date": "7 Eki",
-        "source": "TechCrunch Apps",
-        "title": "Spotify expands audiobooks to over 180 markets",
-        "desc": "Spotify will make 350,000 titles available in over 120 languages for this expansion.",
-        "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/"
+        "date": "8 Eki",
+        "source": "Product Hunt",
+        "title": "Semwright",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/semwright"
       },
       {
         "date": "7 Eki",
         "source": "Product Hunt",
-        "title": "Reika",
+        "title": "Tractionwave",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/reika"
+        "url": "https://www.producthunt.com/products/tractionwave"
       }
     ]
   }
