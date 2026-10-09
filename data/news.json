@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-10-09T03:17:43.641Z",
+  "generated_at": "2026-10-09T12:10:18.939Z",
   "generated_at_tr": "9 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "9 Eki",
+        "source": "The Verge",
+        "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+        "desc": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\"\nIn a post on X on Friday, the company said Jasmine Wang, Tomek Korbak ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+      },
+      {
+        "date": "9 Eki",
+        "source": "MIT Tech Review",
+        "title": "We’re putting too much faith in AI’s ability to say no",
+        "desc": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of rob",
+        "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
+      },
+      {
+        "date": "9 Eki",
+        "source": "MIT Tech Review",
+        "title": "Job titles of the future: Delivery drone air traffic controller",
+        "desc": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wi",
+        "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/"
+      },
+      {
+        "date": "9 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "Taking a look under your agent’s hood",
+        "desc": "Ryan is joined by Yanbing Li, Chief Product Officer at Datadog, to talk about applying observability to non-deterministic AI agents, blurring the boundaries between software development and production workflows, and navi",
+        "url": "https://stackoverflow.blog/2026/10/09/taking-a-look-under-your-agent-s-hood/"
+      },
       {
         "date": "9 Eki",
         "source": "MIT Tech Review",
@@ -20,40 +48,26 @@
       {
         "date": "8 Eki",
         "source": "Stack Overflow Blog",
-        "title": "Part 5: Operating an LLM system: observability, cost, routing, and the platform underneath",
-        "desc": "Your service can be 100% up and still quietly approving the wrong things, burning its budget, or failing over into untested quality. Level 5 is the infrastructure that lets you see your decisions, bound your spend, route",
-        "url": "https://stackoverflow.blog/2026/10/08/part-5-operating-an-llm-system-observability-cost-routing-and-the-platform-underneath/"
-      },
-      {
-        "date": "8 Eki",
-        "source": "TechCrunch",
-        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-        "desc": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
-      },
-      {
-        "date": "8 Eki",
-        "source": "TechCrunch",
-        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-        "desc": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a",
-        "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
-      },
-      {
-        "date": "8 Eki",
-        "source": "TechCrunch",
-        "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-        "desc": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-        "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
-      },
-      {
-        "date": "8 Eki",
-        "source": "TechCrunch",
-        "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-        "desc": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-        "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+        "title": "Production-grade LLMs and agents: a field guide",
+        "desc": "A maturity model for taking agents from an impressive demo to a system people can depend on — with a self-assessment and the map to a deep-dive on each layer.",
+        "url": "https://stackoverflow.blog/2026/10/08/production-grade-llms-and-agents-a-field-guide/"
       }
     ],
     "kod": [
+      {
+        "date": "9 Eki",
+        "source": "MIT Tech Review",
+        "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+        "desc": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological",
+        "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/"
+      },
+      {
+        "date": "9 Eki",
+        "source": "Simon Willison",
+        "title": "ttok 1.0",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/ttok/releases/tag/1.0\">ttok 1.0</a></p>\n        <p>I released <a href=\"https://simonwillison.net/2026/Oct/8/ttok/\">ttok 0.4</a>, ran <code>uv tool upgrade t",
+        "url": "https://simonwillison.net/2026/Oct/9/ttok/"
+      },
       {
         "date": "8 Eki",
         "source": "Simon Willison",
@@ -88,71 +102,57 @@
         "title": "Artificial is a wicked satire that also sticks to the facts",
         "desc": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing G",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts"
-      },
-      {
-        "date": "8 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "A green exit code is not evidence that the work happened",
-        "desc": "Agents don't build trust for another reason, structurally worse than the first. It isn't only that the tool keeps changing shape. It's that the feedback loop you would need in order to learn the tool is broken at the poi",
-        "url": "https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened/"
-      },
-      {
-        "date": "7 Eki",
-        "source": "Simon Willison",
-        "title": "Quoting Ben Affleck",
-        "desc": "<blockquote cite=\"https://www.youtube.com/watch?v=HzraLR2VkNM&amp;t=2259s\"><p>I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more inter",
-        "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/"
       }
     ],
     "arac": [
       {
-        "date": "8 Eki",
-        "source": "The Verge",
-        "title": "California is trying to shut down robot vs. human cage matches",
-        "desc": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times.\nThe fight, which took place on September",
-        "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human"
+        "date": "9 Eki",
+        "source": "Product Hunt",
+        "title": "Request Eagle",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/request-eagle"
       },
       {
-        "date": "8 Eki",
-        "source": "TechCrunch Apps",
-        "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
-        "desc": "New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children.",
-        "url": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/"
+        "date": "9 Eki",
+        "source": "Product Hunt",
+        "title": "OpenPilot",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/openpilot"
       },
       {
-        "date": "8 Eki",
-        "source": "MIT Tech Review",
-        "title": "Why we’re watching these climate tech companies",
-        "desc": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting a",
-        "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/"
+        "date": "9 Eki",
+        "source": "Product Hunt",
+        "title": "Porch",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/porch-6"
+      },
+      {
+        "date": "9 Eki",
+        "source": "Product Hunt",
+        "title": "iwant",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/iwant"
+      },
+      {
+        "date": "9 Eki",
+        "source": "Product Hunt",
+        "title": "Assist",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/assist-5"
+      },
+      {
+        "date": "9 Eki",
+        "source": "Product Hunt",
+        "title": "Rune",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/rune"
       },
       {
         "date": "8 Eki",
         "source": "Product Hunt",
-        "title": "ClawCall",
+        "title": "Sorted",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/clawcall"
-      },
-      {
-        "date": "8 Eki",
-        "source": "Product Hunt",
-        "title": "Tonefold",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tonefold"
-      },
-      {
-        "date": "8 Eki",
-        "source": "Product Hunt",
-        "title": "pmtui",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/pmtui"
-      },
-      {
-        "date": "8 Eki",
-        "source": "Product Hunt",
-        "title": "Strac Comply",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/strac-comply"
+        "url": "https://www.producthunt.com/products/sorted-6"
       }
     ]
   }
