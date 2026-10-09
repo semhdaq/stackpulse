@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-10-08T22:32:43.781Z",
-  "generated_at_tr": "8 Eki 2026",
+  "generated_at": "2026-10-09T03:17:43.641Z",
+  "generated_at_tr": "9 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "9 Eki",
+        "source": "MIT Tech Review",
+        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "desc": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscop",
+        "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+      },
       {
         "date": "8 Eki",
         "source": "The Verge",
@@ -44,16 +51,16 @@
         "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
         "desc": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
         "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
-      },
-      {
-        "date": "8 Eki",
-        "source": "TechCrunch",
-        "title": "Google brings agentic AI to Gemini, starting with businesses",
-        "desc": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identit",
-        "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
       }
     ],
     "kod": [
+      {
+        "date": "8 Eki",
+        "source": "Simon Willison",
+        "title": "ttok 0.4",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/ttok/releases/tag/0.4\">ttok 0.4</a></p>\n        <p><code>ttok</code> is my CLI tool for counting tokens, using OpenAI's open source <a href=\"https://github.",
+        "url": "https://simonwillison.net/2026/Oct/8/ttok/"
+      },
       {
         "date": "8 Eki",
         "source": "Simon Willison",
@@ -95,13 +102,6 @@
         "title": "Quoting Ben Affleck",
         "desc": "<blockquote cite=\"https://www.youtube.com/watch?v=HzraLR2VkNM&amp;t=2259s\"><p>I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more inter",
         "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/"
-      },
-      {
-        "date": "7 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Part 2: Evals as a deployment gate — and how to know when they drift",
-        "desc": "",
-        "url": "https://stackoverflow.blog/2026/10/07/evals-as-a-deployment-gate-and-how-to-know-when-they-drift/"
       }
     ],
     "arac": [
