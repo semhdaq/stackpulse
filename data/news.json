@@ -1,59 +1,73 @@
 {
-  "generated_at": "2026-10-09T12:10:18.939Z",
+  "generated_at": "2026-10-09T21:55:23.655Z",
   "generated_at_tr": "9 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "9 Eki",
+        "source": "TechCrunch",
+        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "desc": "TypeSafe AI raised $870 million in a round led by a16Z.",
+        "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+      },
+      {
+        "date": "9 Eki",
         "source": "The Verge",
-        "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-        "desc": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\"\nIn a post on X on Friday, the company said Jasmine Wang, Tomek Korbak ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "desc": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
       },
       {
         "date": "9 Eki",
-        "source": "MIT Tech Review",
-        "title": "We’re putting too much faith in AI’s ability to say no",
-        "desc": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of rob",
-        "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
+        "source": "TechCrunch",
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "desc": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
       },
       {
         "date": "9 Eki",
-        "source": "MIT Tech Review",
-        "title": "Job titles of the future: Delivery drone air traffic controller",
-        "desc": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wi",
-        "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/"
-      },
-      {
-        "date": "9 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Taking a look under your agent’s hood",
-        "desc": "Ryan is joined by Yanbing Li, Chief Product Officer at Datadog, to talk about applying observability to non-deterministic AI agents, blurring the boundaries between software development and production workflows, and navi",
-        "url": "https://stackoverflow.blog/2026/10/09/taking-a-look-under-your-agent-s-hood/"
-      },
-      {
-        "date": "9 Eki",
-        "source": "MIT Tech Review",
-        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-        "desc": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscop",
-        "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
-      },
-      {
-        "date": "8 Eki",
         "source": "The Verge",
-        "title": "Anthropic launches free AI security scans for open-source projects",
-        "desc": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our str",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
+        "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+        "desc": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" \nThose were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense o",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
       },
       {
-        "date": "8 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Production-grade LLMs and agents: a field guide",
-        "desc": "A maturity model for taking agents from an impressive demo to a system people can depend on — with a self-assessment and the map to a deep-dive on each layer.",
-        "url": "https://stackoverflow.blog/2026/10/08/production-grade-llms-and-agents-a-field-guide/"
+        "date": "9 Eki",
+        "source": "The Verge",
+        "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+        "desc": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu\t\n\nNikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regar",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai"
+      },
+      {
+        "date": "9 Eki",
+        "source": "TechCrunch",
+        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+        "desc": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, w",
+        "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
+      },
+      {
+        "date": "9 Eki",
+        "source": "TechCrunch",
+        "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+        "desc": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, w",
+        "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/"
       }
     ],
     "kod": [
+      {
+        "date": "9 Eki",
+        "source": "Simon Willison",
+        "title": "Quoting Matthew Green",
+        "desc": "<blockquote cite=\"https://twitter.com/matthew_d_green/status/2108552414978564418\"><p>Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there ",
+        "url": "https://simonwillison.net/2026/Oct/9/matthew-green/"
+      },
+      {
+        "date": "9 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "A Treatise on Model Oriented Programming Languages",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/10/09/a-treatise-on-model-oriented-programming-languages/"
+      },
       {
         "date": "9 Eki",
         "source": "MIT Tech Review",
@@ -88,23 +102,23 @@
         "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
         "desc": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theran",
         "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
-      },
-      {
-        "date": "8 Eki",
-        "source": "GitHub Blog",
-        "title": "How one bug bounty researcher chooses the features they investigate",
-        "desc": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub.\nThe post How one bug bounty researcher chooses",
-        "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/"
-      },
-      {
-        "date": "8 Eki",
-        "source": "The Verge",
-        "title": "Artificial is a wicked satire that also sticks to the facts",
-        "desc": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing G",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts"
       }
     ],
     "arac": [
+      {
+        "date": "9 Eki",
+        "source": "GitHub Blog",
+        "title": "Hack the World: Why hackathons are still the best place to learn to build",
+        "desc": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning.\nThe post Hack the World: Why hackathons are still the best place to learn to build appeared first",
+        "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/"
+      },
+      {
+        "date": "9 Eki",
+        "source": "Simon Willison",
+        "title": "A new feature for my blog, built using my voice",
+        "desc": "<p>I shipped a new feature for my blog today: the <a href=\"https://simonwillison.net/newsletters/\">Newsletters</a> page, which offers an index of all of the newsletters I've sent out, both my free <a href=\"https://simonw",
+        "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
+      },
       {
         "date": "9 Eki",
         "source": "Product Hunt",
@@ -139,20 +153,6 @@
         "title": "Assist",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/assist-5"
-      },
-      {
-        "date": "9 Eki",
-        "source": "Product Hunt",
-        "title": "Rune",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/rune"
-      },
-      {
-        "date": "8 Eki",
-        "source": "Product Hunt",
-        "title": "Sorted",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/sorted-6"
       }
     ]
   }
