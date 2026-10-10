@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-10-09T21:55:23.655Z",
-  "generated_at_tr": "9 Eki 2026",
+  "generated_at": "2026-10-10T02:57:26.199Z",
+  "generated_at_tr": "10 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "10 Eki",
+        "source": "Simon Willison",
+        "title": "Quoting The New York Times",
+        "desc": "<blockquote cite=\"https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html\"><p>Anthropic detailed the activity of its A.I. agents in <a href=\"https://www.anthropic.com/research/investigating-unintende",
+        "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/"
+      },
+      {
+        "date": "10 Eki",
+        "source": "TechCrunch",
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "desc": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+      },
       {
         "date": "9 Eki",
         "source": "TechCrunch",
         "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-        "desc": "TypeSafe AI raised $870 million in a round led by a16Z.",
+        "desc": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
         "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
       },
       {
@@ -37,23 +51,16 @@
         "title": "Nikon microscopic video competition winner disqualified for using generative AI",
         "desc": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu\t\n\nNikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regar",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai"
-      },
-      {
-        "date": "9 Eki",
-        "source": "TechCrunch",
-        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-        "desc": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, w",
-        "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
-      },
-      {
-        "date": "9 Eki",
-        "source": "TechCrunch",
-        "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-        "desc": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, w",
-        "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/"
       }
     ],
     "kod": [
+      {
+        "date": "9 Eki",
+        "source": "Simon Willison",
+        "title": "Deno is joining Cloudflare",
+        "desc": "<p><strong><a href=\"https://deno.com/blog/cloudflare\">Deno is joining Cloudflare</a></strong></p>\nThe Deno team released the first version of <a href=\"https://github.com/denoland/celld\">celld</a> back in August - their o",
+        "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"
+      },
       {
         "date": "9 Eki",
         "source": "Simon Willison",
@@ -95,13 +102,6 @@
         "title": "Quoting Carson Gross",
         "desc": "<blockquote cite=\"https://htmx.org/essays/yes-and/\"><p>Computer programming is, fundamentally, about two things:</p>\n<ul>\n<li>Problem-solving using computers</li>\n<li>Learning to control complexity while solving these pr",
         "url": "https://simonwillison.net/2026/Oct/8/carson-gross/"
-      },
-      {
-        "date": "8 Eki",
-        "source": "TechCrunch",
-        "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-        "desc": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theran",
-        "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
       }
     ],
     "arac": [
