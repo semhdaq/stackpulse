@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-10T11:27:38.003Z",
+  "generated_at": "2026-10-10T16:26:58.336Z",
   "generated_at_tr": "10 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "10 Eki",
+        "source": "The Verge",
+        "title": "Anthropic is cutting off its internal evaluations from the internet",
+        "desc": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model act",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+      },
+      {
+        "date": "10 Eki",
+        "source": "TechCrunch",
+        "title": "Here are the top AI agents that can live in your text messages",
+        "desc": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+      },
+      {
+        "date": "10 Eki",
+        "source": "The Verge",
+        "title": "AI agent makers are promising privacy — will they deliver?",
+        "desc": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veil",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+      },
       {
         "date": "10 Eki",
         "source": "Simon Willison",
@@ -30,27 +51,6 @@
         "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
         "desc": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
         "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
-      },
-      {
-        "date": "9 Eki",
-        "source": "The Verge",
-        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-        "desc": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
-      },
-      {
-        "date": "9 Eki",
-        "source": "TechCrunch",
-        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-        "desc": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
-      },
-      {
-        "date": "9 Eki",
-        "source": "The Verge",
-        "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-        "desc": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" \nThose were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense o",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
       }
     ],
     "kod": [
@@ -107,6 +107,13 @@
     "arac": [
       {
         "date": "10 Eki",
+        "source": "TechCrunch",
+        "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+        "desc": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register be",
+        "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/"
+      },
+      {
+        "date": "10 Eki",
         "source": "Product Hunt",
         "title": "Lune",
         "desc": "Discussion\n            |\n            Link",
@@ -146,13 +153,6 @@
         "title": "Microsoft-Decision-1",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/microsoft-decision-1"
-      },
-      {
-        "date": "9 Eki",
-        "source": "Product Hunt",
-        "title": "ej",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/ej-jev-but-for-edge-devices"
       }
     ]
   }
