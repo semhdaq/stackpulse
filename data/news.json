@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T02:57:26.199Z",
+  "generated_at": "2026-10-10T11:27:38.003Z",
   "generated_at_tr": "10 Eki 2026",
   "categories": {
     "ai": [
@@ -16,6 +16,13 @@
         "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
         "desc": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
         "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+      },
+      {
+        "date": "9 Eki",
+        "source": "Product Hunt",
+        "title": "AgentDock",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/agentdock"
       },
       {
         "date": "9 Eki",
@@ -44,13 +51,6 @@
         "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
         "desc": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" \nThose were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense o",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
-      },
-      {
-        "date": "9 Eki",
-        "source": "The Verge",
-        "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-        "desc": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu\t\n\nNikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regar",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai"
       }
     ],
     "kod": [
@@ -106,53 +106,53 @@
     ],
     "arac": [
       {
-        "date": "9 Eki",
-        "source": "GitHub Blog",
-        "title": "Hack the World: Why hackathons are still the best place to learn to build",
-        "desc": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning.\nThe post Hack the World: Why hackathons are still the best place to learn to build appeared first",
-        "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/"
+        "date": "10 Eki",
+        "source": "Product Hunt",
+        "title": "Lune",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/lune-research"
       },
       {
-        "date": "9 Eki",
-        "source": "Simon Willison",
-        "title": "A new feature for my blog, built using my voice",
-        "desc": "<p>I shipped a new feature for my blog today: the <a href=\"https://simonwillison.net/newsletters/\">Newsletters</a> page, which offers an index of all of the newsletters I've sent out, both my free <a href=\"https://simonw",
-        "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
+        "date": "10 Eki",
+        "source": "Product Hunt",
+        "title": "Maildun for Mac",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/maildun-for-mac"
       },
       {
         "date": "9 Eki",
         "source": "Product Hunt",
-        "title": "Request Eagle",
+        "title": "PixRater",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/request-eagle"
+        "url": "https://www.producthunt.com/products/pixrater"
       },
       {
         "date": "9 Eki",
         "source": "Product Hunt",
-        "title": "OpenPilot",
+        "title": "put·here",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/openpilot"
+        "url": "https://www.producthunt.com/products/put-here"
       },
       {
         "date": "9 Eki",
         "source": "Product Hunt",
-        "title": "Porch",
+        "title": "Letra",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/porch-6"
+        "url": "https://www.producthunt.com/products/letra-3"
       },
       {
         "date": "9 Eki",
         "source": "Product Hunt",
-        "title": "iwant",
+        "title": "Microsoft-Decision-1",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/iwant"
+        "url": "https://www.producthunt.com/products/microsoft-decision-1"
       },
       {
         "date": "9 Eki",
         "source": "Product Hunt",
-        "title": "Assist",
+        "title": "ej",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/assist-5"
+        "url": "https://www.producthunt.com/products/ej-jev-but-for-edge-devices"
       }
     ]
   }
